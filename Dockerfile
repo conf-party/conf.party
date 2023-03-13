@@ -6,4 +6,4 @@ ADD . .
 
 RUN cd src && go run main.go && mkdir -p /out
 
-CMD cp -r /app/docs/* /out/
+CMD cp -r /app/out/* /out/

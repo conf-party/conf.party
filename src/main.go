@@ -63,7 +63,7 @@ func main() {
 	}
 
 	for _, conf := range confs {
-		outFile, err := os.Create(path.Join("../docs", conf.Filename))
+		outFile, err := os.Create(path.Join("../out", conf.Filename))
 		if err != nil {
 			log.Println("create file: ", err)
 			return
@@ -74,7 +74,7 @@ func main() {
 		}
 	}
 
-	outFile, err := os.Create(path.Join("../docs", "index.html"))
+	outFile, err := os.Create(path.Join("../out", "index.html"))
 	if err != nil {
 		log.Println("create file: ", err)
 		return
