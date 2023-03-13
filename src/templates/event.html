@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Confs.Party</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <style>
+    header {
+      margin: 20px 0;
+    }
+    header a {
+      font-size: 2em;
+    }
+    header img {
+      display: inline;
+      height: 50px;
+      border-radius:200px;
+      vertical-align: text-bottom;
+      margin-right:-5px;
+      margin-left:-5px;
+    }
+
+    h1, h3 {
+      margin-bottom: 0;
+    }
+
+    .date {
+      display: inline-block;
+      border: 1px solid black;
+      border-radius: 4px;
+      padding: 2px 6px;
+    }
+
+    .description {
+      padding: 8px 0;
+      font-size: 1.1em;
+    }
+
+    blockquote {
+      border-left: 8px solid rgb(179, 179, 179);
+      margin-left: 0;
+      padding: 4px 0 4px 20px;
+    }
+
+    .party {
+      border-bottom: 2px dashed #c8c6c6;
+      margin-bottom: 10px;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a href="/">
+        ⬅
+        <img src="/img/logo.jpg" />
+        Conf.Party
+      </a>
+    </header>
+
+    <main>
+      <h1>{{.Name}}</h1>
+      <div class="date">🗓 {{ .PrettyDate }}</div>
+      <div>
+        <strong>Website:</strong> <a href="{{.Website}}">{{.Website}}</a>
+      </div>
+      <div>
+        <strong>Location:</strong> {{.Location}}
+        <iframe src="https://maps.google.com/maps?q={{ .Location }}&z=10&output=embed" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+      <div>
+        <h2>Parties</h2>
+        {{range .Parties}}
+        <div class="party">
+          <h3><a href="{{.Website}}">{{.Name}}</a></h3>
+          <div class="date">🗓 {{.PrettyDate}}</div>
+          <div>
+            <strong>Location:</strong> <a href="https://maps.google.com/maps?q={{.Location}}" target="_blank">{{.Location}}</a></div>
+          <p class="description">
+            {{.Description}}
+          </p>
+          {{if .Notes}}
+          <blockquote>
+            ℹ️ {{.Notes}}
+          </blockquote>
+          {{ end }}
+        </div>
+        {{end}}
+      </div>
+    </main>
+  </div>
+</body>
+</html>
