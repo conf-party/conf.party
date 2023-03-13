@@ -1,49 +1,63 @@
 package main
 
 import (
+	"flag"
+	"fmt"
 	"html/template"
 	"io/ioutil"
 	"log"
 	"os"
+	"os/exec"
 	"path"
 	"strings"
-	"time"
 
 	"gopkg.in/yaml.v3"
 )
 
-type Conference struct {
-	Filename string
-	Name     string
-	Date     string
-	Website  string
-	Location string
-	Parties  []Party
-}
+var (
+	rootDir string
+	outDir  string
+	action  string = "build"
+)
 
-type Party struct {
-	Name        string
-	Date        string
-	Website     string
-	Location    string
-	Description string
-	Notes       string
+func init() {
+	defaultDir, _ := os.Getwd()
+
+	flag.StringVar(&rootDir, "rootdir", defaultDir, "")
+	flag.StringVar(&outDir, "out", "/out", "")
+	flag.Parse()
+
+	args := os.Args[1:]
+	if len(args) > 0 {
+		action = args[0]
+	}
 }
 
 func main() {
-	srcManifests, err := ioutil.ReadDir("../conferences")
+	switch action {
+	case "build":
+		build()
+	case "verify":
+		verify()
+	default:
+		build()
+	}
+}
+
+func build() {
+	srcManifests, err := ioutil.ReadDir(path.Join(rootDir, "conferences"))
 	if err != nil {
 		panic(err)
 	}
 
-	indexTmpl := template.Must(template.ParseFiles("./templates/index.html"))
-	eventTmpl := template.Must(template.ParseFiles("./templates/event.html"))
+	indexTmpl := template.Must(template.ParseFiles(path.Join(rootDir, "./src/templates/index.html")))
+	eventTmpl := template.Must(template.ParseFiles(path.Join(rootDir, "./src/templates/event.html")))
 
 	confs := []Conference{}
 
 	for _, file := range srcManifests {
 		if !file.IsDir() {
-			data, err := ioutil.ReadFile(path.Join("../conferences", file.Name()))
+			data, err := ioutil.ReadFile(path.Join(rootDir, "conferences", file.Name()))
 			if err != nil {
 				log.Println(err)
 				return
@@ -63,7 +77,7 @@ func main() {
 	}
 
 	for _, conf := range confs {
-		outFile, err := os.Create(path.Join("../out", conf.Filename))
+		outFile, err := os.Create(path.Join(rootDir, "out", conf.Filename))
 		if err != nil {
 			log.Println("create file: ", err)
 			return
@@ -74,7 +88,7 @@ func main() {
 		}
 	}
 
-	outFile, err := os.Create(path.Join("../out", "index.html"))
+	outFile, err := os.Create(path.Join(rootDir, "out", "index.html"))
 	if err != nil {
 		log.Println("create file: ", err)
 		return
@@ -83,16 +97,15 @@ func main() {
 	if err := indexTmpl.Execute(outFile, confs); err != nil {
 		log.Println("template event: ", err)
 	}
+
+	cp := exec.Command("cp", "-r", path.Join(rootDir, "out"), outDir)
+	err = cp.Run()
+	if err != nil {
+		panic(err)
+	}
 }
 
-const dateLayout = "2006-01-02"
-
-func (c Conference) PrettyDate() string {
-	t, _ := time.Parse(dateLayout, c.Date)
-	return t.Format("Monday, 2 January")
-}
-
-func (p Party) PrettyDate() string {
-	t, _ := time.Parse(dateLayout, p.Date)
-	return t.Format("Monday, 2 January")
+func verify() {
+	// TODO: implement yaml verify
+	fmt.Println("Coming soon...")
 }

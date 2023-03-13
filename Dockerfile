@@ -4,6 +4,7 @@ WORKDIR /app
 
 ADD . .
 
-RUN cd src && go run main.go && mkdir -p /out
+RUN cd src && go build -o /app/confparty .
 
-CMD cp -r /app/out/* /out/
+ENTRYPOINT [ "/app/confparty" ]
+CMD /app/confparty --out /out
