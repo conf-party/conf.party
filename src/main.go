@@ -98,7 +98,10 @@ func build() {
 		log.Println("template event: ", err)
 	}
 
-	cp := exec.Command("cp", "-r", path.Join(rootDir, "out"), outDir)
+	// Copy files
+	path.Join(rootDir, "out")
+
+	cp := exec.Command("sh", "-c", fmt.Sprintf("cp -r %s/* %s", path.Join(rootDir, "out"), outDir))
 	err = cp.Run()
 	if err != nil {
 		panic(err)

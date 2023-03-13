@@ -25,14 +25,14 @@ jobs:
       - name: Build docker images
         run: docker build -t builder .
       - name: Build site
-        run: docker run -v $PWD/out:/out builder
+        run: docker run -v $PWD/gh-pages:/out builder
 
       - name: Setup Pages
         uses: actions/configure-pages@v1
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: './out'
+          path: './gh-pages'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@main
