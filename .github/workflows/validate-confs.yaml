@@ -1,0 +1,21 @@
+name: Validate Conferences
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Build docker images
+        run: docker build -t builder .
+      - name: Validate
+        run: docker run builder verify

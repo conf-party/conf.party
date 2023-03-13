@@ -106,6 +106,29 @@ func build() {
 }
 
 func verify() {
-	// TODO: implement yaml verify
-	fmt.Println("Coming soon...")
+	srcManifests, err := ioutil.ReadDir(path.Join(rootDir, "conferences"))
+	if err != nil {
+		panic(err)
+	}
+	for _, file := range srcManifests {
+		if !file.IsDir() {
+			data, err := ioutil.ReadFile(path.Join(rootDir, "conferences", file.Name()))
+			if err != nil {
+				panic(err)
+			}
+
+			fmt.Printf("Validating %s\n", file.Name())
+
+			var conf Conference
+			err = yaml.Unmarshal(data, &conf)
+			if err != nil {
+				panic(err)
+			}
+
+			if err := conf.Validate(); err != nil {
+				panic(err)
+			}
+		}
+	}
+
 }
