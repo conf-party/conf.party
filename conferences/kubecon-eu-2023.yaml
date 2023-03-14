@@ -65,3 +65,13 @@ parties:
     KubeCon is coming to beautiful Amsterdam and to celebrate the occasion, we are hosting a Karaoke party on Wednesday April 19, 9pm - 1am at Amsterdam’s premier Karaoke bar, KTV Bar.
   notes: |
     The venue is small and there will be limited seating, so don’t show up late, or you might not be able to get in!
+- name: Devoteam's Kubecon Afterparty
+  date: 2023-04-19
+  website: https://gcloudpage.devoteam.com/events/kubecon-2023-afterparty
+  location: Strand-Zuid - Zuidpool, Amsterdam
+  description: |
+    Join us for drinks & snacks at Devoteam's  KubeCon Afterparty in Amsterdam!
+
+    KubeCon is the yearly not-to-miss event around all things Kubernetes. This year the flagship event takes place in Amsterdam, the Netherlands. It gathers adopters and technologists from leading open-source and cloud-native communities from around the world.
+  notes: |
+    Requires registering online
