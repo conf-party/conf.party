@@ -32,6 +32,18 @@ parties:
     Begin your week at KubeCon Europe at the legendary Hive Mind Mingle in the company of great minds in the cloud native infrastructure space.
   notes: |
     Requires registering online
+- name: Policies for the People: an OPA Amsterdam Meetup
+  date: 2023-04-18
+  website: https://allevents.in/amsterdam/policies-for-the-people-an-opa-amsterdam-meetup/80003076552781
+  location: Miro, Stadhouderskade 5, 1054 ES Amsterdam, Netherlands, Amsterdam, Netherlands
+  description: |
+    Kick off KubeCon + CloudNativeCon Europe 2023 week with the OPA community. Whether you’re attending the co-located events or looking to beat the jet lag Policies for the People is the place for you!
+
+    We invite Amsterdam locals and conference attendees visiting the city to join the OPA community on April 18th for project updates end user talks drinks bites and networking.
+
+    This event is for OPA enthusiasts to stay up to date on the latest trends and for new policy people to get introduced to the community. This is your chance to dive into Policy-as-Code!
+  notes: |
+    Requires (free) ticket
 - name: KubeCrawl + CloudNativeFest sponsored by Gitpod
   date: 2023-04-19
   website: https://kccnceu2023.sched.com/event/1IEtY/kubecrawl-cloudnativefest-sponsored-by-gitpod?iframe=no&w=&sidebar=yes&bg=no
