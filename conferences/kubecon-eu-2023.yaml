@@ -75,3 +75,13 @@ parties:
     KubeCon is the yearly not-to-miss event around all things Kubernetes. This year the flagship event takes place in Amsterdam, the Netherlands. It gathers adopters and technologists from leading open-source and cloud-native communities from around the world.
   notes: |
     Requires registering online
+- name: THE KUBERBOWL
+  date: 2023-04-20
+  website: https://lu.ma/kuberbowl-EU-2023
+  location: Knijn Bowling & Restaurant, Scheldeplein 3, 1078 GR Amsterdam, Netherland
+  description: |
+    From the companies who brought your Spookernetes at Kubecon NA 2022, we bring you...
+
+    ​🎳 THE KUBERBOWL! 🎳
+  notes: |
+    Requires registering online
