@@ -32,6 +32,14 @@ parties:
     Begin your week at KubeCon Europe at the legendary Hive Mind Mingle in the company of great minds in the cloud native infrastructure space.
   notes: |
     Requires registering online
+- name: Dell Community Appreciation
+  date: 2023-04-18
+  website: https://events.dell.com/event/4693450c-34a6-4986-a3d9-22c3aaaed8ef/summary
+  location: Barça, 30-31 Marie Heinekenplein, Amsterdam, NL-NH 1072 MH
+  description: |
+    Before KubeCon 2023 kicks off, Dell Technologies together with our partner, Canonical, invite you to join us Tuesday, 18 April 2023 at Barca Restaurante & Bar in Amsterdam for a community appreciation event. Join us for an evening of great food, drinks, and community.
+  notes: |
+    Requires registering online
 - name: "Policies for the People: an OPA Amsterdam Meetup"
   date: 2023-04-18
   website: https://allevents.in/amsterdam/policies-for-the-people-an-opa-amsterdam-meetup/80003076552781
