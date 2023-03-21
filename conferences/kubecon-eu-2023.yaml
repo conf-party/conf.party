@@ -52,6 +52,24 @@ parties:
     This event is for OPA enthusiasts to stay up to date on the latest trends and for new policy people to get introduced to the community. This is your chance to dive into Policy-as-Code!
   notes: |
     Requires (free) ticket
+- name: "Up & Running with Runtime Security Workshop"
+  date: 2023-04-18
+  website: https://www.eventbrite.com/e/up-running-with-runtime-security-workshop-tickets-591851683317
+  location: Heineken Experience, 78 Stadhouderskade, 1072 AE, Amsterdam, Netherlands
+  description: |
+    Ready to stop attacks and implement real time detection of unexpected behaviors, configuration changes, and intrusions? Then this workshop is for you!
+
+    Join this hands-on workshop intended for practitioners new to cloud-native to learn about:
+
+    * Runtime security
+    * Threat detection implementation
+    * How to get up and running on Falco
+
+    Falco is the open source standard for threat detection across Kubernetes, containers, hosts, and the cloud. Expand your knowledge in this dynamic area of security, and leave the workshop with a basic understanding of cloud-native, and how to implement threat detection in your environment immediately.
+
+    The cherry on top? This workshop is being held at the alluring Heineken Experience, and yes, there's a tour afterward (with samples!)
+  notes: |
+    Online registration needed - seats limited
 - name: KubeCrawl + CloudNativeFest sponsored by Gitpod
   date: 2023-04-19
   website: https://kccnceu2023.sched.com/event/1IEtY/kubecrawl-cloudnativefest-sponsored-by-gitpod?iframe=no&w=&sidebar=yes&bg=no
