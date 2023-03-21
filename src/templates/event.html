@@ -91,11 +91,11 @@
           <div>
             <strong>Location:</strong> <a href="https://maps.google.com/maps?q={{.Location}}" target="_blank">{{.Location}}</a></div>
           <p class="description">
-            {{.Description}}
+            {{.ParsedDescription}}
           </p>
           {{if .Notes}}
           <blockquote>
-            ℹ️ {{.Notes}}
+            ℹ️ {{.ParsedNotes}}
           </blockquote>
           {{ end }}
         </div>

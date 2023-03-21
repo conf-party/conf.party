@@ -2,7 +2,9 @@ package main
 
 import (
 	"fmt"
+	"html/template"
 	"net/url"
+	"strings"
 	"time"
 )
 
@@ -66,6 +68,14 @@ func (c Conference) Validate() error {
 func (p Party) PrettyDate() string {
 	t, _ := time.Parse(dateLayout, p.Date)
 	return t.Format("Monday, 2 January")
+}
+
+func (p Party) ParsedDescription() template.HTML {
+	return template.HTML(strings.ReplaceAll(p.Description, "\n\n", "<br/><br/>"))
+}
+
+func (p Party) ParsedNotes() template.HTML {
+	return template.HTML(strings.ReplaceAll(p.Notes, "\n\n", "<br/><br/>"))
 }
 
 func (p Party) Validate() error {
