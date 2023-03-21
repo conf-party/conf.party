@@ -10,28 +10,36 @@ import (
 
 type Conference struct {
 	Filename string
-	Name     string
-	Date     string
-	Website  string
-	Location string
-	Parties  []Party
+	Name     string  `yaml:"name"`
+	Date     string  `yaml:"date"`
+	EndDate  string  `yaml:"endDate"`
+	Website  string  `yaml:"website"`
+	Location string  `yaml:"location"`
+	Parties  []Party `yaml:"parties"`
 }
 
 type Party struct {
-	Name        string
-	Date        string
-	Time        string
-	Website     string
-	Location    string
-	Description string
-	Notes       string
+	Name        string `yaml:"name"`
+	Date        string `yaml:"date"`
+	Time        string `yaml:"time"`
+	Website     string `yaml:"website"`
+	Location    string `yaml:"location"`
+	Description string `yaml:"description"`
+	Notes       string `yaml:"notes"`
 }
 
 const dateLayout = "2006-01-02"
 
 func (c Conference) PrettyDate() string {
 	t, _ := time.Parse(dateLayout, c.Date)
-	return t.Format("Monday, 2 January")
+	d := t.Format("Monday, 2 January")
+
+	if c.EndDate != "" {
+		t, _ := time.Parse(dateLayout, c.EndDate)
+		d = fmt.Sprintf("%s → %s", d, t.Format("Monday, 2 January"))
+	}
+
+	return d
 }
 
 func (c Conference) Validate() error {
