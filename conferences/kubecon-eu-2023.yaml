@@ -70,6 +70,21 @@ parties:
     The cherry on top? This workshop is being held at the alluring Heineken Experience, and yes, there's a tour afterward (with samples!)
   notes: |
     Online registration needed - seats limited
+- name: "DevOops Amsterdam #1"
+  date: 2023-04-18
+  website: https://www.meetup.com/amsterdam-devooops-meetup-group/events/291204111/
+  location: Overtoom 16, Overtoom 16 · Amsterdam, NH
+  description: |
+    Welcome to our first DevOops Event 🔥!
+
+    Do you have an incident story to share? We would love to hear it:
+    https://forms.gle/sMM9YcxRn9XVVw237
+
+    Incidents and failures are great. Let's talk about them and embrace together a blameless culture.
+
+    During the event, 4 speakers will present one of their favorite IT incidents in their careers. Let's hear and learn more about undetected bugs in the application code, like the Mariner 1 Spacecraft 1962, deploying accidentally to production, or solving a mysterious incident like a detective.
+  notes: |
+    Online registration needed
 - name: KubeCrawl + CloudNativeFest sponsored by Gitpod
   date: 2023-04-19
   website: https://kccnceu2023.sched.com/event/1IEtY/kubecrawl-cloudnativefest-sponsored-by-gitpod?iframe=no&w=&sidebar=yes&bg=no
