@@ -5,6 +5,7 @@ location: RAI Amsterdam Convention Centre, Amsterdam, Netherlands
 parties:
 - name: SKYY Bar Happy Hour Hosted by Harness
   date: 2023-04-17
+  time: "6pm - 9pm"
   website: https://kccnceu2023.sched.com/event/1JmkC/skyy-bar-happy-hour-hosted-by-harness?iframe=no&w=&sidebar=yes&bg=no
   location: SKYY Bar Rooftop of the Westcord Fashion Hotel, Hendrikje Stoffelsstraat 1, 1058 GC
   description: |
@@ -13,49 +14,9 @@ parties:
     Must be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration
 
     This is now sold out and a waitlist available.
-- name: House of Kube Hosted by Humanitec
-  date: 2023-04-18
-  website: https://kccnceu2023.sched.com/event/1IgMi/house-of-kube-hosted-by-humanitec?iframe=no&w=&sidebar=yes&bg=no
-  location: To Be Announced
-  description: |
-    Can't wait to meet you in person and burn up the dance floor at the House Of Kube a.k.a. the hottest party in cloud native. Join fellow platform engineers and cloud pioneers by the platform engineering community this time in Amsterdam.
-
-    Where engineering meets Berlin techno. Your golden ticket to the darkroom of DevOps.
-
-    Please note this is an off-site Sponsor-hosted Co-located event. “Secret Location” TBA. Additional registration is required, and can be added to your KubeCon + CloudNativeCon registration.
-    For questions regarding this event, please contact: mariya.skalka@humanitec.com
-  notes: |
-    Must be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration
-- name: Isovalent Hive Mind Mingle Amsterdam
-  date: 2023-04-18
-  website: https://isovalent.com/2023-04-hive-mind-mingle-amsterdam/
-  location: CIELO Skybar Amsterdam, Eduard van Beinumstraat 40, 1077 CZ Amsterdam
-  description: |
-    Begin your week at KubeCon Europe at the legendary Hive Mind Mingle in the company of great minds in the cloud native infrastructure space.
-  notes: |
-    Requires registering online
-- name: Dell Community Appreciation
-  date: 2023-04-18
-  website: https://events.dell.com/event/4693450c-34a6-4986-a3d9-22c3aaaed8ef/summary
-  location: Barça, 30-31 Marie Heinekenplein, Amsterdam, NL-NH 1072 MH
-  description: |
-    Before KubeCon 2023 kicks off, Dell Technologies together with our partner, Canonical, invite you to join us Tuesday, 18 April 2023 at Barca Restaurante & Bar in Amsterdam for a community appreciation event. Join us for an evening of great food, drinks, and community.
-  notes: |
-    Requires registering online
-- name: "Policies for the People: an OPA Amsterdam Meetup"
-  date: 2023-04-18
-  website: https://allevents.in/amsterdam/policies-for-the-people-an-opa-amsterdam-meetup/80003076552781
-  location: Miro, Stadhouderskade 5, 1054 ES Amsterdam, Netherlands, Amsterdam, Netherlands
-  description: |
-    Kick off KubeCon + CloudNativeCon Europe 2023 week with the OPA community. Whether you’re attending the co-located events or looking to beat the jet lag Policies for the People is the place for you!
-
-    We invite Amsterdam locals and conference attendees visiting the city to join the OPA community on April 18th for project updates end user talks drinks bites and networking.
-
-    This event is for OPA enthusiasts to stay up to date on the latest trends and for new policy people to get introduced to the community. This is your chance to dive into Policy-as-Code!
-  notes: |
-    Requires (free) ticket
 - name: "Up & Running with Runtime Security Workshop"
   date: 2023-04-18
+  time: "3pm - 5pm"
   website: https://www.eventbrite.com/e/up-running-with-runtime-security-workshop-tickets-591851683317
   location: Heineken Experience, 78 Stadhouderskade, 1072 AE, Amsterdam, Netherlands
   description: |
@@ -74,6 +35,7 @@ parties:
     Online registration needed - seats limited
 - name: "DevOops Amsterdam #1"
   date: 2023-04-18
+  time: "6pm - 8pm"
   website: https://www.meetup.com/amsterdam-devooops-meetup-group/events/291204111/
   location: Overtoom 16, Overtoom 16 · Amsterdam, NH
   description: |
@@ -87,8 +49,54 @@ parties:
     During the event, 4 speakers will present one of their favorite IT incidents in their careers. Let's hear and learn more about undetected bugs in the application code, like the Mariner 1 Spacecraft 1962, deploying accidentally to production, or solving a mysterious incident like a detective.
   notes: |
     Online registration needed
+- name: "Policies for the People: an OPA Amsterdam Meetup"
+  date: 2023-04-18
+  time: "7pm - 9:30pm"
+  website: https://allevents.in/amsterdam/policies-for-the-people-an-opa-amsterdam-meetup/80003076552781
+  location: Miro, Stadhouderskade 5, 1054 ES Amsterdam, Netherlands, Amsterdam, Netherlands
+  description: |
+    Kick off KubeCon + CloudNativeCon Europe 2023 week with the OPA community. Whether you’re attending the co-located events or looking to beat the jet lag Policies for the People is the place for you!
+
+    We invite Amsterdam locals and conference attendees visiting the city to join the OPA community on April 18th for project updates end user talks drinks bites and networking.
+
+    This event is for OPA enthusiasts to stay up to date on the latest trends and for new policy people to get introduced to the community. This is your chance to dive into Policy-as-Code!
+  notes: |
+    Requires (free) ticket
+- name: Isovalent Hive Mind Mingle Amsterdam
+  date: 2023-04-18
+  time: "7pm - 10pm"
+  website: https://isovalent.com/2023-04-hive-mind-mingle-amsterdam/
+  location: CIELO Skybar Amsterdam, Eduard van Beinumstraat 40, 1077 CZ Amsterdam
+  description: |
+    Begin your week at KubeCon Europe at the legendary Hive Mind Mingle in the company of great minds in the cloud native infrastructure space.
+  notes: |
+    Requires registering online
+- name: Dell Community Appreciation
+  date: 2023-04-18
+  time: "7pm - 10pm"
+  website: https://events.dell.com/event/4693450c-34a6-4986-a3d9-22c3aaaed8ef/summary
+  location: Barça, 30-31 Marie Heinekenplein, Amsterdam, NL-NH 1072 MH
+  description: |
+    Before KubeCon 2023 kicks off, Dell Technologies together with our partner, Canonical, invite you to join us Tuesday, 18 April 2023 at Barca Restaurante & Bar in Amsterdam for a community appreciation event. Join us for an evening of great food, drinks, and community.
+  notes: |
+    Requires registering online
+- name: House of Kube Hosted by Humanitec
+  date: 2023-04-18
+  time: "7pm - 11:30pm"
+  website: https://kccnceu2023.sched.com/event/1IgMi/house-of-kube-hosted-by-humanitec?iframe=no&w=&sidebar=yes&bg=no
+  location: To Be Announced
+  description: |
+    Can't wait to meet you in person and burn up the dance floor at the House Of Kube a.k.a. the hottest party in cloud native. Join fellow platform engineers and cloud pioneers by the platform engineering community this time in Amsterdam.
+
+    Where engineering meets Berlin techno. Your golden ticket to the darkroom of DevOps.
+
+    Please note this is an off-site Sponsor-hosted Co-located event. “Secret Location” TBA. Additional registration is required, and can be added to your KubeCon + CloudNativeCon registration.
+    For questions regarding this event, please contact: mariya.skalka@humanitec.com
+  notes: |
+    Must be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration
 - name: KubeCrawl + CloudNativeFest sponsored by Gitpod
   date: 2023-04-19
+  time: "6pm - 9pm"
   website: https://kccnceu2023.sched.com/event/1IEtY/kubecrawl-cloudnativefest-sponsored-by-gitpod?iframe=no&w=&sidebar=yes&bg=no
   location: Halls 1 + 5, RAI Amsterdam Convention Centre, Amsterdam, Netherlands
   description: |
@@ -100,16 +108,9 @@ parties:
     * A one-stop-shop for mingling with sponsors while also experiencing the flavor of the city
 
     Don’t miss out on the latest and greatest party at your favorite tech event! We’ll see you in Amsterdam!
-- name: Kuberoke
-  date: 2023-04-19
-  website: https://kuberoke.love/events/kubecon-eu-2023/
-  location: KTV Bar, Nieuwebrugsteeg 26hs, 1012 AH Amsterdam
-  description: |
-    KubeCon is coming to beautiful Amsterdam and to celebrate the occasion, we are hosting a Karaoke party on Wednesday April 19, 9pm - 1am at Amsterdam’s premier Karaoke bar, KTV Bar.
-  notes: |
-    The venue is small and there will be limited seating, so don’t show up late, or you might not be able to get in!
 - name: Devoteam's Kubecon Afterparty
   date: 2023-04-19
+  time: "8:30pm"
   website: https://gcloudpage.devoteam.com/events/kubecon-2023-afterparty
   location: Strand-Zuid - Zuidpool, Amsterdam
   description: |
@@ -118,8 +119,18 @@ parties:
     KubeCon is the yearly not-to-miss event around all things Kubernetes. This year the flagship event takes place in Amsterdam, the Netherlands. It gathers adopters and technologists from leading open-source and cloud-native communities from around the world.
   notes: |
     Requires registering online
+- name: Kuberoke
+  date: 2023-04-19
+  time: "9pm - 1am"
+  website: https://kuberoke.love/events/kubecon-eu-2023/
+  location: KTV Bar, Nieuwebrugsteeg 26hs, 1012 AH Amsterdam
+  description: |
+    KubeCon is coming to beautiful Amsterdam and to celebrate the occasion, we are hosting a Karaoke party on Wednesday April 19, 9pm - 1am at Amsterdam’s premier Karaoke bar, KTV Bar.
+  notes: |
+    The venue is small and there will be limited seating, so don’t show up late, or you might not be able to get in!
 - name: THE KUBERBOWL
   date: 2023-04-20
+  time: "8:30pm - 11:30pm"
   website: https://lu.ma/kuberbowl-EU-2023
   location: Knijn Bowling & Restaurant, Scheldeplein 3, 1078 GR Amsterdam, Netherland
   description: |

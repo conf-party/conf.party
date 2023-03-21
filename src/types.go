@@ -20,6 +20,7 @@ type Conference struct {
 type Party struct {
 	Name        string
 	Date        string
+	Time        string
 	Website     string
 	Location    string
 	Description string
@@ -67,7 +68,11 @@ func (c Conference) Validate() error {
 
 func (p Party) PrettyDate() string {
 	t, _ := time.Parse(dateLayout, p.Date)
-	return t.Format("Monday, 2 January")
+	d := t.Format("Monday, 2 January")
+	if p.Time != "" {
+		d = fmt.Sprintf("%s - %s", d, p.Time)
+	}
+	return d
 }
 
 func (p Party) ParsedDescription() template.HTML {
