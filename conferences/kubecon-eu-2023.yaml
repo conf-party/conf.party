@@ -132,6 +132,17 @@ parties:
     KubeCon is the yearly not-to-miss event around all things Kubernetes. This year the flagship event takes place in Amsterdam, the Netherlands. It gathers adopters and technologists from leading open-source and cloud-native communities from around the world.
   notes: |
     Requires registering online
+- name: Late Night DevApps & Brews
+  date: 2023-04-19
+  time: "9pm - 12am"
+  website: https://www.eventbrite.com/e/kubecon-cloudnativecon-eu-2023-late-night-devapps-brews-tickets-579354293287
+  location: Heineken Experience 78 Stadhouderskade 1072 AE Amsterdam Netherlands
+  description: |
+    Welcome and get ready to enjoy a networking social event at the Heineken Expereience. Join GitLab and our partners after the KubeCrawl + CloudNativeFest for a late night evening filled with appetizers, drinks, music, and networking opportunities with fellow KubeCon + CloudNativeCon EU attendees.
+  notes: |
+    Requires registering online.
+
+    Conference badges are REQUIRED to attend.
 - name: Kuberoke
   date: 2023-04-19
   time: "9pm - 1am"
