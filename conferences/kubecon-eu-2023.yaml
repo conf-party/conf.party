@@ -34,6 +34,18 @@ parties:
     The cherry on top? This workshop is being held at the alluring Heineken Experience, and yes, there's a tour afterward (with samples!)
   notes: |
     Online registration needed - seats limited
+- name: "KubeCon and Devrel April!"
+  date: 2023-04-18
+  time: "5:30pm - 8:30pm"
+  website: https://www.meetup.com/Amsterdam-DevRel-Salon/events/292403644/
+  location: Pakhuis de Zwijger, Piet Heinkade 179 · Amsterdam, NH
+  description: |
+    Kubecon's around the corner, so we imagine many of you will be in town and it'll be a great moment to meet and chat!
+
+    Come and join us for a fun evening around DevRel, or not 😊. If you're into communities, speaking, devrel, or just if you wanna chat really!
+    We'll be in bar de Zwijger, so there won't be any official talks, only animated discussions and "Gezelligheid" as the Dutch say.
+  notes: |
+    Online registration needed
 - name: "DevOops Amsterdam #1"
   date: 2023-04-18
   time: "6pm - 8pm"
