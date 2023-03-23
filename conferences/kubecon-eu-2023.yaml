@@ -165,7 +165,7 @@ parties:
     Requires registering online
 - name: Amsterdam Open- Source Data Infrastructure
   date: 2023-04-19
-  time: 6:30 PM - 9:00 PM
+  time: "6:30pm - 9pm"
   website: https://www.meetup.com/amsterdam-open-source-data-infrastructure-meetup/events/292274551/
   location: Spaces Herengracht - The ProjectRoom, Herengracht 124, 1015 BT Amsterdam,Netherlands
   description: Are you interested in learning more about open-source data technologies? 
