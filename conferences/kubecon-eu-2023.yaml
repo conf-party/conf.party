@@ -46,6 +46,23 @@ parties:
     We'll be in bar de Zwijger, so there won't be any official talks, only animated discussions and "Gezelligheid" as the Dutch say.
   notes: |
     Online registration needed
+- name: "Sip 'n' Security"
+  date: 2023-04-18
+  time: "6pm - 9pm"
+  website: https://www.eventbrite.com/e/sip-n-security-tickets-588579536237
+  location: Heineken Experience, 78 Stadhouderskade, 1072, AE, Amsterdam Netherlands
+  description: |
+    Join Kubernetes security friends Sysdig, Snyk, Chainguard, and Tetrate at the Heineken Experience as we gather 18 April from 18:00 - 21:00 on the eve of KubeCon EU!
+
+    W﻿hat to expect:
+
+    - Community AMAs and table talks.
+    - We'll have book signings, swag, and more!
+    - Discuss Open Source projects, including Falco, Istio, Envoy, and Wolfi.
+    - Test your knowledge against cloud native experts in our trivia game.
+    - Great food, drinks, and the Heineken Experience!
+  notes: |
+    Online registration needed
 - name: "DevOops Amsterdam #1"
   date: 2023-04-18
   time: "6pm - 8pm"
@@ -121,6 +138,17 @@ parties:
     * A one-stop-shop for mingling with sponsors while also experiencing the flavor of the city
 
     Don’t miss out on the latest and greatest party at your favorite tech event! We’ll see you in Amsterdam!
+- name: Amsterdam Open- Source Data Infrastructure
+  date: 2023-04-19
+  time: "6:30pm - 9pm"
+  website: https://www.meetup.com/amsterdam-open-source-data-infrastructure-meetup/events/292274551/
+  location: Spaces Herengracht - The ProjectRoom, Herengracht 124, 1015 BT Amsterdam,Netherlands
+  description: |
+    Are you interested in learning more about open-source data technologies?
+    Do you want to network with other like-minded people in a fun, relaxed environment?
+    Then come join us
+  notes: |
+    Requires registering online
 - name: Devoteam's Kubecon Afterparty
   date: 2023-04-19
   time: "8:30pm"
@@ -163,16 +191,3 @@ parties:
     ​🎳 THE KUBERBOWL! 🎳
   notes: |
     Requires registering online
-- name: Amsterdam Open- Source Data Infrastructure
-  date: 2023-04-19
-  time: "6:30pm - 9pm"
-  website: https://www.meetup.com/amsterdam-open-source-data-infrastructure-meetup/events/292274551/
-  location: Spaces Herengracht - The ProjectRoom, Herengracht 124, 1015 BT Amsterdam,Netherlands
-  description: |
-    Are you interested in learning more about open-source data technologies?
-    Do you want to network with other like-minded people in a fun, relaxed environment?
-    Then come join us   
-  notes: |
-    Requires registering online       
-
-  
