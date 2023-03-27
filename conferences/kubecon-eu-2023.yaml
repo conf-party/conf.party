@@ -110,6 +110,21 @@ parties:
     Before KubeCon 2023 kicks off, Dell Technologies together with our partner, Canonical, invite you to join us Tuesday, 18 April 2023 at Barca Restaurante & Bar in Amsterdam for a community appreciation event. Join us for an evening of great food, drinks, and community.
   notes: |
     Requires registering online
+
+- name: Okteto Kickoff Party
+  date: 2023-04-18
+  time: "7pm - 10pm"
+  website: https://www.okteto.com/kubeconeu23/
+  location: Cafe de Jeugd, Linnaeusstraat 37A, 1093 EG Amsterdam
+  description: |
+    Let's kickoff KubeCon together with an Okteto hosted Party!
+
+    This will be a great opportunity to connect in person and meet others in the community building modern development experiences.
+
+    Plus, free food and drinks on us!
+  notes: |
+    Requires registering online
+
 - name: House of Kube Hosted by Humanitec
   date: 2023-04-18
   time: "7pm - 11:30pm"
