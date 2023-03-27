@@ -2,9 +2,7 @@ package main
 
 import (
 	"fmt"
-	"html/template"
 	"net/url"
-	"strings"
 	"time"
 )
 
@@ -26,20 +24,6 @@ type Party struct {
 	Location    string `yaml:"location"`
 	Description string `yaml:"description"`
 	Notes       string `yaml:"notes"`
-}
-
-const dateLayout = "2006-01-02"
-
-func (c Conference) PrettyDate() string {
-	t, _ := time.Parse(dateLayout, c.Date)
-	d := t.Format("Monday, 2 January")
-
-	if c.EndDate != "" {
-		t, _ := time.Parse(dateLayout, c.EndDate)
-		d = fmt.Sprintf("%s → %s", d, t.Format("Monday, 2 January"))
-	}
-
-	return d
 }
 
 func (c Conference) Validate() error {
@@ -72,23 +56,6 @@ func (c Conference) Validate() error {
 	}
 
 	return nil
-}
-
-func (p Party) PrettyDate() string {
-	t, _ := time.Parse(dateLayout, p.Date)
-	d := t.Format("Monday, 2 January")
-	if p.Time != "" {
-		d = fmt.Sprintf("%s - %s", d, p.Time)
-	}
-	return d
-}
-
-func (p Party) ParsedDescription() template.HTML {
-	return template.HTML(strings.ReplaceAll(p.Description, "\n\n", "<br/><br/>"))
-}
-
-func (p Party) ParsedNotes() template.HTML {
-	return template.HTML(strings.ReplaceAll(p.Notes, "\n\n", "<br/><br/>"))
 }
 
 func (p Party) Validate() error {

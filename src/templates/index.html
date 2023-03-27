@@ -40,7 +40,7 @@
     {{ range . }}
     <div>
       <h3><a href="/{{.Filename}}">{{.Name}}</a></h3>
-      <div class="date">🗓 {{ .PrettyDate }}</div>
+      <div class="date">🗓 {{ prettyDate .Date .EndDate "" }}</div>
     </div>
     {{ end }}
   </div>

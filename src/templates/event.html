@@ -31,6 +31,14 @@
       margin-bottom: 0;
     }
 
+    .day {
+      font-size: 2em;
+    }
+
+    .day:not(:first-of-type) {
+      margin-top: 1.5em;
+    }
+
     .date {
       display: inline-block;
       border: 1px solid black;
@@ -52,6 +60,7 @@
     .party {
       border-bottom: 2px dashed #c8c6c6;
       margin-bottom: 10px;
+      margin-left: 1em;
     }
 
     footer {
@@ -74,7 +83,7 @@
 
     <main>
       <h1>{{.Name}}</h1>
-      <div class="date">🗓 {{ .PrettyDate }}</div>
+      <div class="date">🗓 {{ prettyDate .Date .EndDate "" }}</div>
       <div>
         <strong>Website:</strong> <a href="{{.Website}}">{{.Website}}</a>
       </div>
@@ -83,19 +92,24 @@
         <iframe src="https://maps.google.com/maps?q={{ .Location }}&z=10&output=embed" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
       <div>
-        <h2>Parties</h2>
-        {{range .Parties}}
+        <h2>{{len .Parties}} Parties</h2>
+        {{range $i, $p := .Parties}}
+        {{if (eq $i 0)}}
+        <div class="day">{{day $p.Date}}</div>
+        {{else if not (eq (day $p.Date) (day (index $.Parties (minus $i 1)).Date))}}
+        <div class="day">{{day $p.Date}}</div>
+        {{end}}
         <div class="party">
-          <h3><a href="{{.Website}}">{{.Name}}</a></h3>
-          <div class="date">🗓 {{.PrettyDate}}</div>
+          <h3><a href="{{$p.Website}}">{{$p.Name}}</a></h3>
+          <div class="date">🗓 {{prettyDate $p.Date "" $p.Time}}</div>
           <div>
-            <strong>Location:</strong> <a href="https://maps.google.com/maps?q={{.Location}}" target="_blank">{{.Location}}</a></div>
+            <strong>Location:</strong> <a href="https://maps.google.com/maps?q={{$p.Location}}" target="_blank">{{$p.Location}}</a></div>
           <p class="description">
-            {{.ParsedDescription}}
+            {{parse $p.Description}}
           </p>
           {{if .Notes}}
           <blockquote>
-            ℹ️ {{.ParsedNotes}}
+            ℹ️ {{parse $p.Notes}}
           </blockquote>
           {{ end }}
         </div>

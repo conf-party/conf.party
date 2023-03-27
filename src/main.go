@@ -10,6 +10,7 @@ import (
 	"os/exec"
 	"path"
 	"strings"
+	"time"
 
 	"gopkg.in/yaml.v3"
 )
@@ -19,6 +20,8 @@ var (
 	outDir  string
 	action  string = "build"
 )
+
+const dateLayout = "2006-01-02"
 
 func init() {
 	defaultDir, _ := os.Getwd()
@@ -50,8 +53,39 @@ func build() {
 		panic(err)
 	}
 
-	indexTmpl := template.Must(template.ParseFiles(path.Join(rootDir, "./src/templates/index.html")))
-	eventTmpl := template.Must(template.ParseFiles(path.Join(rootDir, "./src/templates/event.html")))
+	templateFuncs := template.FuncMap{
+		"parse": func(str string) template.HTML {
+			return template.HTML(strings.ReplaceAll(str, "\n\n", "<br/><br/>"))
+		},
+		"minus": func(a, b int) int {
+			return a - b
+		},
+		"day": func(date string) string {
+			t, _ := time.Parse(dateLayout, date)
+			return t.Format("Monday")
+		},
+		"prettyDate": func(date, endDate, dateTime string) string {
+			t, _ := time.Parse(dateLayout, date)
+			d := t.Format("Monday, 2 January")
+
+			if endDate != "" {
+				t, _ := time.Parse(dateLayout, endDate)
+				d = fmt.Sprintf("%s → %s", d, t.Format("Monday, 2 January"))
+			}
+
+			if dateTime != "" {
+				d = fmt.Sprintf("%s - %s", d, dateTime)
+			}
+
+			return d
+		},
+	}
+
+	indexFile, _ := os.ReadFile(path.Join(rootDir, "./src/templates/index.html"))
+	eventFile, _ := os.ReadFile(path.Join(rootDir, "./src/templates/event.html"))
+
+	indexTmpl, _ := template.New("index").Funcs(templateFuncs).Parse(string(indexFile))
+	eventTmpl, _ := template.New("event").Funcs(templateFuncs).Parse(string(eventFile))
 
 	confs := []Conference{}
 
