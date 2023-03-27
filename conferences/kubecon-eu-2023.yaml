@@ -195,6 +195,15 @@ parties:
     KubeCon is coming to beautiful Amsterdam and to celebrate the occasion, we are hosting a Karaoke party on Wednesday April 19, 9pm - 1am at Amsterdam’s premier Karaoke bar, KTV Bar.
   notes: |
     The venue is small and there will be limited seating, so don’t show up late, or you might not be able to get in!
+- name: "localhost: ngrok's Amsterdam Meetup"
+  date: 2023-04-20
+  time: "6pm - 8pm"
+  website: https://www.eventbrite.com/e/localhost-ngroks-amsterdam-meetup-at-kubecon-cloudnativecon-europe-tickets-579362778667
+  location: De Biertuin Centrum, 494 Prinsengracht, 1017, KH, Amsterdam, Netherlands
+  description: |
+    localhost is a developer meetup organized by ngrok - and we're heading to Amsterdam for KubeCon + CloudNativeCon Europe! Connect over happy hour drinks and light bites with ngrok users and the broader developer community in Amsterdam on Thursday, April 20th. We look forward to seeing you at De Biertuin Centrum.
+  notes: |
+    Requires registering online
 - name: THE KUBERBOWL
   date: 2023-04-20
   time: "8:30pm - 11:30pm"
