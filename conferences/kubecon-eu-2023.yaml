@@ -204,6 +204,15 @@ parties:
     localhost is a developer meetup organized by ngrok - and we're heading to Amsterdam for KubeCon + CloudNativeCon Europe! Connect over happy hour drinks and light bites with ngrok users and the broader developer community in Amsterdam on Thursday, April 20th. We look forward to seeing you at De Biertuin Centrum.
   notes: |
     Requires registering online
+- name: "KubeCon Happy Hour with Kong, LaunchDarkly, Pulumi, and Honeycomb"
+  date: 2023-04-20
+  time: "7pm - 10pm"
+  website: https://www.eventbrite.com/e/kubecon-happy-hour-with-kong-launchdarkly-pulumi-and-honeycomb-tickets-594854023397?aff=conf.party
+  location: De Kroon, Rembrandtplein 17-I, 1011, JN, Amsterdam, Netherlands
+  description: |
+    Join Kong, LaunchDarkly, Pulumi, and Honeycomb for an evening of light fare, libations, and conversations. Unwind from the hussle and bussle of KubeCon with us and relax with egg decorating and a cocktail.
+  notes: |
+    Requires registering online
 - name: THE KUBERBOWL
   date: 2023-04-20
   time: "8:30pm - 11:30pm"
