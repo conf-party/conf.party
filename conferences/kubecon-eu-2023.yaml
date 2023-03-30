@@ -15,6 +15,19 @@ parties:
     Must be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration
 
     This is now sold out and a waitlist available.
+- name: "Techstrong Power Up Breakfast Powered by Dell Technologies"
+  date: 2023-04-18
+  time: "9am - 11am"
+  website: https://www.eventbrite.com/e/techstrong-power-up-breakfast-powered-by-dell-technologies-tickets-576105195147
+  location: Broodjeszaak De Nieuwe RAI 1 Europaplein 1078 GS Amsterdam Netherlands
+  description: |
+    Techstrong (DevOps.com, Container Journal, Security Boulevard, Techstrong TV) along with our friends at Dell Technologies would love for you to join us for breakfast on Tuesday, April 18, starting at 8am.
+
+    This breakfast is to thank the many unheralded, hard working, fantastic Cloud-Native marketing folk. They are the people who make this conference go. We would love to toast you (even if its just coffee) and say hi.
+
+    Also Techstrong CEO Alan Shimel and Chief Content Officer Mike Vizard will be discussing in one-on-one and small group conversations the role ChatGPT and AI is going to have on our business in the coming months, as well as how it impacts tech marketing. Brad Maltz of Dell Technologies will also be on hand.
+  notes: |
+    Online registration needed
 - name: "Up & Running with Runtime Security Workshop"
   date: 2023-04-18
   time: "3pm - 5pm"
