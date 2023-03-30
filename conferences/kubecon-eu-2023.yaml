@@ -217,6 +217,15 @@ parties:
     localhost is a developer meetup organized by ngrok - and we're heading to Amsterdam for KubeCon + CloudNativeCon Europe! Connect over happy hour drinks and light bites with ngrok users and the broader developer community in Amsterdam on Thursday, April 20th. We look forward to seeing you at De Biertuin Centrum.
   notes: |
     Requires registering online
+- name: "KubeChill at the Beach"
+  date: 2023-04-20
+  time: "6pm - 9:30pm"
+  website: https://go.snyk.io/202304-kubechill-at-the-beach.html
+  location: The Beach House @ Strandzuid, Europaplein 22, Amsterdam Netherlands, 1078
+  description: |
+    We've partnered with our friends Cortex and Sysdig to host a party at 'The Beach House', Strand Zuid, for a night of drinks, bbq, DJ and networking. You're invited to escape the show floor, Thursday April 20th from 18:00 - 21:30 CEST and connect with fellow KubeCon Europe + CloudNativeCon attendees.
+  notes: |
+    Requires registering online. Registering doesn't guarantee entry.
 - name: "Party with Us Cloud Native Social"
   date: 2023-04-20
   time: "6pm - 10pm"
