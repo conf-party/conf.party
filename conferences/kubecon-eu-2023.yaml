@@ -204,6 +204,17 @@ parties:
     localhost is a developer meetup organized by ngrok - and we're heading to Amsterdam for KubeCon + CloudNativeCon Europe! Connect over happy hour drinks and light bites with ngrok users and the broader developer community in Amsterdam on Thursday, April 20th. We look forward to seeing you at De Biertuin Centrum.
   notes: |
     Requires registering online
+- name: "Party with Us Cloud Native Social"
+  date: 2023-04-20
+  time: "6pm - 10pm"
+  website: https://cloudnativeparty.splashthat.com/?utm_source=conf.party
+  location: The Upside Down Museum Amsterdam, 5 Europaboulevard, Amsterdam, NH 1079 PC
+  description: |
+    Join Kasten by Veeam, AWS, Red Hat and Nutanix for an exclusive, fun, and mind-bending networking event at the largest interactive museum in Amsterdam!
+
+    Come enjoy an immersive experience at The Upside Down Museum, located just across the street from Amsterdam RAI. Party and mingle with your favorite cloud native peers and colleagues while enjoying 17+ colorful art installations, delicious Dutch-style food, hosted bar, local DJ spinning all the hits and more!
+  notes: |
+    Requires registering online. The event is first come first serve and registering doesn't guarantee entry.
 - name: "KubeCon Happy Hour with Kong, LaunchDarkly, Pulumi, and Honeycomb"
   date: 2023-04-20
   time: "7pm - 10pm"
