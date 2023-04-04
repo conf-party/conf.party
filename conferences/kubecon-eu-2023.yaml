@@ -15,6 +15,19 @@ parties:
     Must be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration
 
     This is now sold out and a waitlist available.
+- name: Cloud Native Beer
+  date: 2023-04-17
+  time: "7pm - 9pm"
+  website: https://cloudnativebeer.rsvpify.com/
+  location: Café de Jaren Nieuwe Doelenstraat 20, 1012 CP Amsterdam
+  description: |
+    Let's meet up with some lovely people to chat, socialize and have fun! 😉Everyone is welcome!
+
+    We found a location! Thanks to @lianmakesthings who has volunteered to support us as a local we were able to find a nice spot.
+
+    Join us at Café de Jaren for drinks and snacks🍻 (they don't serve dinner!)
+  notes: |
+    As this is not a sponsored event, but simply a way to bring people together, you will have to pay your own bills.
 - name: "Techstrong Power Up Breakfast Powered by Dell Technologies"
   date: 2023-04-18
   time: "9am - 11am"
