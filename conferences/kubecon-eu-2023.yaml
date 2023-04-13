@@ -60,6 +60,19 @@ parties:
     The cherry on top? This workshop is being held at the alluring Heineken Experience, and yes, there's a tour afterward (with samples!)
   notes: |
     Online registration needed - seats limited
+- name: "vBeers @Batavia 1920"
+  date: 2023-04-18
+  time: "5pm - 10pm"
+  website: https://www.eventbrite.nl/e/vbeers-batavia-1920-amsterdam-tickets-603556352297
+  location: Batavia 1920 Prins Hendrikkade 85 1012 AE Amsterdam Netherlands
+  description: |
+    Join us for vBeers @Batavia 1920 in Amsterdam. This event will take place after the first full day of KubeCon + CloudNativeCon Europe 2023. It is a great opportunity to wrap up the day while enjoying a beer and some of the best food you will find in Amsterdam.
+
+    A vBeers is an informal get-together to provide an opportunity for tech enthusiasts and professionals, working in the cloud, container, and virtualization space, to meet with other like-minded individuals. It has its roots in VMware #vCommunity , but is open to any technologist of any stripe. Come connect with your fellow cloud-native minded peers, network, swap stories, and have a good time. For more information about the vBeers tradition, please visit vbeers.org
+  notes: |
+    Drinks and food other than the provided bites & snacks are for your own expense. When hungry for more the bar does offer an interesting range of food. Vegetarian and vegan options are available.
+
+    Entrance is free. Although, we would love if you let us know in advance if you are planning to attend. Also, if you reserved a spot and your plans change, please let us know as well.
 - name: "KubeCon and Devrel April!"
   date: 2023-04-18
   time: "5:30pm - 8:30pm"
