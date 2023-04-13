@@ -253,6 +253,16 @@ parties:
     KubeCon is coming to beautiful Amsterdam and to celebrate the occasion, we are hosting a Karaoke party on Wednesday April 19, 9pm - 1am at Amsterdam’s premier Karaoke bar, KTV Bar.
   notes: |
     The venue is small and there will be limited seating, so don’t show up late, or you might not be able to get in!
+- name: "A Taste of Kubernetes with Rafay and MinIO"
+  date: 2023-04-20
+  time: "5pm - 8pm"
+  website: https://lu.ma/RafayMinIO
+  location: The Traveller, Europaplein 2, 1078 GZ Amsterdam, Netherlands
+  description: |
+    Join Rafay and MinIO for happy hour drinks and international bites from around the world, and of course to talk all things Kubernetes. Good food, good company and K8s chatter just steps away from the excitement of KubeCon - you won't want to miss this.
+
+  notes: |
+    Space is limited so please confirm your attendance.
 - name: "localhost: ngrok's Amsterdam Meetup"
   date: 2023-04-20
   time: "6pm - 8pm"
