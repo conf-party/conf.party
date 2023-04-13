@@ -151,6 +151,25 @@ parties:
   notes: |
     Requires registering online
 
+- name: SIG Boba
+  date: 2023-04-18
+  time: "7pm - 10pm"
+  website: https://sig-boba.github.io/
+  location: Hey Cha Tea Company, Van Leijenberghlaan 140, 1082 DC Amsterdam
+  description: |
+    Come hang out! Have some instant noodles 🍜 and a bubble tea 🧋
+    Food and drink are paid for & there is no alcohol at this event.
+
+    We'll have music and board games for everyone in addition to the food.
+
+    Bring your partner and/or kids! :)
+    Just have a conference badge to check your group in.
+  notes: |
+    Message us in the CNCF #sig-boba slack channel to register.
+
+    The venue fits around 25 people, so the first to arrive will immediately get in.
+    Check there for space if you are coming later!
+
 - name: House of Kube Hosted by Humanitec
   date: 2023-04-18
   time: "7pm - 11:30pm"
