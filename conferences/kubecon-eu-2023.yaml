@@ -222,17 +222,6 @@ parties:
     Then come join us
   notes: |
     Requires registering online
-- name: Devoteam's Kubecon Afterparty
-  date: 2023-04-19
-  time: "8:30pm"
-  website: https://gcloudpage.devoteam.com/events/kubecon-2023-afterparty
-  location: Strand-Zuid - Zuidpool, Amsterdam
-  description: |
-    Join us for drinks & snacks at Devoteam's  KubeCon Afterparty in Amsterdam!
-
-    KubeCon is the yearly not-to-miss event around all things Kubernetes. This year the flagship event takes place in Amsterdam, the Netherlands. It gathers adopters and technologists from leading open-source and cloud-native communities from around the world.
-  notes: |
-    Requires registering online
 - name: Late Night DevApps & Brews
   date: 2023-04-19
   time: "9pm - 12am"
