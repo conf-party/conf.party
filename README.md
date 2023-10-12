@@ -4,3 +4,13 @@ conf.party
 </h1>
 
 Tracking all those conference after parties
+
+
+### Running locally
+
+```
+cd ./src
+go run . --action serve --rootdir ../ --out ../gh-pages
+```
+
+Then navigate to http://localhost:8080

@@ -6,9 +6,11 @@ import (
 	"html/template"
 	"io/ioutil"
 	"log"
+	"net/http"
 	"os"
 	"os/exec"
 	"path"
+	"sort"
 	"strings"
 	"time"
 
@@ -26,14 +28,10 @@ const dateLayout = "2006-01-02"
 func init() {
 	defaultDir, _ := os.Getwd()
 
+	flag.StringVar(&action, "action", "build", "")
 	flag.StringVar(&rootDir, "rootdir", defaultDir, "")
 	flag.StringVar(&outDir, "out", "/out", "")
 	flag.Parse()
-
-	args := os.Args[1:]
-	if len(args) > 0 {
-		action = args[0]
-	}
 }
 
 func main() {
@@ -42,6 +40,9 @@ func main() {
 		build()
 	case "verify":
 		verify()
+	case "serve":
+		build()
+		serve()
 	default:
 		build()
 	}
@@ -106,12 +107,18 @@ func build() {
 			}
 			conf.Filename = strings.ReplaceAll(file.Name(), ".yaml", ".html")
 
-			confs = append(confs, conf)
+			if conf.EndDate > time.Now().Add(25*time.Hour).Format("2006-01-02") {
+				confs = append(confs, conf)
+			}
 		}
 	}
 
+	sort.Slice(confs, func(i, j int) bool {
+		return confs[i].Date > confs[j].Date
+	})
+
 	for _, conf := range confs {
-		outFile, err := os.Create(path.Join(rootDir, "out", conf.Filename))
+		outFile, err := os.Create(path.Join(outDir, conf.Filename))
 		if err != nil {
 			log.Println("create file: ", err)
 			return
@@ -122,7 +129,7 @@ func build() {
 		}
 	}
 
-	outFile, err := os.Create(path.Join(rootDir, "out", "index.html"))
+	outFile, err := os.Create(path.Join(outDir, "index.html"))
 	if err != nil {
 		log.Println("create file: ", err)
 		return
@@ -132,9 +139,7 @@ func build() {
 		log.Println("template event: ", err)
 	}
 
-	// Copy files
-	path.Join(rootDir, "out")
-
+	// // Copy static files
 	cp := exec.Command("sh", "-c", fmt.Sprintf("cp -r %s/* %s", path.Join(rootDir, "out"), outDir))
 	err = cp.Run()
 	if err != nil {
@@ -167,5 +172,11 @@ func verify() {
 			}
 		}
 	}
+}
 
+func serve() {
+	http.Handle("/", http.StripPrefix("/", http.FileServer(http.Dir(outDir))))
+	if err := http.ListenAndServe(":8080", nil); err != nil {
+		panic(err)
+	}
 }

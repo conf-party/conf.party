@@ -1,0 +1,46 @@
+name: KubeCon + CloudNativeCon North America 2023
+date: 2023-11-06
+endDate: 2023-11-09
+website: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+location: MCCORMICK PLACE WEST, 2301 S Indiana Ave., Chicago, IL 60616
+parties:
+- name: Cloud Native Gangster’s Speakeasy Hosted by Solo.io, Snyk and Teleport
+  date: 2023-11-06
+  time: "7pm - 10pm"
+  website: https://kccncna2023.sched.com/event/1RfoN/cloud-native-gangsters-speakeasy-hosted-by-soloio-snyk-and-teleport?iframe=no&w=100%25&sidebar=yes&bg=no
+  location: Mae District 19 East 21st Street, Chicago, IL 60616
+  description: |
+    Come Drop it like it's F. Scott with Solo.io, Snyk, and Teleport at our Cloud Native Gangster’s Speakeasy! Join us for cocktails, savory cuisine, networking and entertainment to kick off Kubecon+CloudNativeCon North America 2023 like it's 1923! Bring lady luck as your plus one and try your hand at one of our casino tables. Step back in time and party like Capone just steps from the convention center! For more information click here.
+  notes: |
+    Must be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration
+- name: Happy Hour at FatPour Tap Works Hosted by Harness
+  date: 2023-11-06
+  time: "7pm - 10pm"
+  website: https://kccncna2023.sched.com/event/1R5Ir/happy-hour-at-fatpour-tap-works-hosted-by-harness?iframe=no&w=100%25&sidebar=yes&bg=no
+  location: Fatpour Tap Works 2206 S Indiana Ave, Chicago, IL 60616
+  description: |
+    Join Harness at Fatpour Tap Works McCormick from 7pm to 9pm for a Happy Hour co-located with KubeCon + CloudNativeCon North America! Located in the Hilton Garden Inn Chicago McCormick Place, Fatpour is a bi-level brewpub named for its 22-ounce pours, with a 200-plus beer list, as well as a full bar for non-beer drinkers, and lots of TVs. Fatpour is the largest beer venue in the South Loop! Harness has rented out the top floor and will be providing drinks and light snacks for all attendees!
+  notes: |
+    Must be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration
+- name: House of Kube Hosted by Humanitec
+  date: 2023-11-06
+  time: "7:30pm - 1am"
+  website: https://kccncna2023.sched.com/event/1RKbR/house-of-kube-hosted-by-humanitec?iframe=no&w=100%25&sidebar=yes&bg=no
+  location: TBA
+  description: |
+    Can't wait to meet you in person and burn up the dance floor at the House of Kube a.k.a. the hottest party in cloud native. Join fellow platform practitioners and cloud pioneers for the party by the platform engineering community.
+
+    Build real connections, enjoy the best food trucks in Chicago and dance to the funkiest techno beats.
+  notes: |
+    Must be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration
+- name: "Rhythm & Kubes: Music for the Cloud Native Soul"
+  date: 2023-11-08
+  time: "7:30pm - 1am"
+  website: https://lu.ma/k8s-rhythm-kubes
+  location: Buddy Guy's Legends, 700 S Wabash Ave, Chicago, IL 60605, USA
+  description: |
+    From the companies who brought you Spookernetes and the Kuberbowl at our favorite cloud native event in North America and the EU - we bring you RHYTHM & KUBES!
+
+    Join us at the LEGENDARY Buddy Guy's Legends in Chicago to enjoy great LIVE music, one of a kind southern soul food, and drinks with your cloud native friends.
+  notes: |
+    Space is limited - so registration is required.
