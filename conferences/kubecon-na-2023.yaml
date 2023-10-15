@@ -77,6 +77,22 @@ parties:
     Build real connections, enjoy the best food trucks in Chicago and dance to the funkiest techno beats.
   notes: |
     Must be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration
+- name: KubeCrawl + CloudNativeFest
+  date: 2023-11-07
+  time: "6pm - 8pm"
+  website: https://kccncna2023.sched.com/event/1REGb/kubecrawl-cloudnativefest-sponsored-by-amd-and-fluxninja?iframe=no&w=100%&sidebar=yes&bg=no
+  location: Hall F | Level 3 | West Building, MCCORMICK PLACE WEST, 2301 S Indiana Ave., Chicago, IL 60616
+  description: |
+    KubeCon + CloudNativeCon is thrilled to be in Chicago! Join fellow attendees as we celebrate the unique flavors, styles, and vibes of this vibrant city. Savor iconic Chicago-style hot dogs and relive the energy of game day in Wrigleyville, embrace the carnival spirit of Navy Pier, and venture into the heart of urban Chicago with art and pulsating beats.
+
+    Grab your friends, old and new, and celebrate the city with activities including:
+    Showing your competitive side with giant mini golf, foosball, and a game of Hungry Hungry Hippos (human-sized!)
+    Marveling at jugglers, magicians, tarot card readers, and more!
+    Witnessing dueling pianos, drum lines, and a roving DJ!
+
+    Thank you to our #KubeCrawl = #CloudNativeFest sponsors, AMD and FluxNinja!
+  notes: |
+    Official KubeCon booth crawl and party
 - name: Antimetal DevOps Happy Hour
   date: 2023-11-07
   time: "7pm - 10pm"
