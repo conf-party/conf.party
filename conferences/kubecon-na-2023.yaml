@@ -4,6 +4,41 @@ endDate: 2023-11-09
 website: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
 location: MCCORMICK PLACE WEST, 2301 S Indiana Ave., Chicago, IL 60616
 parties:
+- name: Elastic Chicago User Group + Microsoft Joint Meetup
+  date: 2023-11-06
+  time: "5:30pm - 7:30pm"
+  website: https://www.meetup.com/elastic-chicago-user-group/events/296428687/
+  location: 500 Madison St · Chicago, IL
+  description: |
+    The Elastic team and Microsoft are kicking off Kubecon with a joint meetup on Monday, November 6th!
+
+    Join us at the Elastic office in downtown Chicago for an evening of presentations, networking, refreshments, and light bites.
+
+    We'll start off the evening with Alex Wert (Senior Manager, Software Engineering at Elastic), Emily Stolfo (Senior Manager Software Engineering at Elastic), and Bahubali Shetti (Senior Director, Product Marketing at Elastic) who will present Ubiquitous Observability with OpenTelemetry and how to get there.
+
+    Our second talk of the evening is Data journey: How to build secure and private AI search apps with Elasticsearch and Azure OpenAI, presented by Jeff Vestal (Principal Customer Enterprise Architect at Elastic) and David Giard (Partner Solution Architect at Microsoft).
+  notes: |
+    Must sign up by November 3rd.
+- name: Dell Community Appreciation Event
+  date: 2023-11-06
+  time: "6pm - 10pm"
+  website: https://events.dell.com/event/983e0a88-44c2-486e-a3a2-9710e880d3d9/summary
+  location: BASSLINE || 2239 - CHICAGO, 2239 S Michigan Ave, Chicago, IL 60616
+  description: |
+    Before KubeCon 2023 kicks off, Dell Technologies, together with our partners, Equinix and Red Hat, invite you to join us Monday, November 6, at Bassline in Chicago for a community appreciation event.
+
+    Join us for an evening of great food, drinks, arcade games, music, and more!
+  notes: |
+    Space is limited. Only pre-registered guests will be guaranteed access for this event.
+- name: OSS Security Soiree
+  date: 2023-11-06
+  time: "7pm - 9pm"
+  website: https://www.eventbrite.com/e/day-of-security-tickets-636994255967
+  location: Row 24, 2411 S Michigan Ave Chicago, IL 60616 United States
+  description: |
+    This one-of-a-kind Day of Security will include two presentations, a hands-on workshop, an Ask Me Anything Founders and Friends Panel followed by the OSS Security Soiree centered around building community and connection (with games, libations, music and more of course.)
+  notes: |
+    This is part of the "Day of Security" event, not a stand-alone party.
 - name: Cloud Native Gangster’s Speakeasy Hosted by Solo.io, Snyk and Teleport
   date: 2023-11-06
   time: "7pm - 10pm"
@@ -22,6 +57,15 @@ parties:
     Join Harness at Fatpour Tap Works McCormick from 7pm to 9pm for a Happy Hour co-located with KubeCon + CloudNativeCon North America! Located in the Hilton Garden Inn Chicago McCormick Place, Fatpour is a bi-level brewpub named for its 22-ounce pours, with a 200-plus beer list, as well as a full bar for non-beer drinkers, and lots of TVs. Fatpour is the largest beer venue in the South Loop! Harness has rented out the top floor and will be providing drinks and light snacks for all attendees!
   notes: |
     Must be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration
+- name: "Drinks, Pizzas, Logs, and Traces with Axiom {Featuring: AWS}"
+  date: 2023-11-06
+  time: "7pm - 10pm"
+  website: https://lu.ma/axiom-party-ord-2023
+  location: Chicago, Illinois
+  description: |
+    We’ll be in Chicago for Redacted Conference Name, and hosting a party {Featuring: AWS} on the 6th November. Come meet the team!
+  notes: |
+    Location given out on registration
 - name: House of Kube Hosted by Humanitec
   date: 2023-11-06
   time: "7:30pm - 1am"
@@ -33,6 +77,71 @@ parties:
     Build real connections, enjoy the best food trucks in Chicago and dance to the funkiest techno beats.
   notes: |
     Must be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration
+- name: Antimetal DevOps Happy Hour
+  date: 2023-11-07
+  time: "7pm - 10pm"
+  website: https://lu.ma/antimetalkubecon
+  location: ""
+  description: |
+    You're invited to the KubeCon 2023 Antimetal DevOps Happy Hour!
+
+    Join us for an evening of good drinks and food plus even better conversation. If you or someone you know is in DevOps, then this is the place for you.
+  notes: |
+    The venue will be announced closer to the date!
+- name: The FluxNinja Rooftop Social Hour
+  date: 2023-11-08
+  time: "6pm - 9pm"
+  website: https://partiful.com/e/1NqMNWGN6BdbB9Fnv6BK
+  location: VU Rooftop Bar, 133 E CERMAK, CHICAGO IL 60616
+  description: |
+    Join us for a memorable evening to unwind, connect over drinks, snacks, and enjoy Chicago's stunning skyline. See you soon!
+  notes: |
+    Requires providing a phone number to sign up.
+- name: Cloud-Native Cocktails
+  date: 2023-11-08
+  time: "6:30pm - 8:30pm"
+  website: https://register.paloaltonetworks.com/cloudnativecocktailskubecon23
+  location: Roots Handmade Pizza - South Loop, 744 S Dearborn St., Chicago, IL 60605
+  description: |
+    Are you ready for KubeCon 2023? Come celebrate with us in Chicago!
+
+    Join us for a Cloud-Native Cocktail Party hosted by Prisma® Cloud and KSOC.
+
+    Wind down after Day 2 of KubeCon with cocktails, entertainment and networking with your peers.
+
+    Mark your calendar for a memorable evening at Roots Handmade Pizza in South Loop Chicago. Grab a slice of authentic Chicago-style pizza and enjoy a unique rooftop experience that you won’t find anywhere else in the city.
+  notes: |
+    Requires providing a phone number to sign up.
+- name: Okteto KubeCon Party
+  date: 2023-11-08
+  time: "7pm - 9pm"
+  website: https://www.okteto.com/kubecon-north-america-2023-party/
+  location: Fatpour Tap Works 2206 S Indiana Ave, Chicago, IL 60616
+  description: |
+    Let's kickoff KubeCon together with an Okteto hosted Party!
+    This will be a great opportunity to connect in person and meet others in the community building modern development experiences.
+    Plus, free food and drinks on us!
+  notes: ""
+- name: Spyderbat and SlimAI's SpeakEasy Social
+  date: 2023-11-08
+  time: "7pm - 9pm"
+  website: https://www.spyderbat.com/kubecon-23-social-event
+  location: Hyatt Regency McCormick Place, 2233 S Martin Luther King Dr, Chicago, IL 60616, USA
+  description: |
+    Slip into your zoot suites and feather boas, because Spyderbat and Slim.AI are taking you back to the Roaring Twenties. At this speakeasy-inspired soiree, the jazz will be jumpin' and the giggle water will be flowin' as freely as the conversation. Come and meet the heppest cats in the Cloud Native and K8s, community - this is one shindig you don't want to miss!
+  notes: |
+    Entry pass must be collected from Spyderbat or Slim.AI booth during KubeCon after registering online.
+- name: Splunk OpenTelemetry Happy Hour
+  date: 2023-11-08
+  time: "7pm - 9pm"
+  website: https://splunk.swoogo.com/kubecon23splunkhappyhour
+  location: Row 24, 2411 S Michigan Ave, Chicago, IL 60616, United States
+  description: |
+    As many know, Chicago in November could be Fall or it could be Winter so we wanted to ensure our happy hour was just outside of the Kubecon Event center for easy accessibility no matter the weather or your schedule.
+
+    Row 24 provides us with a fabulous venue that has two levels for our networking, workshopping, music and of course great food & beverages to enjoy with committers, maintainers, and other OpenTelemetry community experts.
+  notes: |
+    Requires phone number and postal code during sign up.
 - name: "Rhythm & Kubes: Music for the Cloud Native Soul"
   date: 2023-11-08
   time: "7:30pm - 1am"
