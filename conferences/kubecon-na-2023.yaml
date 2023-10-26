@@ -175,6 +175,17 @@ parties:
     Join us for an evening of good drinks and food plus even better conversation. If you or someone you know is in DevOps, then this is the place for you.
   notes: |
     The venue will be announced closer to the date!
+- name: Kuberoke Fall Party Chicago
+  date: 2023-11-07
+  time: "9pm - 1am"
+  website: https://kuberoke.love/events/fall-party-chicago-2023/
+  location: Brando's Speakeasy, 343 S Dearborn St, Chicago, IL 60604
+  description: |
+    KubeCon + CloudNativeCon is coming to Chicago and to celebrate the occasion, we are hosting a Karaoke party on Tuesday November 7, 9pm - 1am at Chicago’s premier Karaoke bar, Brando’s Speakeasy.
+
+    We will have an open bar and snacks, thanks to our generous sponsors!
+  notes: |
+    Registration is required. You'll be sent a QR code for entry as space in the venue becomes available during the night.
 - name: The FluxNinja Rooftop Social Hour
   date: 2023-11-08
   time: "6pm - 9pm"
