@@ -234,6 +234,20 @@ parties:
     Mark your calendar for a memorable evening at Roots Handmade Pizza in South Loop Chicago. Grab a slice of authentic Chicago-style pizza and enjoy a unique rooftop experience that you won’t find anywhere else in the city.
   notes: |
     Requires providing a phone number to sign up.
+- name: Cheers to Observability!
+  date: 2023-11-08
+  time: "6:30pm - 9:30pm"
+  website: https://go.chronosphere.io/cheers-to-observability-chicago.html
+  location: Moody Tongue, 2515 S Wabash Ave, Chicago, IL 60616
+  description: |
+    Kick back and relax after Day 2 of Kubecon as Chronosphere, DoIT, and Google Cloud take over “The Bar” at the two Michelin starred Moody Tongue Brewery. We have you covered with exceptional bites and custom brews. Bonus: Moody Tongue’s CEO, Jeremy Cohn will be hosting a beer tasting from their year-round and limited-release beer collection.
+
+    What to expect:
+    * Live suggestions and recommendations from Jeremy and the Moody Tongue staff
+    * Take-home private label custom beer
+    * Observability experts to answer your burning questions
+  notes: |
+    Event is first come, first served and entry is up to staff discretion.
 - name: Okteto KubeCon Party
   date: 2023-11-08
   time: "7pm - 9pm"
