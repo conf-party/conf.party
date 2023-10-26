@@ -148,6 +148,22 @@ parties:
     Thank you to our #KubeCrawl = #CloudNativeFest sponsors, AMD and FluxNinja!
   notes: |
     Official KubeCon booth crawl and party
+- name: SIG Boba
+  date: 2023-11-07
+  time: "7pm - 10pm"
+  website: https://sig-boba.github.io/
+  location: Tsaocaa, 2026 S Clark St unit g, Chicago, IL 60616, United States
+  description: |
+    Come hang out! Have some korean fried chicken 🍗 and a bubble tea 🧋
+    We'll also have french fries 🍟 and macarons 🍪
+    Food and drink are paid for & there is no alcohol at this event.
+
+    We'll have music and board games for everyone in addition to the food.
+
+    Bring your partner and/or kids! :)
+    Just have a conference badge to check your group in.
+  notes: |
+    To register you must send a message in the [CNCF #sig-boba slack channel](https://cloud-native.slack.com/archives/C052LL415LP/).
 - name: Antimetal DevOps Happy Hour
   date: 2023-11-07
   time: "7pm - 10pm"
