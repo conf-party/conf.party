@@ -111,6 +111,16 @@ parties:
     We’ll be in Chicago for Redacted Conference Name, and hosting a party {Featuring: AWS} on the 6th November. Come meet the team!
   notes: |
     Location given out on registration
+- name: Observability Day After Hours Event
+  date: 2023-11-06
+  time: "7pm - 10pm"
+  website: https://www.eventbrite.com/e/observability-day-after-hours-event-tickets-732934726497?aff=Honeycomb
+  location: SPIN Chicago, 344 North State Street Chicago, IL 60654 United States
+  description: |
+    Get ready to kick back and unwind with the ultimate Observability Day After Hours Party, brought to you by Honeycomb, New Relic, and ObservIQ!
+
+    Join us for an epic night of fun, food, drinks, and serious ping pong action! We'll be serving up good vibes and great conversations about all things Otel and observability, with a side of friendly competition, ofc.
+  notes: ""
 - name: House of Kube Hosted by Humanitec
   date: 2023-11-06
   time: "7:30pm - 1am"
