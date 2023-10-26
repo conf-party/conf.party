@@ -63,6 +63,18 @@ parties:
     Join us for an evening of great food, drinks, arcade games, music, and more!
   notes: |
     Space is limited. Only pre-registered guests will be guaranteed access for this event.
+## CANCELLED
+# - name: Datadog Happy Hour after KubeCon!
+#   date: 2023-11-06
+#   time: "6:45pm - 8:45pm"
+#   website: https://www.linkedin.com/events/datadoghappyhourafterkubecon7120479711922688001/comments/
+#   location: Woven+Bound,  2121 S Prairie Ave, Chicago, Illinois, US, 60616
+#   description: |
+#     🎉 After an amazing first day at KubeCon, it's time to extend the fun beyond the conference walls! 🎉 🌐 Join us for a Happy Hour on Monday, November 6 at 6:45p @ Woven+Bound 🍻🥂
+
+#     💭 Let's unwind, share our favorite #KubeCon2023 moments, and toast to the future of innovation! 💡
+#   notes: |
+#     To sign up you must like or comment on the LinkedIn post.
 - name: OSS Security Soiree
   date: 2023-11-06
   time: "7pm - 9pm"
