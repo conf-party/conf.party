@@ -26,7 +26,7 @@ parties:
   date: 2023-11-06
   time: "5:30pm - 7:30pm"
   website: https://www.meetup.com/elastic-chicago-user-group/events/296428687/
-  location: 500 Madison St · Chicago, IL
+  location: 500 Madison St, Chicago, IL
   description: |
     The Elastic team and Microsoft are kicking off Kubecon with a joint meetup on Monday, November 6th!
 
@@ -37,6 +37,21 @@ parties:
     Our second talk of the evening is Data journey: How to build secure and private AI search apps with Elasticsearch and Azure OpenAI, presented by Jeff Vestal (Principal Customer Enterprise Architect at Elastic) and David Giard (Partner Solution Architect at Microsoft).
   notes: |
     Must sign up by November 3rd.
+- name: Windy City Tech Connect
+  date: 2023-11-06
+  time: "5:30pm - 8pm"
+  website: https://technology.discover.com/events/2023-windy-city-tech-connect
+  location: 1871 - Independent Innovation Hub - 222 W Merchandise Mart Plaza #1212, Chicago, IL 60654
+  description: |
+    Join Discover and industry partners Red Hat, Pluralsight, Avanade, and 1871 for an intimate engagement with the diverse Chicago tech community. We will discuss tech topics such as Kubernetes, cloud, and DevOps, chat about DE&I in tech, and give you opportunities to connect with other Chicago technologists.
+
+    Build your network, learn from experts, enjoy apps and drinks, and explore career paths to help you advance in the tech space.
+
+    During this event you will:
+    * Hear from key technology leaders in the Chicago area
+    * Listen to a panel talking about how to be a DE&I ally
+    * Visit breakout booths to learn more about the topics, career opportunities, and more
+  notes: ""
 - name: Dell Community Appreciation Event
   date: 2023-11-06
   time: "6pm - 10pm"
