@@ -195,6 +195,17 @@ parties:
     Join us for a memorable evening to unwind, connect over drinks, snacks, and enjoy Chicago's stunning skyline. See you soon!
   notes: |
     Requires providing a phone number to sign up.
+- name: DevApps & Brews
+  date: 2023-11-08
+  time: "6pm - 9pm"
+  website: https://page.gitlab.com/event-Nov08-DevApps-and-Brews-KubeconNA.html
+  location: Chicago, IL
+  description: |
+    Welcome and get ready to enjoy a networking social event at AceBounce. Join GitLab and our partners evening filled with appetizers, drinks, music, and networking opportunities with fellow KubeCon + CloudNativeCon NA attendees.
+
+    Please note this venue has a limited capacity. Pre-registration is required and admittance is provided on a first-come, first-served basis until capacity is met.
+  notes: |
+    Conference badges are REQUIRED to attend, and by attending DevApps & Brews, you provide consent for event sponsors to share photos on social platforms that may or may not include you.
 - name: Cloud-Native Cocktails
   date: 2023-11-08
   time: "6:30pm - 8:30pm"
