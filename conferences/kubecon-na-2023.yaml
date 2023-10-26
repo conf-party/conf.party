@@ -4,6 +4,24 @@ endDate: 2023-11-09
 website: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
 location: MCCORMICK PLACE WEST, 2301 S Indiana Ave., Chicago, IL 60616
 parties:
+- name: Chicago FinOps Meetup
+  date: 2023-11-06
+  time: "5:15pm - 7pm"
+  website: https://www.finops.org/event/chicago-finops-meetup/
+  location: Chicago Mercantile Exchange (CME), 20 S Wacker Dr Chicago, IL 60606
+  description: |
+    Join the FinOps community at the Chicago Mercantile Exchange (CME), 20 S Wacker Dr Chicago, IL 60606, on November 6 for networking and FinOps discussions.
+
+    Agenda
+    * 5:15 – 5:30 pm – Welcome & Networking
+    * 5:30 – 5:40 pm – Opening Remarks – What is FinOps & Updates from the Community – Ashley Hromatko (FinOps Foundation)
+    * 5:40 – 6:00 pm – CME presentation with Leslie Nolan (CME Group)
+    * 6:00 – 6:15 pm – Launching a FinOps Organization – Kimberly Floss (Pepsico)
+    * 6:15 – 6:30 pm – Panel Discussion – Leading a FinOps Team
+    * 6:30 – 7:00 pm – Networking
+
+    All participants are expected to abide by the Linux Foundation policies and the events Code of Conduct.
+  notes: ""
 - name: Elastic Chicago User Group + Microsoft Joint Meetup
   date: 2023-11-06
   time: "5:30pm - 7:30pm"
