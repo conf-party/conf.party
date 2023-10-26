@@ -206,6 +206,19 @@ parties:
     Please note this venue has a limited capacity. Pre-registration is required and admittance is provided on a first-come, first-served basis until capacity is met.
   notes: |
     Conference badges are REQUIRED to attend, and by attending DevApps & Brews, you provide consent for event sponsors to share photos on social platforms that may or may not include you.
+- name: Calico Exclusive Cruise Party
+  date: 2023-11-08
+  time: "6pm - 910m"
+  website: https://www.tigera.io/lp/kubecon-chicago-2023/
+  location: Chicago, IL
+  description: |
+    Join us for a fabulous private yacht party with a guided architecture tour amongst glittering skyscrapers and views of the spectacular Chicago lakefront.
+
+    Unwind and network with great food and an open bar.
+
+    This cruise party is by invitation only, and spaces are limited. Please register for consideration.
+  notes: |
+    You must sign up and then be invited. Registration is not enough for entry.
 - name: Cloud-Native Cocktails
   date: 2023-11-08
   time: "6:30pm - 8:30pm"
