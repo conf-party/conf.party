@@ -185,6 +185,21 @@ parties:
 
     If you'll also be in attendance and you'd like to book some time to chat with us about opportunities to get involved, or make sure your name is on the list for our mixer, please drop your details here.
   notes: ""
+- name: "Uptycs Sip ‘N Security"
+  date: 2023-11-07
+  time: "8pm - 10pm"
+  website: https://www.uptycs.com/events/sip-n-security-kubecon-na-2023
+  location: Fatpour Tap Works 2206 S Indiana Ave, Chicago, IL 60616
+  description: |
+    Raise the bar and join our Sip ‘N Security signature event that will blow you away—and it’s not just because it’s in the “Windy City”.
+
+    This isn’t your typical happy hour. Because happiness should not be limited to one hour. Grab an IPA all day, monitor your lagers, or wine a little bit with us.
+
+    But most importantly, remember Ha-Kubernetes Matata. It means no worries for your DevSecOps. It’s Uptycs’ SDLC problem-free philosophy.
+
+    Hop(e) to see you there!
+  notes: |
+    You must register to request an invitation. Entry not guarenteed. A conference badge is required for entry.
 - name: Kuberoke Fall Party Chicago
   date: 2023-11-07
   time: "9pm - 1am"
