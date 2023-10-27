@@ -175,6 +175,16 @@ parties:
     Join us for an evening of good drinks and food plus even better conversation. If you or someone you know is in DevOps, then this is the place for you.
   notes: |
     The venue will be announced closer to the date!
+- name: Connect w/TNS
+  date: 2023-11-07
+  time: "8pm - 10pm"
+  website: https://docs.google.com/forms/d/e/1FAIpQLSdMkhvrnEFoHD8YPQvl6jjHG0EAiqzTQvKB1sGytYT5nLb5cg/viewform
+  location: The TAP, 301 E Cermak Rd, Chicago, IL 60616
+  description: |
+    We're excited to be on-site in Chicago from November 6-9 for KubeCon + CloudNativeCon! We'll be covering the presentations, recording podcasts & videos on the show floor, and we are even throwing a post-KubeCrawl mixer on Nov. 7 at THE TAP (right next to the event venue - 301 E Cermak Rd, Chicago, IL 60616) from 8-10 PM.
+
+    If you'll also be in attendance and you'd like to book some time to chat with us about opportunities to get involved, or make sure your name is on the list for our mixer, please drop your details here.
+  notes: ""
 - name: Kuberoke Fall Party Chicago
   date: 2023-11-07
   time: "9pm - 1am"
