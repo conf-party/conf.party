@@ -211,6 +211,16 @@ parties:
     We will have an open bar and snacks, thanks to our generous sponsors!
   notes: |
     Registration is required. You'll be sent a QR code for entry as space in the venue becomes available during the night.
+- name: Pager Duty Chicago Meetup
+  date: 2023-11-08
+  time: "6pm - 8pm"
+  website: https://meet.pagerduty.com/chicagomeetup
+  location: The Berghoff - 17 W Adams St Chicago, IL 60603
+  description: |
+    Join us for a delightful networking reception featuring a spread of small bites and drinks. Don't miss a chance to spin the prize wheel for some fantastic prizes like Amazon Gift cards, JBL speakers, Morphie power banks!
+
+    Discover the latest automation trends and concepts that will revolutionize your workflows. PagerDuty will provide valuable insights into the forefront of automation concepts, enabling you to influence the future of automation for your business and gain expertise in crafting successful automation strategies. Hear from PagerDuty automation experts and get a 1:1 demo. Walk away with actionable knowledge to elevate your team's performance with Rundeck OSS and PagerDuty Process Automation.
+  notes: ""
 - name: The FluxNinja Rooftop Social Hour
   date: 2023-11-08
   time: "6pm - 9pm"
