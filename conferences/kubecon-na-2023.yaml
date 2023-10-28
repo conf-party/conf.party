@@ -313,6 +313,19 @@ parties:
     Row 24 provides us with a fabulous venue that has two levels for our networking, workshopping, music and of course great food & beverages to enjoy with committers, maintainers, and other OpenTelemetry community experts.
   notes: |
     Requires phone number and postal code during sign up.
+- name: Isovalent's Hive Mind Mingle
+  date: 2023-11-08
+  time: "7pm - 11pm"
+  website: https://isovalent.com/events/join-isovalents-hive-mind-mingle-at-kubecon-2023/
+  location: VU Rooftop Bar, 133 East Cermak Road Chicago
+  description: |
+    Isovalent is passionate about bettering the building blocks of infrastructure in the cloud native space. This requires a community of inspirational and influential minds. As such, we are trying to bring together the most interesting people we can find in various cities over a great walk around meal to discuss, network, and exchange ideas and celebrate a swarm intelligence spirit. 🐝
+
+    Our goal is to help build meaningful relationships and meaningful understanding of what it takes to build great infrastructure and use it purposefully.
+
+    Join us in VU Rooftop, Hilton Garden Inn McCormick Center on the 22nd floor, with beautiful views of the Chicago skyline and enjoy drinks and appetizers while socializing with leading Cilium and eBPF industry experts and community members.
+  notes: |
+    Currently a waitlist.
 # # Cancelled
 # - name: "Rhythm & Kubes: Music for the Cloud Native Soul"
 #   date: 2023-11-08
