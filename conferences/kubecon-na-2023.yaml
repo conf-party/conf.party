@@ -224,6 +224,17 @@ parties:
     We will have an open bar and snacks, thanks to our generous sponsors!
   notes: |
     Registration is required. You'll be sent a QR code for entry as space in the venue becomes available during the night.
+- name: Like Peanut Butter and Chocolate
+  date: 2023-11-08
+  time: "5:30pm - 9pm"
+  website: https://www.upbound.io/resources/events/registration/argo-crossplane-peanut-butter-chocolate-happy-hour
+  location: Hyatt Regency McCormick Place, 2233 S Martin Luther King Dr, Chicago, IL 60616, USA
+  description: |
+    Join Akuity and Upbound for a night of snacks, drinks, and GitOps!
+
+    Join Akuity and Upbound for an enjoyable evening of snacks, drinks, and insightful conversations with top experts in GitOps, DevOps, and Platform Engineering. Discover why Crossplane and Argo CD are the perfect match for all your enterprise infrastructure needs. It will be a fun-filled event with surprises that you won't want to miss!
+  notes: |
+    Currently has a waitlist in place.
 - name: Pager Duty Chicago Meetup
   date: 2023-11-08
   time: "6pm - 8pm"
