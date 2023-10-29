@@ -52,6 +52,19 @@ parties:
     * Listen to a panel talking about how to be a DE&I ally
     * Visit breakout booths to learn more about the topics, career opportunities, and more
   notes: ""
+- name: "Cocktails & Conversations"
+  date: 2023-11-06
+  time: "6pm - 9pm"
+  website: https://go.cortex.io/event_cortex-ivp-hh-chicago.html
+  location: The Drawing Room at the Chicago Athletic Association, 12 S Michigan Ave, Chicago, IL 60603, United States
+  description: |
+    Guests will enjoy a tailored whiskey tasting, hand-crafted cocktails, and elevated recreations of midwestern favorites. Meet and greet fellow engineering leaders during this intimate fireside reception before the KubeCon + CloudNativeCon excitement begins.
+
+    Who Should Attend
+
+    This event is suitable for technology titles including, but not limited to: CXO (CTO, CISO), VP/Director/Managers/Head/Principal/Staff/Leads of Engineering, VP/Director/Managers/Head/Principal/Staff/Leads of Platform Engineering, VP/Director/Managers/Head/Principal/Staff/Leads of SRE, Site Reliability Engineers and Platform Engineers.
+  notes: |
+    This event is not open to channel or technology partners.
 - name: Dell Community Appreciation Event
   date: 2023-11-06
   time: "6pm - 10pm"
