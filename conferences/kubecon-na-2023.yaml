@@ -65,6 +65,14 @@ parties:
     This event is suitable for technology titles including, but not limited to: CXO (CTO, CISO), VP/Director/Managers/Head/Principal/Staff/Leads of Engineering, VP/Director/Managers/Head/Principal/Staff/Leads of Platform Engineering, VP/Director/Managers/Head/Principal/Staff/Leads of SRE, Site Reliability Engineers and Platform Engineers.
   notes: |
     This event is not open to channel or technology partners.
+- name: "DevOps + Security Happy Hour + Dinner"
+  date: 2023-11-06
+  time: "6pm - 9pm"
+  website: https://www.arnica.io/events/appsec-happy-hour-dinner-kubecon-2023
+  location: Woven+Bound, 2121 S Prairie Ave, Chicago, Illinois, US, 60616
+  description: |
+    Join Arnica & GitHub for an evening of food and drinks to celebrate being back together at KubeCon + CloudNativeCon 2023!
+  notes: ""
 - name: Dell Community Appreciation Event
   date: 2023-11-06
   time: "6pm - 10pm"
