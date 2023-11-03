@@ -385,6 +385,16 @@ parties:
     Join us in VU Rooftop, Hilton Garden Inn McCormick Center on the 22nd floor, with beautiful views of the Chicago skyline and enjoy drinks and appetizers while socializing with leading Cilium and eBPF industry experts and community members.
   notes: |
     Currently a waitlist.
+- name: Billing at a Barcade
+  date: 2023-11-08
+  time: "7:30pm - 9:30pm"
+  website: https://lu.ma/billingbarcade
+  location: Highline, 169 W Kinzie St, Chicago, IL 60654, USA
+  description: | 
+    Going to KubeCon? Join Will & Walker from Orb for Billing at a Barcade! Stop by to chat about usage-based billing--and yes, you can vent about the pains of your current billing infra.
+
+    ​Drinks & bites on us. Join us at Highline Bar's East Front Lounge in the River North neighborhood. Then, head up the bar's arcade just upstairs to cap off your night!
+  notes: ""
 # # Cancelled
 # - name: "Rhythm & Kubes: Music for the Cloud Native Soul"
 #   date: 2023-11-08
