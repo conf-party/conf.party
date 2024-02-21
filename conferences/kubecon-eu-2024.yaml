@@ -25,6 +25,23 @@ parties:
     Can be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration.
 
     Note that adding it to your KubeCon ticket isn't enough to guarantee entry and your ticket my be cancelled in the run up to the event as has occurred in previous years.
+- name: Wiz Happy hour at Le Shack
+  date: 2024-03-19
+  time: "7:30pm - 11:00pm"
+  website: https://www.wiz.io/events/wiz-happy-hour-at-le-shack
+  location: Le Shack - 4 Imp. Sandrie, 75009 Paris, France
+  description: |
+    Prepare yourself for a night filled with magical moments and incredible networking opportunities. You are invited to an exclusive Happy Hour event, hosted in collaboration with our partner AWS.
+
+    Immerse yourself in the enchanting ambiance of Le Shack and feel the atmosphere of a unique place in the heart of Paris, near the Opera Garnier.
+
+    Accessible via metro stop "Opera" or a bit further stop "Saint Lazare"​
+
+    "Saint Lazare" & Porte de Versailles" metro stations are both on train line n°12
+
+    We look forward to celebrating with you and creating unforgettable memories together!
+  notes: |
+    Registration puts you on a waitlist.
 - name: "#KubeCrawl + #CloudNativeFest Sponsored by Adevinta and Upbound"
   date: 2024-03-20
   time: "6pm - 8pm"
