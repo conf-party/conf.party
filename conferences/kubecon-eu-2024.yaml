@@ -12,6 +12,15 @@ parties:
   description: |
     We are thrilled to announce that OVHcloud and Rancher by SUSE joined forces to build a cloud-native platform unique on the market. Advocating together for trust, freedom and innovation, this open-source service let you manage autonomously Kubernetes clusters anywhere in the world. Join us to learn more about it and celebrate this step forward during our co-organised event.
   notes: ""
+- name: SECURITY SOIREE
+  date: 2024-03-19
+  time: "7pm - 9pm"
+  website: https://www.eventbrite.com/e/hands-on-cloud-native-security-workshop-and-party-tickets-790404249387
+  location: Courtyard Paris Porte de Versailles, 5 Rue Ernest Renan 92130 Issy-les-Moulineaux France
+  description: |
+    Party with security leaders for a night of meaningful conversation, connection, and knowledge sharing in a gorgeous setting with food, drinks, music, team photos, giveaways, and more!
+  notes: |
+    There is also a hand-on workshop beforehand. When registering you can optionally select one or both of the events.
 - name: House of Kube
   date: 2024-03-19
   time: "7pm - 2:30am"
@@ -51,3 +60,15 @@ parties:
     In order to facilitate networking and business relationships at the event, you may choose to visit a third party’s booth or access sponsored content. You are never required to visit third party booths or to access sponsored content. When visiting a booth or participating in sponsored activities, the third party will receive some of your registration data. This data includes your first name, last name, title, company, address, email, standard demographics questions (i.e. job function, industry), and details about the sponsored content or resources you interacted with. If you choose to interact with a booth or access sponsored content, you are explicitly consenting to receipt and use of such data by the third-party recipients, which will be subject to their own privacy policies.
   notes: |
     This is the official KubeCon party and booth crawl (combined)
+- name: Benelux Bowling Borrel
+  date: 2024-03-21
+  time: "6pm - 8pm"
+  website: https://docs.google.com/forms/d/e/1FAIpQLSeZnOkq-F3W9CQbywXTakihD6dVFRJECe6nrLualdmj6SuPzA/viewform?fbzx=-6144257508688095985
+  location: Bowling du Front de Seine15, Rue Gaston de Caillavet, 75015 Paris, France
+  description: |
+    Are you in Paris for KubeCon? Why not join us at the Benelux Bowling Borrel Thursday the 21th of March 2024 at 18h in Bowling du Front de Seine15 (only 30 min away from KubeCon).
+
+    KuBBBecon is an exclusive event, but would you also like to come bowling, network and have a chance to win the coveted challenge cup? Please complete the form below and you might be able to get a spot!
+
+    We are looking forward to meet you there and enjoy a cozy evening with a French touch filled with bowling, beer, snacks, fun and lots of networking!
+  notes: ""
