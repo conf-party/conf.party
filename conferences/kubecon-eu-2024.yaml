@@ -120,6 +120,14 @@ parties:
 
     We will not admit anyone without a QR code. Please do not bring friends who did not register. If you are in a group and want to come together, please wait until you all have a code.
 
+- name: KubeCon Community Clink Gathering
+  date: 2024-03-21
+  time: "5pm - 7pm"
+  website: https://www.dragonflydb.io/events/2024-03-21-kubecon-community-clink
+  location: Comptoir Rugby Bar, 354 Bis Rue de Vaugirard, 75015 Paris
+  description: |
+    Join us for an exclusive Community Clink gathering, hosted by Dragonfly, Dagger, and Scarf at KubeCon. We're eagerly looking forward to your presence and toasting to a wonderful time together!
+  notes: ""
 - name: Benelux Bowling Borrel
   date: 2024-03-21
   time: "6pm - 8pm"
