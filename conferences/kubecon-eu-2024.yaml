@@ -77,6 +77,22 @@ parties:
   notes: |
     Registration puts you on a waitlist.
 
+- name: "OSPO BoF + Happy Hour"
+  date: 2024-03-20
+  time: "4pm - 6pm"
+  website: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/experiences/#ospo-bof-happy-hour
+  location:  Pavilion 7 | Level 7.3 | W04, PARIS EXPO PORTE DE VERSAILLES, Paris, France
+  description: |
+    CNCF in collaboration with TODO Group is excited to host an Open Source Program Office (OSPO) Birds of a Feather meeting followed by a Happy Hour. This event is a great opportunity for professionals managing open source operations and strategy in their organizations to connect, discuss, and share best practices on integrating open source knowledge and cloud native adoption across security, IT and business teams.
+
+    BoF Highlights:
+
+    * Dive into OSPO day-to-day operations.
+    * Engage in discussions about common challenges and share perspectives.
+    * Contribute to the OSPO Book Project. Participants will be acknowledged in Chapter 5, attributing to the collective wisdom shared during the BoF session.
+    * Meet like-minded professionals and expand your network in the open source / Cloud Native community.
+  notes: |
+    This is the official KubeCon party and booth crawl (combined)
 - name: "#KubeCrawl + #CloudNativeFest Sponsored by Adevinta and Upbound"
   date: 2024-03-20
   time: "6pm - 8pm"
