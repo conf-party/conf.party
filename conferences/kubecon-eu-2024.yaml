@@ -17,6 +17,7 @@ parties:
     Attendees can enjoy games like table football and petanque, along with complimentary food and drinks, until they run out. This gathering is the perfect setting for passionate professionals to connect and unwind.
   notes: |
     Requires a code to sign up, provided to those attending KubeCon via KubeTrain.
+
 - name: PaaS Forward
   date: 2024-03-19
   time: "5pm - 11:30pm"
@@ -25,6 +26,17 @@ parties:
   description: |
     We are thrilled to announce that OVHcloud and Rancher by SUSE joined forces to build a cloud-native platform unique on the market. Advocating together for trust, freedom and innovation, this open-source service let you manage autonomously Kubernetes clusters anywhere in the world. Join us to learn more about it and celebrate this step forward during our co-organised event.
   notes: ""
+- name: Software Delivery & DevOps Meet-up Hosted by Harness
+  date: 2024-03-19
+  time: "6:30pm - 8:30pm"
+  website: https://kccnceu2024.sched.com/event/1aDaD
+  location: 750g La Table 397 Rue de Vaugirard, 75015 Paris, France
+  description: |
+    Following ArgoCon, join Harness for an evening of cocktails, small bites, networking and talks from engineering experts. They'll share how open source software is powering the next generation of DevOps platforms which are purpose built for cloud native environments. Plus, our lightning demos will give you the chance to present something you are working on to the audience!
+
+    Please note that this is an off-site Sponsor-hosted Co-located event.
+  notes: |
+    Sold out
 - name: SECURITY SOIREE
   date: 2024-03-19
   time: "7pm - 9pm"
@@ -64,6 +76,7 @@ parties:
     We look forward to celebrating with you and creating unforgettable memories together!
   notes: |
     Registration puts you on a waitlist.
+
 - name: "#KubeCrawl + #CloudNativeFest Sponsored by Adevinta and Upbound"
   date: 2024-03-20
   time: "6pm - 8pm"
@@ -90,6 +103,7 @@ parties:
     Beginning at 8:30pm and whenever new slots become available, we will send out QR codes to the top addresses on the guest list, which will let you enter the venue. Once you have received your QR code, you have a limited amount of time to arrive. If you’re late and the venue is full, you can queue at the door or come back at a later time. We will fill the venue from the queue first, before sending out new QR codes. If the venue is not full, and you have a valid QR code, you can enter even if you’re late.
 
     We will not admit anyone without a QR code. Please do not bring friends who did not register. If you are in a group and want to come together, please wait until you all have a code.
+
 - name: Benelux Bowling Borrel
   date: 2024-03-21
   time: "6pm - 8pm"
