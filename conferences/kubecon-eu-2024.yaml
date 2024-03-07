@@ -4,6 +4,19 @@ endDate: 2024-03-22
 website: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 location: PARIS EXPO PORTE DE VERSAILLES, Paris, France
 parties:
+- name: KubeTrain Party
+  date: 2024-03-18
+  time: "7pm - 11:00pm"
+  website: https://party.kubetrain.io/
+  location: Fitzroy, 49 Rue du Faubourg Saint-Antoine, 75011 Paris, France
+  description: |
+    KubeTrain Party is a unique pre-KubeCon event celebrating the eco-friendly journey to one of the most anticipated conferences in the tech world. Organized by the cloud-native community, this gathering will host a passionate crowd and provide a perfect blend of networking and fun.
+
+    The event will take place in a cool venue with an exclusive floor available just for us.
+
+    Attendees can enjoy games like table football and petanque, along with complimentary food and drinks, until they run out. This gathering is the perfect setting for passionate professionals to connect and unwind.
+  notes: |
+    Requires a code to sign up, provided to those attending KubeCon via KubeTrain.
 - name: PaaS Forward
   date: 2024-03-19
   time: "5pm - 11:30pm"
