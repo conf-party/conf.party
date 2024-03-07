@@ -73,6 +73,23 @@ parties:
     In order to facilitate networking and business relationships at the event, you may choose to visit a third party’s booth or access sponsored content. You are never required to visit third party booths or to access sponsored content. When visiting a booth or participating in sponsored activities, the third party will receive some of your registration data. This data includes your first name, last name, title, company, address, email, standard demographics questions (i.e. job function, industry), and details about the sponsored content or resources you interacted with. If you choose to interact with a booth or access sponsored content, you are explicitly consenting to receipt and use of such data by the third-party recipients, which will be subject to their own privacy policies.
   notes: |
     This is the official KubeCon party and booth crawl (combined)
+- name: "Kuberoke"
+  date: 2024-03-20
+  time: "9pm - 2am"
+  website: https://kuberoke.love/events/spring-party-paris-2024/
+  location: KaraFun Paris, 3 Imp. Bonne Nouvelle, 75010 Paris, France
+  description: |
+    KubeCon + CloudNativeCon is coming to Paris and to celebrate the occasion, we are hosting a Karaoke party on Wednesday March 20, 9pm - 2am at KaraFun Bar Paris.
+
+    We will have an open bar and snacks, thanks to our generous sponsors!
+  notes: |
+    Due to overwhelming interest, we are now requiring folks to register. Please fill in the registration form below to add yourself to the guest list.
+
+    Registration will collect your email, but it will only be used for sending confirmation and invites; your personal email address will not be shared with the sponsors for marketing purposes. We will share the unique company domain names from emails (i.e. companyname.com) with sponsors.
+
+    Beginning at 8:30pm and whenever new slots become available, we will send out QR codes to the top addresses on the guest list, which will let you enter the venue. Once you have received your QR code, you have a limited amount of time to arrive. If you’re late and the venue is full, you can queue at the door or come back at a later time. We will fill the venue from the queue first, before sending out new QR codes. If the venue is not full, and you have a valid QR code, you can enter even if you’re late.
+
+    We will not admit anyone without a QR code. Please do not bring friends who did not register. If you are in a group and want to come together, please wait until you all have a code.
 - name: Benelux Bowling Borrel
   date: 2024-03-21
   time: "6pm - 8pm"
