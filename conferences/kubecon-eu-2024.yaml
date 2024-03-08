@@ -102,6 +102,18 @@ parties:
     In order to facilitate networking and business relationships at the event, you may choose to visit a third party’s booth or access sponsored content. You are never required to visit third party booths or to access sponsored content. When visiting a booth or participating in sponsored activities, the third party will receive some of your registration data. This data includes your first name, last name, title, company, address, email, standard demographics questions (i.e. job function, industry), and details about the sponsored content or resources you interacted with. If you choose to interact with a booth or access sponsored content, you are explicitly consenting to receipt and use of such data by the third-party recipients, which will be subject to their own privacy policies.
   notes: |
     This is the official KubeCon party and booth crawl (combined)
+- name: "CTRL+ALT+TECH-N-ROLL"
+  date: 2024-03-20
+  time: "8pm - 11:30pm"
+  website: https://www.eventbrite.fr/e/ctrlalttech-n-roll-tickets-853674803317
+  location: "Johnny Hallyday L'Exposition - PARIS, 1 Place de la Porte de Versailles #Pavillon 2.1 75015 Paris France"
+  description: |
+    Get ready to rock and roll in the heart of Paris with the Kubecon CloudNativCon tech community! It’s not just a party - it’s an unforgettable experience.
+
+    Just a stone’s throw away from the Paris Expo. Let's rock out and innovate. Join us for a night of chill vibes and a fun time on Wednesday, March 20th from 8 PM to 11 PM.
+
+    Sponsored by Tailscale, Chainguard, CyberArk, Snyk, and GitGuardian.
+  notes: ""
 - name: "Kuberoke"
   date: 2024-03-20
   time: "9pm - 2am"
