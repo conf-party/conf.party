@@ -102,6 +102,23 @@ parties:
     In order to facilitate networking and business relationships at the event, you may choose to visit a third party’s booth or access sponsored content. You are never required to visit third party booths or to access sponsored content. When visiting a booth or participating in sponsored activities, the third party will receive some of your registration data. This data includes your first name, last name, title, company, address, email, standard demographics questions (i.e. job function, industry), and details about the sponsored content or resources you interacted with. If you choose to interact with a booth or access sponsored content, you are explicitly consenting to receipt and use of such data by the third-party recipients, which will be subject to their own privacy policies.
   notes: |
     This is the official KubeCon party and booth crawl (combined)
+- name: "SIG Boba"
+  date: 2024-03-20
+  time: "6pm - 8pm"
+  website: https://sig-boba.github.io/
+  location: Dedicated space in the Solutions Showcase, Pavilion 7 | Level 7.2 | Hall 7.2, PARIS EXPO PORTE DE VERSAILLES, Paris, France
+  description: |
+    Coming to KubeCon and looking for a non-alcoholic after party?
+
+    Join us at SIG Social aka @sigboba for an evening of vibrant connections and engaging discussions in an alcohol-free environment. Designed to be inclusive and comfortable for all, SIG Social offers a unique space to network and unwind without the presence of alcoholic beverages.
+
+    What’s Included:
+    - Non-alcoholic bar + Smoothie Station
+    - Food stations throughout the Solutions Showcase
+    - Board games for entertainment
+    - Clear signage indicating it’s an alcohol-free zone
+  notes: |
+    Takes part within the official KubeCon Party / Boothcrawl in a dedicated area. Website currently not updated for Paris.
 - name: "Open Source Soirée"
   date: 2024-03-20
   time: "8pm - 11pm"
