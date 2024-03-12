@@ -91,8 +91,7 @@ parties:
     * Engage in discussions about common challenges and share perspectives.
     * Contribute to the OSPO Book Project. Participants will be acknowledged in Chapter 5, attributing to the collective wisdom shared during the BoF session.
     * Meet like-minded professionals and expand your network in the open source / Cloud Native community.
-  notes: |
-    This is the official KubeCon party and booth crawl (combined)
+  notes: ""
 - name: "#KubeCrawl + #CloudNativeFest Sponsored by Adevinta and Upbound"
   date: 2024-03-20
   time: "6pm - 8pm"
