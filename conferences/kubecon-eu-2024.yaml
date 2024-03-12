@@ -185,3 +185,15 @@ parties:
 
     We are looking forward to meet you there and enjoy a cozy evening with a French touch filled with bowling, beer, snacks, fun and lots of networking!
   notes: ""
+- name: Cloud-Native Cocktails
+  date: 2024-03-21
+  time: "6pm - 9:30pm"
+  website: https://cast.ai/event/kubecon-europe-2024/cloud-native-cocktails/
+  location: Voie15 (397 Bis Rue de Vaugirard, 75015 Paris, France)
+  description: |
+    Gain insights from our CEO and founders on the latest innovations around cost-optimized platforms and how automation plays a key role in managing applications and cloud spending.
+
+    Network and engage in meaningful conversations with developers and industry leaders across a variety of industries who are using Kubernetes to deploy, scale, and manage containerized applications.
+
+    Explore the capabilities of CAST AI, Port and Upbound.
+  notes: ""
