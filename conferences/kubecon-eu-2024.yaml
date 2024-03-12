@@ -102,6 +102,22 @@ parties:
     In order to facilitate networking and business relationships at the event, you may choose to visit a third party’s booth or access sponsored content. You are never required to visit third party booths or to access sponsored content. When visiting a booth or participating in sponsored activities, the third party will receive some of your registration data. This data includes your first name, last name, title, company, address, email, standard demographics questions (i.e. job function, industry), and details about the sponsored content or resources you interacted with. If you choose to interact with a booth or access sponsored content, you are explicitly consenting to receipt and use of such data by the third-party recipients, which will be subject to their own privacy policies.
   notes: |
     This is the official KubeCon party and booth crawl (combined)
+- name: "Open Source Soirée"
+  date: 2024-03-20
+  time: "8pm - 11pm"
+  website: https://www.upbound.io/resources/events/registration/open-source-soiree-kubecon-paris2024
+  location: "Le Perchoir Porte de Versaille, 2 Av. de la Prte de la Plaine, 75015 Paris, France"
+  description: |
+    Join Upbound, Nirmata, and Akuity; the creators of some of the most popular CNCF open-source projects for a fun night out in Paris!
+
+    We're thrilled to unite some of the brightest minds in the cloud native open source community, and yes, that includes YOU!
+
+    Join our teams for an evening celebrating the future of cloud-native computing with key project leaders and friends in Argo, Crossplane, Kyverno, and more. Oh, and did we mention there'll be free drinks and food?
+
+    Get ready to connect with our passionate cloud-native community, all dedicated to advancing your productivity with Kubernetes environments. Plus, we might just share insider tips on finding the best croissant in Paris!
+
+    Space is limited, so enter your info on the right to secure your spot. Can't wait to see you there!
+  notes: ""
 - name: "CTRL+ALT+TECH-N-ROLL"
   date: 2024-03-20
   time: "8pm - 11:30pm"
