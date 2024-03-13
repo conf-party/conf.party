@@ -59,6 +59,21 @@ parties:
     Can be added as a co-located event as part of your KubeCon + CloudNativeCon ticket registration.
 
     Note that adding it to your KubeCon ticket isn't enough to guarantee entry and your ticket my be cancelled in the run up to the event as has occurred in previous years.
+- name: Isovalent's Hive Mind Mingle
+  date: 2024-03-19
+  time: "7pm - 11pm"
+  website: https://isovalent.com/events/2024-03-19-hive-mind-mingle-paris/
+  location: Le Perchoir Porte de Versailles (Rooftop of Pavillon 6 at Paris Expo Porte de Versailles), Av. de la Prte de la Plaine, 75015 Paris, France
+  description: |
+    Isovalent is passionate about Cloud Native Networking & Security. Our goal is to help build meaningful relationships and meaningful understanding of what it takes to build great infrastructure and use it purposefully. This requires a community of inspirational and influential minds. We want to bring together the community at KubeCon to discuss, network, and exchange buzzing ideas about Cilium, eBPF and beyond.
+
+    Join us in Le Perchoir Porte de Versailles, a rooftop with beautiful views on top of Paris Expo Porte de Versailles, where you can enjoy drinks and appetizers while socializing with leading Cilium and eBPF industry experts and community members.
+
+    We look forward to seeing you onsite!
+
+    Please be aware that by attending the HiveMind Mingle, you consent to be photographed or filmed for use in future promotions. Please inform an event organizer upon arrival if you do not wish to be captured in any photos or videos.
+  notes: |
+    Currently waitlist
 - name: Wiz Happy hour at Le Shack
   date: 2024-03-19
   time: "7:30pm - 11:00pm"
