@@ -91,6 +91,14 @@ parties:
     We look forward to celebrating with you and creating unforgettable memories together!
   notes: |
     Registration puts you on a waitlist.
+- name: KubeCon Paris Community Event with Equinix Metal and NetApp
+  date: 2024-03-19
+  time: "6:00pm - 10:00pm"
+  website: https://www.eventbrite.com/e/kubecon-paris-community-event-with-equinix-metal-and-netapp-tickets-856312974157
+  location: Aquaboulevard, 4 Rue Louis Armand, 75015 Paris, France
+  description: |
+    Welcome to Paris, KubeCon community! Equinix Metal and NetApp are excited to partner up and offer you a night of networking, delicious appetizers, and drinks.
+  notes: ""
 
 - name: "OSPO BoF + Happy Hour"
   date: 2024-03-20
