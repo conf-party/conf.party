@@ -2,5 +2,46 @@ name: KubeCon + CloudNativeCon Europe 2025
 date: 2025-04-01
 endDate: 2025-04-04
 website: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
-location: Excel London, Royal Victoria Dock, 1 Western Gateway, London E16 1XL, United Kingdom
+location: Crowne Plaza London Docklands
 parties:
+# March 30th
+
+# March 31st
+
+# April 1st
+- name: OpenShift Commons Gathering hosted by Red Hat
+  date: 2025-04-01
+  time: "9:30am - 3:30pm"
+  website: https://commons.openshift.org/gatherings/kubecon-25-apr-01/
+  location: Crowne Plaza London Docklands, Western Gateway London, E16 1AL United Kingdom
+  description: |
+    This Gathering will focus on talks from and by Cloud Native practitioners with production deployments sharing their use cases, insights into their workloads and lessons learned along the way.
+  notes: |
+    There is an open CFP to speak at this event also: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSUyb2bEr9zRsckdmpX32or5LV-vkcgHrivYDbNKMeFGRCnA/viewform">Google Forms</a>
+
+- name: Dagger HackNight hosted by Dagger
+  date: 2025-04-01
+  time: "6:00pm - 10:00pm"
+  website: https://lu.ma/hlx7s6ym
+  location: Civo Tech Junction, First Floor, 32-37 Cowper St, London EC2A 4AW
+  description: |
+    Dagger HackNight is your chance to join a vibrant community of developers and innovators for an evening of hands-on building, collaboration, and discovery. Whether you’re a beginner or an expert, this is the perfect space to unleash your creativity, explore new ideas, and contribute to the future of containerized CI/CD.
+
+    Dagger HackNight brings together developers and devops professionals of all levels to explore the possibilities of building and sharing CI/CD pipelines with Dagger. From hands-on labs to advanced projects, this event is designed to inspire and empower every attendee.
+  notes: |
+
+
+# April 2nd
+- name: "🎉 #KubeCrawl + #CloudNativeFest"
+  date: 2025-04-02
+  time: "6:15pm - 7:45pm"
+  website: https://kccnceu2025.sched.com/event/1tiar/kubecrawl-cloudnativefest
+  location: Sponsor Hall
+  description: |
+    Join us for drinks, appetizers, entertainment, and conversations with old and new friends in the Solutions Showcase. Explore the exhibit booths to learn more about the latest technologies, browse special offers and job posts, and much more.
+  notes: |
+    Official KubeCon party
+
+# April 3rd
+
+# April 4th
