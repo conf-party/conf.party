@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/base64"
 	"flag"
 	"fmt"
 	"html/template"
@@ -80,13 +81,21 @@ func build() {
 
 			return d
 		},
+		"now": func() string {
+			return time.Now().Format("Mon, 02 Jan 2006 15:04:05 MST")
+		},
+		"guid": func(party Party) string {
+			return base64.StdEncoding.EncodeToString([]byte(party.Date + party.Name))
+		},
 	}
 
 	indexFile, _ := os.ReadFile(path.Join(rootDir, "./src/templates/index.html"))
 	eventFile, _ := os.ReadFile(path.Join(rootDir, "./src/templates/event.html"))
+	rssFile, _ := os.ReadFile(path.Join(rootDir, "./src/templates/rss.xml"))
 
 	indexTmpl, _ := template.New("index").Funcs(templateFuncs).Parse(string(indexFile))
 	eventTmpl, _ := template.New("event").Funcs(templateFuncs).Parse(string(eventFile))
+	rssTmpl, _ := template.New("rss").Funcs(templateFuncs).Parse(string(rssFile))
 
 	confs := []Conference{}
 
@@ -117,6 +126,8 @@ func build() {
 		return confs[i].Date > confs[j].Date
 	})
 
+	parties := []Party{}
+
 	for _, conf := range confs {
 		outFile, err := os.Create(path.Join(outDir, conf.Filename))
 		if err != nil {
@@ -126,6 +137,12 @@ func build() {
 
 		if err := eventTmpl.Execute(outFile, conf); err != nil {
 			log.Println("template event: ", err)
+		}
+
+		// Populate conference name and add to slice
+		for _, party := range conf.Parties {
+			party.Conference = conf.Name
+			parties = append(parties, party)
 		}
 	}
 
@@ -137,6 +154,19 @@ func build() {
 
 	if err := indexTmpl.Execute(outFile, confs); err != nil {
 		log.Println("template event: ", err)
+	}
+
+	// RSS Feed
+	{
+		outFile, err := os.Create(path.Join(outDir, "rss.xml"))
+		if err != nil {
+			log.Println("create file: ", err)
+			return
+		}
+
+		if err := rssTmpl.Execute(outFile, parties); err != nil {
+			log.Println("template event: ", err)
+		}
 	}
 
 	// // Copy static files

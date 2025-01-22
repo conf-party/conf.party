@@ -24,6 +24,9 @@ type Party struct {
 	Location    string `yaml:"location"`
 	Description string `yaml:"description"`
 	Notes       string `yaml:"notes"`
+
+	// Dynamic
+	Conference string
 }
 
 func (c Conference) Validate() error {

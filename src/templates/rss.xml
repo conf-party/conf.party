@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conf.Party</title>
+    <link>https://conf.party</link>
+    <description>Parties and socials around conferences</description>
+    <lastBuildDate>{{ now }}</lastBuildDate>
+    {{range .}}
+    <item>
+      <guid isPermaLink="false">{{guid .}}</guid>
+      <title>{{.Conference}} - {{.Name}}</title>
+      <link>{{.Website}}</link>
+      <description>&lt;b&gt;Date:&lt;/b&gt; {{.Date}}&lt;br/&gt;
+&lt;b&gt;Location:&lt;/b&gt; {{.Location}}&lt;br/&gt;
+&lt;b&gt;Description:&lt;/b&gt; {{.Description}}&lt;br/&gt;
+&lt;b&gt;Notes:&lt;/b&gt; {{.Notes}}&lt;br/&gt;
+</description>
+    </item>
+    {{end}}
+  </channel>
+</rss>
