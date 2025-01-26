@@ -30,6 +30,16 @@ parties:
     Dagger HackNight brings together developers and devops professionals of all levels to explore the possibilities of building and sharing CI/CD pipelines with Dagger. From hands-on labs to advanced projects, this event is designed to inspire and empower every attendee.
   notes: |
 
+- name: House of Kube
+  date: 2025-04-01
+  time: "7pm - 2:00am"
+  website: https://www.houseofkube.com/
+  location: TBA
+  description: |
+    The hottest party in cloud native comes back. This time in London.
+    You bring you, we take care of the rest.
+    Build real connections and hang out with pioneers from the cloud native world, enjoy the best food an music that London has to offer (tss cocktails too), dance to the funkiest house and techno beats.
+  notes: |
 
 # April 2nd
 - name: "🎉 #KubeCrawl + #CloudNativeFest"
