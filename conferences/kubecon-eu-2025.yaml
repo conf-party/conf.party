@@ -53,6 +53,16 @@ parties:
   notes: |
     Official KubeCon party
 
+- name: Kuberoke
+  date: 2025-04-02
+  time: "9pm - 1am"
+  website: https://kuberoke.love/events/spring-party-london-2025/
+  location: TBC
+  description: |
+    KubeCon + CloudNativeCon is coming to London and to celebrate the occasion, we are hosting a Karaoke party on Wednesday April 2, 9pm - 1am (TBC) at TBC.
+  notes: |
+    This event is still being organised and registration is not yet available.
+
 # April 3rd
 
 # April 4th
