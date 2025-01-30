@@ -25,7 +25,7 @@ parties:
   website: https://lu.ma/hlx7s6ym
   location: Civo Tech Junction, First Floor, 32-37 Cowper St, London EC2A 4AW
   description: |
-    Dagger HackNight is your chance to join a vibrant community of developers and innovators for an evening of hands-on building, collaboration, and discovery. Whether you’re a beginner or an expert, this is the perfect space to unleash your creativity, explore new ideas, and contribute to the future of containerized CI/CD.
+    Dagger HackNight is your chance to join a vibrant community of developers and innovators for an evening of hands-on building, collaboration, and discovery. Whether you're a beginner or an expert, this is the perfect space to unleash your creativity, explore new ideas, and contribute to the future of containerized CI/CD.
 
     Dagger HackNight brings together developers and devops professionals of all levels to explore the possibilities of building and sharing CI/CD pipelines with Dagger. From hands-on labs to advanced projects, this event is designed to inspire and empower every attendee.
   notes: |
@@ -52,6 +52,19 @@ parties:
     Join us for drinks, appetizers, entertainment, and conversations with old and new friends in the Solutions Showcase. Explore the exhibit booths to learn more about the latest technologies, browse special offers and job posts, and much more.
   notes: |
     Official KubeCon party
+
+- name: ABBA Voyage with CAST AI
+  date: 2025-04-02
+  time: "7:45pm - 10pm"
+  website: https://cast.ai/event/abba-voyage/
+  location: The ABBA Arena London, UK
+  description: |
+    CAST AI community at Kubecon, London - this one is exclusively for you!
+
+    CAST AI is hosting a night you won't want to miss! Join us for an evening packed with innovative discussions and epic ABBA Voyage experience.
+
+    Blending cutting-edge technology, spectacular lighting, and some of the most beloved songs ever written, ABBA take to the stage in a whole new way. In a stunning, purpose-built arena, one of the most popular groups in history appear as digital avatars in a 'ground-breaking' (Metro) concert that really 'needs to be seen to be believed'.
+  notes: |
 
 - name: Kuberoke
   date: 2025-04-02
