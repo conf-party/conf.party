@@ -7,6 +7,15 @@ parties:
 # March 30th
 
 # March 31st
+- name: KubeTrain Party
+  date: 2025-03-31
+  time: "6:30am - 12:00pm"
+  website: https://tickets.kubetrain.io/
+  location: Big Chill King's Cross, 257-259, Pentonville Rd, London N1 9NL
+  description: |
+    Join us for the KubeTrain celebration as we welcome its arrival in London with an exciting party. Your ticket grants you access to a variety of drinks and a delicious spread of food for all attendees.
+  notes: |
+    Requires invite code to get tickets currently.
 
 # April 1st
 - name: OpenShift Commons Gathering hosted by Red Hat
