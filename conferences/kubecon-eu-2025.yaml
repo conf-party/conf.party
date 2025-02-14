@@ -39,6 +39,17 @@ parties:
     Dagger HackNight brings together developers and devops professionals of all levels to explore the possibilities of building and sharing CI/CD pipelines with Dagger. From hands-on labs to advanced projects, this event is designed to inspire and empower every attendee.
   notes: |
 
+- name: "A Night at the BAFTAs: Party Hosted by SUSE"
+  date: 2025-04-01
+  time: "6:30pm - 10:00pm"
+  website: https://more.suse.com/0007380_KubeCon_London_2025_LP---SUSE-Party.html
+  location: BAFTA 195 Piccadilly, London, W1J 9LN
+  description: |
+    Your mission, should you choose to accept it, is to join SUSE for "A Night at the BAFTAs," an exclusive evening reception. After a full day of tech talks and hands-on demos at SUSE Rancher Day, it's time to unwind.
+
+    We've secured an exclusive location:  BAFTA, 195 Piccadilly. The night will feature an array of delicious food, drinks and live entertainment. It's the perfect backdrop for connecting and plotting the next big move in cloud native tech. This is no ordinary party. This is your chance to relax, network and soak in the atmosphere. We'll see you there. The clock is ticking.
+  notes: |
+
 - name: House of Kube
   date: 2025-04-01
   time: "7pm - 2:00am"
