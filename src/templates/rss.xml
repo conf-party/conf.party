@@ -1,5 +1,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+    <atom:link href="https://conf.party/rss" rel="self" type="application/rss+xml" />
     <title>Conf.Party</title>
     <link>https://conf.party</link>
     <description>Parties and socials around conferences</description>

@@ -82,7 +82,7 @@ func build() {
 			return d
 		},
 		"now": func() string {
-			return time.Now().Format("Mon, 02 Jan 2006 15:04:05 MST")
+			return time.Now().Format("Mon, 02 Jan 2006 15:04:05 -0700")
 		},
 		"guid": func(party Party) string {
 			return base64.StdEncoding.EncodeToString([]byte(party.Date + party.Name))
