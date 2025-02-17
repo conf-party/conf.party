@@ -98,4 +98,14 @@ parties:
 
 # April 3rd
 
+- name: "Next Stop: Engineering Excellence"
+  date: 2025-04-03
+  time: "6pm - 8:30pm"
+  website: https://lu.ma/0s7ok21y
+  location: The Gun, 27 Docklands, Coldharbour, London E14 9NS
+  description: |
+    Join Cortex & PagerDuty for an exclusive networking event during KubeCon EU 2025 at The Gun, Docklands! This happy hour offers the perfect opportunity to connect with industry leaders, discuss the latest in engineering innovations, and discover how Cortex integrates with top partners to drive engineering excellence.
+  notes: |
+    This event requires approval.
+
 # April 4th
