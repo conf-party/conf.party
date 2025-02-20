@@ -98,6 +98,15 @@ parties:
 
 # April 3rd
 
+- name: "KubeCon Reception with The New Stack and MinIO"
+  date: 2025-04-03
+  time: "6pm - 8pm"
+  website: https://www.eventbrite.com/e/kubecon-reception-with-the-new-stack-and-minio-tickets-1227080443639
+  location: Novotel London Excel, 7 Western Gateway London E16 1AA
+  description: |
+    The New Stack is excited to be activating at KubeCon + CloudNativeCon in London from April 1-4! We'll be covering the presentations, doing interviews, recording videos on the show floor, and visiting vendor booths. Plus, we're teaming up with MinIO, the company that delivers high-performance, Kubernetes-native object storage, to co-host what promises to be your most rewarding evening of the conference.
+  notes: |
+
 - name: "Next Stop: Engineering Excellence"
   date: 2025-04-03
   time: "6pm - 8:30pm"
@@ -118,6 +127,6 @@ parties:
 
     KuBBBecon is an exclusive event, but would you also like to enjoy our cozy traditional Pub quiz with an English touch filled with beer, snacks, fun and lots of networking?
   notes: |
-    
+
 
 # April 4th
