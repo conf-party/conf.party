@@ -50,6 +50,16 @@ parties:
     We've secured an exclusive location:  BAFTA, 195 Piccadilly. The night will feature an array of delicious food, drinks and live entertainment. It's the perfect backdrop for connecting and plotting the next big move in cloud native tech. This is no ordinary party. This is your chance to relax, network and soak in the atmosphere. We'll see you there. The clock is ticking.
   notes: |
 
+- name: Isovalent Hive Mind Mingle KubeCon London
+  date: 2025-04-01
+  time: "7pm - 11pm"
+  website: https://isovalent.com/events/2025-04-01-hive-mind-mingle-london/
+  location: Pergola on the Wharf, Crossrail Pl, London E14 5AR
+  description: |
+    Our Hive Mind Mingle is a casual walking dinner to meet and exchange ideas with leading Cilium, Tetragon and eBPF enthusiasts. Join the brightest stars in the Cloud Native Computing Foundation (CNCF) community, tech enthusiasts, and industry leaders as well as our own: Liz Rice, Duffie Cooley, Dan Wendlandt & Thomas Graf. You won’t want to miss this chance to network and exchange ideas with the best and brightest!
+  notes: |
+    Currently waitlist only
+
 - name: House of Kube
   date: 2025-04-01
   time: "7pm - 2:00am"
