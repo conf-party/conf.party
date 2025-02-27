@@ -128,5 +128,18 @@ parties:
     KuBBBecon is an exclusive event, but would you also like to enjoy our cozy traditional Pub quiz with an English touch filled with beer, snacks, fun and lots of networking?
   notes: |
 
+- name: "KubeCon Regional Party"
+  date: 2025-04-03
+  time: "6:30pm - 10:00pm"
+  website: https://cast.ai/events/kubecon-europe/regional-party/
+  location: Hawksmoor Wood Wharf, Waterview Room, 1 Water St, London E14 5GX, United Kingdom
+  description: |
+    Join us on 3th April for an exclusive, invite-only event hosted by Alice&Bob, SFEIR and Cast AI.
+
+    The party will take place in a private venue at Hawksmoor Wood Wharf, just a few miles away from ExCel.
+
+    Connect with peers and industry experts while discovering strategies to reduce cloud costs, secure Kubernetes applications, and enhance DevOps efficiency.
+  notes: |
+
 
 # April 4th
