@@ -83,6 +83,22 @@ parties:
   notes: |
     Official KubeCon party
 
+- name: "Prime Cuts & Cloud: KubeCon Executive Dinner"
+  date: 2025-04-02
+  time: "7:30pm - 10:30pm"
+  website: https://lu.ma/cdh03pge
+  location: London
+  description: |
+    For: CTOs, Heads of Infrastructure, Heads of Engineering, Platform Engineering Leaders attending Kubecon.
+
+    After a full day of innovation and insights at KubeCon London, join us for an exclusive evening of fine dining, networking, and thought-provoking conversations around Kubernetes.
+
+    Hosted by Simplyblock, this private steakhouse dinner is an invite-only gathering for executives, founders, and technology leaders driving the future of Cloud, Kubernetes, AI, and Storage. Enjoy premium cuts, expertly paired wines, and a relaxed atmosphere to connect with industry peers beyond the conference floor.
+
+    Expect deep discussions, new connections, and a sophisticated setting to unwind and share perspectives on the evolving cloud-native landscape.
+  notes: |
+    Location available after registering
+
 - name: ABBA Voyage with CAST AI
   date: 2025-04-02
   time: "7:45pm - 10pm"
