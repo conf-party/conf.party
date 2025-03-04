@@ -124,6 +124,18 @@ parties:
 
 # April 3rd
 
+- name: "Happy Hour"
+  date: 2025-04-03
+  time: "5:30pm - 9:30pm"
+  website: https://get.embrace.io/kubecon-europe-2025-happy-hour
+  location: Tapa Tapa Restaurant | Warehouse K, Western Gateway, London E16 1DR, United Kingdom
+  description: |
+    Join Embrace, Grafana Labs, and Tailscale for a Post-KubeCon Happy Hour!
+
+    Come for the drinks, stay for the networking! Whether you're deep in the world of OpenTelemetry, scaling your infrastructure, or just want to connect with fellow engineers and tech leaders, this is the perfect opportunity to swap stories, share insights, and celebrate another successful KubeCon.
+  notes: |
+    The sign up form only worked on Chrome for me, not Firefox.
+
 - name: "KubeCon Reception with The New Stack and MinIO"
   date: 2025-04-03
   time: "6pm - 8pm"
