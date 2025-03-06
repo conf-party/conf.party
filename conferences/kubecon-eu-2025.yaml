@@ -136,6 +136,16 @@ parties:
   notes: |
     The sign up form only worked on Chrome for me, not Firefox.
 
+- name: "Pods, Pints & Power-Ups: The Ultimate K8s Arcade Night"
+  date: 2025-04-03
+  time: "6pm - 10pm"
+  website: https://pages.diagrid.io/boom-battle-bar-upbound
+  location: "Boom Battle Bar at the O2: 23 Entertainment Ave, London SE10 0DY"
+  description: |
+    The Diagrid and Upbound teams would love to see you at our party during KubeCon + CloudNativeCon Europe 2025.
+  notes: |
+    Admittance will be first come, first served in accordance to the venue's capacity guidelines. You will need your KubeCon pass and your photo ID to complete your registration at the door.
+
 - name: "KubeCon Reception with The New Stack and MinIO"
   date: 2025-04-03
   time: "6pm - 8pm"
