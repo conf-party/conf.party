@@ -28,6 +28,19 @@ parties:
   notes: |
     There is an open CFP to speak at this event also: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSUyb2bEr9zRsckdmpX32or5LV-vkcgHrivYDbNKMeFGRCnA/viewform">Google Forms</a>
 
+- name: DevSecOnTheRocks
+  date: 2025-04-01
+  time: "6:00pm - 9:30pm"
+  website: https://www.meetup.com/devsec-on-the-rocks/events/306435280/
+  location: Good Hotel London, Royal Victoria Dock E16 1FA, Western Gateway, by the Cable Car · London
+  description: |
+    Expect food, drinks, and flowing security insights as we bring together the best minds in DevSecOps for a night to remember.
+
+    Hosted by ControlPlane, Kusari, Cloudsmith and Spacelift, this event promises to celebrate security, collaboration, and community.
+
+    Spots are limited, so RSVP now and prepare to secure, sip, and socialise!
+  notes: |
+
 - name: Dagger HackNight hosted by Dagger
   date: 2025-04-01
   time: "6:00pm - 10:00pm"
