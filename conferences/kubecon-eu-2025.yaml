@@ -39,6 +39,18 @@ parties:
     Dagger HackNight brings together developers and devops professionals of all levels to explore the possibilities of building and sharing CI/CD pipelines with Dagger. From hands-on labs to advanced projects, this event is designed to inspire and empower every attendee.
   notes: |
 
+- name: "KubeCon Kickoff: Presented by Rootly x Cloudflare x CloudBees"
+  date: 2025-04-01
+  time: "6:30pm - 9:00pm"
+  website: https://lu.ma/fzbm52z0
+  location: Cloudflare, 6th Floor, County Hall/The, Riverside Building, Belvedere Rd, London SE1 7PB, UK
+  description: |
+    Kick off KubeCon in Style – A Night of Conversation, Connection, and Celebration
+
+    The KubeCon madness is about to begin, but before the deep dives and technical talks, Rootly, Cloudflare, and CloudBees invite you to an exclusive Kickoff Reception at one of the most stunning venues in London—Cloudflare’s private offices overlooking the River Thames.
+  notes: |
+    Approval required
+
 - name: "A Night at the BAFTAs: Party Hosted by SUSE"
   date: 2025-04-01
   time: "6:30pm - 10:00pm"
