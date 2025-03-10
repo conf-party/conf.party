@@ -194,6 +194,17 @@ parties:
     The New Stack is excited to be activating at KubeCon + CloudNativeCon in London from April 1-4! We'll be covering the presentations, doing interviews, recording videos on the show floor, and visiting vendor booths. Plus, we're teaming up with MinIO, the company that delivers high-performance, Kubernetes-native object storage, to co-host what promises to be your most rewarding evening of the conference.
   notes: |
 
+- name: "KubeCon Unwind: Presented by Spotify x Rootly x Infiscal"
+  date: 2025-04-03
+  time: "6pm - 9pm"
+  website: https://lu.ma/t5zxycim
+  location: Munich Cricket Club Canary Wharf, West India Quay, 12 Hertsmere Rd, London E14 4AE
+  description: |
+    Long day at KubeCon? It's time to unwind.
+
+    Join Rootly and Spotify for a relaxed, high-energy evening at Munich Cricket Club in Canary Wharf. No slides, no sales pitches—just great drinks, lively conversations, and the perfect setting to connect with peers after a full day at KubeCon.
+  notes: |
+
 - name: "Next Stop: Engineering Excellence"
   date: 2025-04-03
   time: "6pm - 8:30pm"
