@@ -60,7 +60,7 @@ parties:
   description: |
     Kick off KubeCon in Style – A Night of Conversation, Connection, and Celebration
 
-    The KubeCon madness is about to begin, but before the deep dives and technical talks, Rootly, Cloudflare, and CloudBees invite you to an exclusive Kickoff Reception at one of the most stunning venues in London—Cloudflare’s private offices overlooking the River Thames.
+    The KubeCon madness is about to begin, but before the deep dives and technical talks, Rootly, Cloudflare, and CloudBees invite you to an exclusive Kickoff Reception at one of the most stunning venues in London—Cloudflare's private offices overlooking the River Thames.
   notes: |
     Approval required
 
@@ -81,7 +81,7 @@ parties:
   website: https://isovalent.com/events/2025-04-01-hive-mind-mingle-london/
   location: Pergola on the Wharf, Crossrail Pl, London E14 5AR
   description: |
-    Our Hive Mind Mingle is a casual walking dinner to meet and exchange ideas with leading Cilium, Tetragon and eBPF enthusiasts. Join the brightest stars in the Cloud Native Computing Foundation (CNCF) community, tech enthusiasts, and industry leaders as well as our own: Liz Rice, Duffie Cooley, Dan Wendlandt & Thomas Graf. You won’t want to miss this chance to network and exchange ideas with the best and brightest!
+    Our Hive Mind Mingle is a casual walking dinner to meet and exchange ideas with leading Cilium, Tetragon and eBPF enthusiasts. Join the brightest stars in the Cloud Native Computing Foundation (CNCF) community, tech enthusiasts, and industry leaders as well as our own: Liz Rice, Duffie Cooley, Dan Wendlandt & Thomas Graf. You won't want to miss this chance to network and exchange ideas with the best and brightest!
   notes: |
     Currently waitlist only
 
@@ -123,6 +123,20 @@ parties:
     Expect deep discussions, new connections, and a sophisticated setting to unwind and share perspectives on the evolving cloud-native landscape.
   notes: |
     Location available after registering
+
+- name: "KubeCon After Dark - Hosted by Rootly, Checkly, and Coralogix"
+  date: 2025-04-02
+  time: "7:45pm - 10pm"
+  website: https://lu.ma/twxvg313
+  location: The Lockdown Room, Hopewell Square, Leamouth Peninsula, London E14 0SY
+  description: |
+    KubeCon doesn't end at the Expo—Rootly, Checkly, and Coralogic are making sure of that.
+
+    After a packed day of keynotes and sessions, come unwind at KubeCon After Dark. We've taken over The Lockdown Room, just minutes from ExCeL London, creating the perfect setting for great conversations, real connections, and a night that feels effortless.
+
+    Expect a lowkey, high-energy spot where engineering leaders, founders, and builders can talk without the noise of the expo floor. No stiff networking, no panels—just a well-designed space, solid drinks, and a crowd full of your peers.
+  notes: |
+    Approval required
 
 - name: ABBA Voyage with CAST AI
   date: 2025-04-02
