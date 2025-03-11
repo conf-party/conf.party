@@ -209,6 +209,20 @@ parties:
     The New Stack is excited to be activating at KubeCon + CloudNativeCon in London from April 1-4! We'll be covering the presentations, doing interviews, recording videos on the show floor, and visiting vendor booths. Plus, we're teaming up with MinIO, the company that delivers high-performance, Kubernetes-native object storage, to co-host what promises to be your most rewarding evening of the conference.
   notes: |
 
+- name: "German Community Stammtisch @ KubeCon London"
+  date: 2025-04-03
+  time: "6pm - 9pm"
+  website: https://www.eventbrite.com/e/german-community-stammtisch-kubecon-london-tickets-1256559325769
+  location: "The Fox, Excel, 2 Western Gateway #Warehouse K London E16 1DR"
+  description: |
+    Whether you're new to the Cloud Native ecosystem or a real veteran, this is the place to be for all members of the German Cloud Native & Kubernetes community 🇩🇪✨
+
+    Cloud Native Summit Munich team (formerly KCD Munich), Isovalent and Kubermatic have joined forces to host the first-ever German Community Stammtisch at KubeCon London!
+
+    Don't miss this opportunity to connect and meet new community members, share ideas, and make lasting connections in a relaxed and friendly setting. We will also have delicious lite bites and drinks for you to enjoy.
+  notes: |
+    Aimed at the German cloud native community
+
 - name: "KubeCon Unwind: Presented by Spotify x Rootly x Infiscal"
   date: 2025-04-03
   time: "6pm - 9pm"
@@ -249,7 +263,7 @@ parties:
   description: |
     Join Arm and Google at Fairgame for Drinks, Games & Networking
 
-    After a packed day of sessions, join us on 3 April 2025 at Fairgame, Canary Wharf—just one metro stop from the conference venue—for cocktails, craft beer, London’s hottest street food, and fairground games with the latest tech.
+    After a packed day of sessions, join us on 3 April 2025 at Fairgame, Canary Wharf—just one metro stop from the conference venue—for cocktails, craft beer, London's hottest street food, and fairground games with the latest tech.
 
     Whether you are already running your projects on Arm-based cloud or new to Arm, it is a great opportunity to meet up with the Arm and Google team, fellow attendees, and industry leaders in a fun and relaxed setting.
   notes: |
