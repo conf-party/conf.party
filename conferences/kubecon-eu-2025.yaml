@@ -28,6 +28,21 @@ parties:
   notes: |
     There is an open CFP to speak at this event also: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSUyb2bEr9zRsckdmpX32or5LV-vkcgHrivYDbNKMeFGRCnA/viewform">Google Forms</a>
 
+- name: KubeQonnect
+  date: 2025-04-01
+  time: "5:00pm - 9:00pm"
+  website: https://www.eventbrite.com/e/kubeqonnect-tickets-1224565952729
+  location: Tapa Tapa, Western Gateway, London, E16 1DR
+  description: |
+    Docker, Hashicorp and ITQ welcome you to KubeQonnect! Your chill Tuesday-evening post-Kubecon hangout with like-minded tech enthusiasts from across Europe!
+
+    ITQ is the premier cloud native consultancy in EMEA and we are proud to once again be attending Kubecon together with many of our customers.
+
+    Together with our good friends at Docker and Hashicorp, we are sponsoring the perfect little get-away. Location is a 5 min walk from the Kubecon Venue at the Excel.
+
+    Get away from the bustle and hussle of the conference floor, and come enjoy the London nightlife with peers, thought-leaders, and cloud native specialists, for stimulating conversations over dinner-and-drinks.
+  notes: |
+
 - name: DevSecOnTheRocks
   date: 2025-04-01
   time: "6:00pm - 9:30pm"
