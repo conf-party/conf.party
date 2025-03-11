@@ -215,6 +215,18 @@ parties:
   notes: |
     This event requires approval.
 
+- name: "Evening Social Hosted by Heroku + AWS"
+  date: 2025-04-03
+  time: "6pm - 9pm"
+  website: https://invite.salesforce.com/herokukubecon25londonhappyhour
+  location: Fremantle Bar & Kitchen, London, E16 1AL
+  description: |
+    Join Heroku and AWS on Thursday April 3, 6PM to 9:00PM at Fremantle Bar & Kitchen in London alongside KubeCon + CloudNativeCon North Europe, for delicious appetizers, vibrant cocktails, and the beats of our live DJ.
+
+    Don't miss the chance to capture memories at our Heroku photo booth and connect with fellow professionals in a relaxed setting. Whether you're a longtime Heroku user or new to our platform, this evening social is the perfect opportunity to network.
+  notes: |
+
+
 - name: "KuBBBecon: Benelux Bier Borrel"
   date: 2025-04-03
   time: "6:30pm - 12:00am"
