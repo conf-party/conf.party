@@ -191,6 +191,20 @@ parties:
 
 # April 3rd
 
+- name: "KubeCon London: Drinks on the Docks"
+  date: 2025-04-03
+  time: "4:30pm - 7pm"
+  website: https://lu.ma/jc9diqel
+  location: The Oiler Bar, Royal Victoria Docks, London, Royal Victoria Beach E16 1AG, UK
+  description: |
+    Join Incident.io, Kong, Oso, Pulumi and Sentry for an exclusive dockside happy hour as we unwind after KubeCon with great drinks, great company, and unbeatable waterfront views.
+
+    Set aboard a historic Royal Navy refueling vessel, The Oiler Bar offers a one-of-a-kind floating bar experience, featuring craft beers, cocktails, and an incredible atmosphere right on the Thames.
+
+    ​🍹 First come, first served! Arrive early to grab your spot before we hit capacity.
+  notes: |
+    Entry is 21+
+
 - name: "Happy Hour"
   date: 2025-04-03
   time: "5:30pm - 9:30pm"
