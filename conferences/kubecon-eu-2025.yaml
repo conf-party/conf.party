@@ -203,6 +203,15 @@ parties:
   notes: |
     The sign up form only worked on Chrome for me, not Firefox.
 
+- name: "Containers & Connections with Ubuntu"
+  date: 2025-04-03
+  time: "5:30pm - 9:30pm"
+  website: https://ubuntu.com/engage/after-kubecon-party-London-2025
+  location: Canonical London office, 3 More London Riverside, 3 More London Pl, London SE1 2RE, United Kingdom
+  description: |
+    It's KubeCon week in London, and we're continuing the conversation with a gathering of cloud-native experts, innovators, and thought leaders. This is your chance to step into an evening of deep discussions, networking, and discovery focused on the exciting world of containerization and cloud-native technologies.
+  notes: |
+
 - name: "Pods, Pints & Power-Ups: The Ultimate K8s Arcade Night"
   date: 2025-04-03
   time: "6pm - 10pm"
