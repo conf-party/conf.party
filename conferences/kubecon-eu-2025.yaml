@@ -80,13 +80,29 @@ parties:
     To celebrate Ivy's first birthday, we're giving away a VIP experience with The Chainsmokers. Register for this event to get one entry in the raffle, and attend to get five more entries.
   notes: |
 
+- name: "Cloud Native Nordics Meetup"
+  date: 2025-04-01
+  time: "6:00pm - 10:00pm"
+  website: https://community.cncf.io/events/details/cncf-cloud-native-goteborg-presents-cloud-native-nordics-kubecon-cloudnativecon-london/
+  location: The Oiler Bar, The Oiler Bar, Royal Victoria Docks, London, Royal Victoria Beach E16 1AG
+  description: |
+    Join us for an evening of great conversations, networking, and good vibes at the Cloud Native Nordics Meetup during KubeCon + CloudNativeCon EU! 🚀
+
+    This is your chance to meet fellow cloud native enthusiasts, share ideas, and get excited about the main conference. Whether you're deeply involved in the CNCF ecosystem or just getting started, everyone is welcome!
+
+    ☀️ If the weather is nice, we'll enjoy the evening outdoors. If not, we have a reserved indoor space below deck—so we're covered either way.
+
+    Come for the community, stay for the discussions, and leave with new connections. Looking forward to seeing you there!
+  notes: |
+    Food and drinks are available for purchase
+
 - name: "KubeCon Kickoff: Presented by Rootly x Cloudflare x CloudBees"
   date: 2025-04-01
   time: "6:30pm - 9:00pm"
   website: https://lu.ma/fzbm52z0
   location: Cloudflare, 6th Floor, County Hall/The, Riverside Building, Belvedere Rd, London SE1 7PB, UK
   description: |
-    Kick off KubeCon in Style – A Night of Conversation, Connection, and Celebration
+    Kick off KubeCon in Style - A Night of Conversation, Connection, and Celebration
 
     The KubeCon madness is about to begin, but before the deep dives and technical talks, Rootly, Cloudflare, and CloudBees invite you to an exclusive Kickoff Reception at one of the most stunning venues in London—Cloudflare's private offices overlooking the River Thames.
   notes: |
