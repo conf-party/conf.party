@@ -191,6 +191,15 @@ parties:
 
 # April 3rd
 
+- name: "DevZero Breakfast at KubeCon"
+  date: 2025-04-03
+  time: "8am - 10am"
+  website: https://lu.ma/wo13epmu
+  location: Good Hotel - London, Royal Victoria Dock, Western Gateway, London E16 1FA, UK
+  description: |
+    Join us for an exclusive executive breakfast at KubeCon, where you can connect with like-minded peers in a relaxed setting. This is a unique opportunity to network, share insights, and discuss the latest trends and innovations in the industry. There is no formal agenda, allowing for open and engaging conversations.
+  notes: |
+
 - name: "KubeCon London: Drinks on the Docks"
   date: 2025-04-03
   time: "4:30pm - 7pm"
