@@ -251,6 +251,17 @@ parties:
     It's KubeCon week in London, and we're continuing the conversation with a gathering of cloud-native experts, innovators, and thought leaders. This is your chance to step into an evening of deep discussions, networking, and discovery focused on the exciting world of containerization and cloud-native technologies.
   notes: |
 
+- name: "Tech and Tonics with Mirantis"
+  date: 2025-04-03
+  time: "6pm - 9pm"
+  website: https://docs.google.com/forms/d/e/1FAIpQLSdXaYIVaI9d05UvNQ0ISPO4MKoIIADhOPxZvH6nH9TxIa6HJg/viewform
+  location:  Waterfront Kitchen & Bar, Royal Victoria Dock, One Western Gateway, London E16 1XL
+  description: |
+    Unwind, connect, and recharge after a busy day at KubeCon + CloudNativeCon!🇬🇧
+
+    Join us for an exclusive evening of drinks, appetizers, and great company at the Waterfront Kitchen & Bar, conveniently located next to the conference center (ExCeL London).
+  notes: |
+
 - name: "Pods, Pints & Power-Ups: The Ultimate K8s Arcade Night"
   date: 2025-04-03
   time: "6pm - 10pm"
