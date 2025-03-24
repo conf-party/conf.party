@@ -364,6 +364,18 @@ parties:
     Connect with peers and industry experts while discovering strategies to reduce cloud costs, secure Kubernetes applications, and enhance DevOps efficiency.
   notes: |
 
+- name: "ZEDEDA KubeCon Karaoke"
+  date: 2025-04-03
+  time: "7pm - 11pm"
+  website: https://info.zededa.com/kubecon-eu-2025-karaoke
+  location: Fox Excel, 2 Western Gateway, London, E16 1DR
+  description: |
+    You're invited to join ZEDEDA on 3rd April from 7 PM to 11 PM at The Fox Excel in London for an evening of delightful canapés, refreshing drinks, and, of course, the finest karaoke in town!
+
+    Whether you're a seasoned karaoke champion or just looking to step out of your comfort zone, this is the ideal occasion to unwind and connect with others.
+  notes: |
+
+
 - name: "Pitango & Friends Bring You - THE KUBECLASH!"
   date: 2025-04-03
   time: "7pm - 12:00am"
