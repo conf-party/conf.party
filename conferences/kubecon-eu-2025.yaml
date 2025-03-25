@@ -230,6 +230,15 @@ parties:
   notes: |
     Entry is 21+
 
+- name: "ngrok Meetup @ KubeCon 2025"
+  date: 2025-04-03
+  time: "5pm - 9pm"
+  website: https://ngrok.com/info/kubecon-2025-ngrok-user-meetup
+  location: Gallions Hotel, Basin Approach, London E16 2QS
+  description: |
+    Join us for an exclusive ngrok meetup during KubeCon 2025! Whether you're an ngrok power user, a networking enthusiast, or just curious about seamless tunneling and secure ingress, this is your chance to connect with fellow developers and the ngrok team over great food and drinks.
+  notes: |
+
 - name: "Happy Hour"
   date: 2025-04-03
   time: "5:30pm - 9:30pm"
