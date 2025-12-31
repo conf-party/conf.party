@@ -1,0 +1,37 @@
+name: KubeCon + CloudNativeCon Europe 2026
+date: 2026-03-23
+endDate: 2026-03-26
+website: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+location: RAI Amsterdam Convention Centre, Amsterdam, Netherlands
+parties:
+- name: "KubeTrain Party"
+  date: 2026-03-22
+  time: "7pm - 11pm"
+  website: https://tickets.kubetrain.io
+  location: TBA
+  description: |
+    Celebrate your arrival in Amsterdam with the official KubeTrain Party — the highlight of our journey to KubeCon Europe 2026. After hours of shared travel, great conversations, and community vibes on the train, we wrap it all up with an evening to remember. Enjoy snacks, drinks, and music as the European Cloud Native community comes together to kick off KubeCon in style. It’s the perfect chance to meet new friends, reconnect with old ones, and start the week on a high note.
+  notes: |
+    Private party only available to those taking the KubeTrain to Amsterdam.
+
+- name: "#KubeCrawl + #CloudNativeFest"
+  date: 2026-03-24
+  time: "5:30pm - 7pm"
+  website: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/
+  location: Solutions Showcase, Halls 1 + 5, RAI Amsterdam Convention Centre, Amsterdam, Netherlands
+  description: |
+    Welcome, cloud native community! We’re excited to kick off our time in Amsterdam with you.
+
+    Join us for the official launch party, where you can enjoy entertainment, delicious food and drinks, and the chance to mingle with old friends and make new connections. Don’t forget to check out the sponsor booths for some amazing insights and opportunities.
+  notes: |
+    Official KubeCon party
+
+- name: Kuberoke
+  date: 2026-03-24
+  time: "9pm - 1am"
+  website: https://kuberoke.love/events/spring-party-amsterdam-2026/
+  location: Nightlife Amsterdam | Escape Club, Rembrandtplein 11, 1017 CT Amsterdam
+  description: |
+    That Cloud Native conference is coming to beautiful Amsterdam and to celebrate the occasion, we are hosting a Karaoke party on Tuesday March 24, 9pm - 1am at Escape Club on Rembrandtplein.
+  notes: |
+    Registration is required and will be available soon.
