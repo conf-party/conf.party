@@ -17,7 +17,7 @@ parties:
 - name: "#KubeCrawl + #CloudNativeFest"
   date: 2026-03-24
   time: "5:30pm - 7pm"
-  website: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/
+  website: https://kccnceu2026.sched.com/event/2CXvd/?iframe=no&w=100%&sidebar=yes&bg=no#kubecrawl-+-
   location: Solutions Showcase, Halls 1 + 5, RAI Amsterdam Convention Centre, Amsterdam, Netherlands
   description: |
     Welcome, cloud native community! We’re excited to kick off our time in Amsterdam with you.
