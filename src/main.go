@@ -115,10 +115,7 @@ func build() {
 				return
 			}
 			conf.Filename = strings.ReplaceAll(file.Name(), ".yaml", ".html")
-
-			if conf.EndDate > time.Now().Add(25*time.Hour).Format("2006-01-02") {
-				confs = append(confs, conf)
-			}
+			confs = append(confs, conf)
 		}
 	}
 
@@ -126,9 +123,18 @@ func build() {
 		return confs[i].Date > confs[j].Date
 	})
 
-	parties := []Party{}
-
+	upcomingConfs := []Conference{}
+	pastConfs := []Conference{}
 	for _, conf := range confs {
+		if conf.EndDate > time.Now().Add(25*time.Hour).Format("2006-01-02") {
+			upcomingConfs = append(upcomingConfs, conf)
+		} else {
+			pastConfs = append(pastConfs, conf)
+		}
+	}
+
+	parties := []Party{}
+	for _, conf := range upcomingConfs {
 		outFile, err := os.Create(path.Join(outDir, conf.Filename))
 		if err != nil {
 			log.Println("create file: ", err)
@@ -152,7 +158,14 @@ func build() {
 		return
 	}
 
-	if err := indexTmpl.Execute(outFile, confs); err != nil {
+	type TemplateVars struct {
+		Upcoming []Conference `json:"upcoming"`
+		Past     []Conference `json:"past"`
+	}
+	if err := indexTmpl.Execute(outFile, TemplateVars{
+		Upcoming: upcomingConfs,
+		Past:     pastConfs,
+	}); err != nil {
 		log.Println("template event: ", err)
 	}
 
