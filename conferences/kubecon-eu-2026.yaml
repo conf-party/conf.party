@@ -14,6 +14,22 @@ parties:
   notes: |
     Private party only available to those taking the KubeTrain to Amsterdam.
 
+- name: "House of Kube"
+  date: 2026-03-23
+  time: "7pm - 1am"
+  website: https://luma.com/dxft9tj1
+  location: TBA
+  description: |
+    Best event of the week, not even close.
+
+    The (Un)official opening party everyone talks about, but this time in Amsterdam.
+
+    You bring you, we take care of the rest.
+
+    Build real connections and hang out with pioneers from the cloud native world, enjoy the best food an music that Las Vegas has to offer (tss cocktails too), dance to the funkiest house and techno beats.
+  notes: |
+    This is an invite only event. We will confirm your registration right away
+
 - name: "#KubeCrawl + #CloudNativeFest"
   date: 2026-03-24
   time: "5:30pm - 7pm"
