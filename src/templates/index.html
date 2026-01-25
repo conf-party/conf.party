@@ -15,6 +15,15 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
   <style>
+    h1 .socials {
+      display: flex;
+      justify-content: center;
+    }
+    h1 .socials svg {
+      width: 40px;
+      height: 40px;
+    }
+
     h3 {
       margin-bottom: 0;
     }
@@ -45,7 +54,21 @@
 <body>
   <div class="container">
     <img src="img/logo.jpg" style="display: block;text-align: center;margin:10px auto; max-width:200px; border-radius: 200px;;" />
-    <h1 style="text-align: center;">Conf.Party</h1>
+    <h1 style="text-align: center;">
+      Conf.Party
+      <div class="socials">
+        <a rel="me" href="https://mastodon.social/@confparty">
+          <svg xmlns="http://www.w3.org/2000/svg" aria-label="Mastodon" role="img" viewBox="0 0 512 512" fill="#fff">
+            <path d="m0 0H512V512H0"/><linearGradient id="a" y2="1"><stop offset="0" stop-color="#6364ff"/><stop offset="1" stop-color="#563acc"/></linearGradient><path fill="url(#a)" d="M317 408q-55 32-138 9-57-23-70-69-6-21-9-53-9-116 3-147 19-48 75-58 64-10 162 0 53 9 72 58 6 15 3 116-5 67-72 80-80 13-149-2-1 67 123 39"/><path d="M360 202q0-51-43-60-35-5-51 21l-9 15-9-15q-18-26-51-21-43 9-44 60v91h36V205q0-31 30-28 20 3 20 34v47h36V211q0-31 20-34 28-3 29 23v93h36"/>
+          </svg>
+        </a>
+        <a rel="me" href="https://bsky.app/profile/conf.party">
+          <svg xmlns="http://www.w3.org/2000/svg" aria-label="Bluesky" role="img" viewBox="0 0 512 512">
+            <path d="m0 0H512V512H0" fill="#fff"/><path d="M159 126c-28-22-74-38-74 14 0 11 6 88 9 101 13 43 57 54 97 48-69 11-87 50-49 89 72 75 104-18 112-42l2-5 2 5c8 24 40 117 112 42 38-39 20-78-49-89 40 6 84-5 97-48 3-13 9-90 9-101 0-52-46-36-74-14-39 29-82 89-97 121-15-32-58-92-97-121Z" fill="#1185fe"/>
+          </svg>
+        </a>
+      </div>
+    </h1>
 
     <h2>Upcoming Conferences</h2>
     {{ range .Upcoming }}
