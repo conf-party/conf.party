@@ -52,6 +52,16 @@ parties:
   notes: |
     Registration is required and will be available soon.
 
+- name: Isovalent Hive Mind Mingle
+  date: 2026-03-25
+  time: "7pm - 11pm"
+  website: https://isovalent.com/events/2026-kubecon-hive-mind-mingle-amsterdam/
+  location: LuminAir, Oosterdoksstraat 4, Amsterdam, NL
+  description: |
+    The 🐝 Hive Mind Mingle 🐝 brings together people to connect on Cloud Native networking and security. Our goal is to bring together a community of people to discuss what it takes to build great infrastructure and exchange buzzing ideas about Cilium, Tetragon, eBPF and beyond.
+  notes: |
+    Registration is for the waitlist and doesn't guarentee a ticket
+
 - name: KubeCon Reception with The New Stack, Dynatrace & Akamas
   date: 2026-03-25
   time: "6pm - 8pm"
