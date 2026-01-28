@@ -70,3 +70,14 @@ parties:
   description: |
     Join us on the waterfront at Zuidpool in Amsterdam as the cloud native community connects and celebrates!
   notes: ""
+
+- name: KuBBBecon
+  date: 2026-03-25
+  time: "6pm - 9pm"
+  website: https://docs.google.com/forms/d/e/1FAIpQLSfXiWpGaogZ4HQVleIBTPms9bCPaVTN6KI1r0uNIYbyW3EQ3Q/viewform
+  location: Knijn Bowling, Scheldeplein 3, 1078GR Amsterdam
+  description: |
+    Are you in Amsterdam for KubeCon? Why not join us at the Benelux Bowling Borrel on Wednesday, March the 25th at 18h00 in Knijn Bowling, Scheldeplein 3, 1078GR Amsterdam (only 7 minutes away from KubeCon, just across the street of the RAI).
+
+    KuBBBecon is an invite-only event, but would you also like to enjoy our cozy traditional Dutch evening filled with bowling, beer, snacks, fun and lots of networking? Please complete the form below and you might be able to get a spot!
+  notes: ""
