@@ -52,16 +52,6 @@ parties:
   notes: |
     Registration is required and will be available soon.
 
-- name: Isovalent Hive Mind Mingle
-  date: 2026-03-25
-  time: "7pm - 11pm"
-  website: https://isovalent.com/events/2026-kubecon-hive-mind-mingle-amsterdam/
-  location: LuminAir, Oosterdoksstraat 4, Amsterdam, NL
-  description: |
-    The 🐝 Hive Mind Mingle 🐝 brings together people to connect on Cloud Native networking and security. Our goal is to bring together a community of people to discuss what it takes to build great infrastructure and exchange buzzing ideas about Cilium, Tetragon, eBPF and beyond.
-  notes: |
-    Registration is for the waitlist and doesn't guarentee a ticket
-
 - name: KubeCon Reception with The New Stack, Dynatrace & Akamas
   date: 2026-03-25
   time: "6pm - 8pm"
@@ -80,4 +70,27 @@ parties:
     Are you in Amsterdam for KubeCon? Why not join us at the Benelux Bowling Borrel on Wednesday, March the 25th at 18h00 in Knijn Bowling, Scheldeplein 3, 1078GR Amsterdam (only 7 minutes away from KubeCon, just across the street of the RAI).
 
     KuBBBecon is an invite-only event, but would you also like to enjoy our cozy traditional Dutch evening filled with bowling, beer, snacks, fun and lots of networking? Please complete the form below and you might be able to get a spot!
+  notes: ""
+
+- name: Isovalent Hive Mind Mingle
+  date: 2026-03-25
+  time: "7pm - 11pm"
+  website: https://isovalent.com/events/2026-kubecon-hive-mind-mingle-amsterdam/
+  location: LuminAir, Oosterdoksstraat 4, Amsterdam, NL
+  description: |
+    The 🐝 Hive Mind Mingle 🐝 brings together people to connect on Cloud Native networking and security. Our goal is to bring together a community of people to discuss what it takes to build great infrastructure and exchange buzzing ideas about Cilium, Tetragon, eBPF and beyond.
+  notes: |
+    Registration is for the waitlist and doesn't guarentee a ticket
+
+- name: Cloud Cruise Amsterdam
+  date: 2026-03-25
+  time: "7pm - 11pm"
+  website: https://events.cast.ai/cloudcruiseams_march25/social
+  location: Centraal Station, Oceandiva, 1012 AB Amsterdam Amsterdam NH, 1012 AB
+  description: |
+    Meeting Point: board the Oceandiva at Centraal Station. All boarding details will be sent to you via email.
+
+    Join Cast AI, Cloudsmith, Chainguard, Excelien, Datafy, and CloudZero for an Amsterdam Canal CRUISE, where innovation meets networking. Boarding will take place at Centraal Station. We will then navigate together on the Amsterdam Canal for 1 hour and dock again for 2 hours, so you can get on or off as you please.
+
+    Discover how to cut cloud costs, optimize storage, secure containers, streamline software management, achieve full cost visibility, and innovate faster, all in one evening!
   notes: ""
