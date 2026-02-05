@@ -134,7 +134,7 @@ func build() {
 	}
 
 	parties := []Party{}
-	for _, conf := range upcomingConfs {
+	for _, conf := range confs {
 		outFile, err := os.Create(path.Join(outDir, conf.Filename))
 		if err != nil {
 			log.Println("create file: ", err)
