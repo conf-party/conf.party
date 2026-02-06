@@ -10,7 +10,7 @@ parties:
   website: https://tickets.kubetrain.io
   location: TBA
   description: |
-    Celebrate your arrival in Amsterdam with the official KubeTrain Party — the highlight of our journey to KubeCon Europe 2026. After hours of shared travel, great conversations, and community vibes on the train, we wrap it all up with an evening to remember. Enjoy snacks, drinks, and music as the European Cloud Native community comes together to kick off KubeCon in style. It’s the perfect chance to meet new friends, reconnect with old ones, and start the week on a high note.
+    Celebrate your arrival in Amsterdam with the official KubeTrain Party — the highlight of our journey to KubeCon Europe 2026. After hours of shared travel, great conversations, and community vibes on the train, we wrap it all up with an evening to remember. Enjoy snacks, drinks, and music as the European Cloud Native community comes together to kick off KubeCon in style. It's the perfect chance to meet new friends, reconnect with old ones, and start the week on a high note.
   notes: |
     Private party only available to those taking the KubeTrain to Amsterdam.
 
@@ -36,11 +36,29 @@ parties:
   website: https://kccnceu2026.sched.com/event/2CXvd/?iframe=no&w=100%&sidebar=yes&bg=no#kubecrawl-+-
   location: Solutions Showcase, Halls 1 + 5, RAI Amsterdam Convention Centre, Amsterdam, Netherlands
   description: |
-    Welcome, cloud native community! We’re excited to kick off our time in Amsterdam with you.
+    Welcome, cloud native community! We're excited to kick off our time in Amsterdam with you.
 
-    Join us for the official launch party, where you can enjoy entertainment, delicious food and drinks, and the chance to mingle with old friends and make new connections. Don’t forget to check out the sponsor booths for some amazing insights and opportunities.
+    Join us for the official launch party, where you can enjoy entertainment, delicious food and drinks, and the chance to mingle with old friends and make new connections. Don't forget to check out the sponsor booths for some amazing insights and opportunities.
   notes: |
     Official KubeCon party
+
+- name: "Off the Wire"
+  date: 2026-03-24
+  time: "7pm - 10pm"
+  website: https://luma.com/sanskife?locale=en-GB
+  location: Amsterdam, The Netherlands
+  description: |
+    Off the Wire is a private gathering during KubeCon week for leaders and community shaping modern K8s platforms and beyond.
+
+    Expect a thoughtful mix of practitioners and decision-makers, strong technical perspectives, and conversations grounded in real operational experience... packaged in a fun environment.
+
+    Hosted by NetBird.
+
+    Food and drinks plenty.
+
+    If you're here, you're trusted.
+  notes: |
+    Approval Required
 
 - name: Kuberoke
   date: 2026-03-24
