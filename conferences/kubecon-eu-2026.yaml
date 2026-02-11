@@ -14,6 +14,21 @@ parties:
   notes: |
     Private party only available to those taking the KubeTrain to Amsterdam.
 
+- name: "Nordic Night Out at KubeCon + CloudNativeCon EU"
+  date: 2026-03-23
+  time: "5:30pm - 9pm"
+  website: https://community.cncf.io/events/details/cncf-cloud-native-goteborg-presents-nordic-night-out-at-kubecon-cloudnativecon-eu/
+  location: Market 33, Claude Debussylaan 33, Amsterdam, 1082
+  description: |
+    Join us for a special "Nordic Night Out" where we aim to bring together our community, strengthen our bonds, and enjoy the vibrant spirit of the Nordics. This gathering is a fantastic opportunity to meet fellow enthusiasts, share experiences, and maybe even spark some new collaborations.
+
+    Our venue is Market 33, a food market with bar, where we have space reserved. In order to make reservations better, ensure you RSVP so we can ensure we have the right amount of space!
+
+    For those interested in sponsoring, we would love to hear from you!
+
+    Let's create a memorable evening in Amsterdam and spread the camaraderie of our Cloud Native Nordics community. Sign up, mark your calendars, and stay tuned for more details!
+  notes: ""
+
 - name: "House of Kube"
   date: 2026-03-23
   time: "7pm - 1am"
