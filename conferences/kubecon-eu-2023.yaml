@@ -3,6 +3,7 @@ date: 2023-04-18
 endDate: 2023-04-21
 website: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 location: RAI Amsterdam Convention Centre, Amsterdam, Netherlands
+timezone: Europe/Amsterdam
 parties:
 - name: SKYY Bar Happy Hour Hosted by Harness
   date: 2023-04-17

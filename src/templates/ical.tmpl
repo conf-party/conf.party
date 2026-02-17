@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//conf.party//Conf.Party Parties//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:{{.Name}}
+X-WR-CALDESC:Parties and socials
+X-WR-TIMEZONE:UTC
+{{range .Parties -}}
+BEGIN:VEVENT
+UID:{{guid .}}@conf.party
+DTSTAMP:{{icalnow}}
+DTSTART;TZID={{.Timezone}}:{{icalTime . 0 }}
+DTEND;TZID={{.Timezone}}:{{icalTime . 1 }}
+SUMMARY:{{replace .Name "\n" "\\n"}}
+DESCRIPTION:{{replace .Description "\n" "\\n"}}
+LOCATION:{{replace .Location "\n" "\\n"}}
+URL:{{replace .Website "\n" "\\n"}}
+END:VEVENT
+{{end -}}
+END:VCALENDAR

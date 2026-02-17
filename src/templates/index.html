@@ -28,6 +28,11 @@
       margin-bottom: 0;
     }
 
+    .ical {
+      text-align: center;
+      font-size: 1.6em;
+    }
+
     .date {
       display: inline-block;
       border: 1px solid black;
@@ -69,6 +74,9 @@
         </a>
       </div>
     </h1>
+    <div class="ical">
+      <a href="/conf-parties.ics">🗓 Subscribe to iCal</a>
+    </div>
 
     <h2>Upcoming Conferences</h2>
     {{ range .Upcoming }}

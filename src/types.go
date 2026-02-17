@@ -13,6 +13,7 @@ type Conference struct {
 	EndDate  string  `yaml:"endDate"`
 	Website  string  `yaml:"website"`
 	Location string  `yaml:"location"`
+	Timezone string  `yaml:"timezone"`
 	Parties  []Party `yaml:"parties"`
 }
 
@@ -26,6 +27,7 @@ type Party struct {
 	Notes       string `yaml:"notes"`
 
 	// Dynamic
+	Timezone   string
 	Conference string
 }
 

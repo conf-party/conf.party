@@ -3,6 +3,7 @@ date: 2024-03-19
 endDate: 2024-03-22
 website: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 location: PARIS EXPO PORTE DE VERSAILLES, Paris, France
+timezone: Europe/Paris
 parties:
 - name: KubeTrain Party
   date: 2024-03-18

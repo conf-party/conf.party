@@ -3,6 +3,7 @@ date: 2026-03-23
 endDate: 2026-03-26
 website: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 location: RAI Amsterdam Convention Centre, Amsterdam, Netherlands
+timezone: Europe/Amsterdam
 parties:
 - name: "KubeTrain Party"
   date: 2026-03-22

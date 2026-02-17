@@ -3,6 +3,7 @@ date: 2025-04-01
 endDate: 2025-04-04
 website: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 location: Crowne Plaza London Docklands
+timezone: Europe/London
 parties:
 # March 30th
 

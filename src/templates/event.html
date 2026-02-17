@@ -114,7 +114,7 @@
         <iframe src="https://maps.google.com/maps?q={{ .Location }}&z=10&output=embed" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
       <div>
-        <h2>{{len .Parties}} Parties</h2>
+        <h2>{{len .Parties}} Parties - <small><a href="{{replace .Filename  ".html" ".ics"}}">🗓 Subscribe to iCal</a></small></h2>
         {{range $i, $p := .Parties}}
         {{if (eq $i 0)}}
         <div class="day">{{day $p.Date}}</div>

@@ -84,18 +84,43 @@ func build() {
 		"now": func() string {
 			return time.Now().Format("Mon, 02 Jan 2006 15:04:05 -0700")
 		},
+		"icalnow": func() string {
+			return time.Now().Format("20060102T150405")
+		},
 		"guid": func(party Party) string {
 			return base64.StdEncoding.EncodeToString([]byte(party.Date + party.Name))
+		},
+		"replace": func(str, old, new string) string {
+			return strings.ReplaceAll(str, old, new)
+		},
+		"icalTime": func(party Party, timeIndex int) string {
+			dateTimeString := strings.ReplaceAll(party.Date, "-", "") + "T"
+
+			parts := strings.Split(party.Time, " - ")
+			if len(parts) == 0 {
+				return dateTimeString + "000000"
+			}
+			startTime := parts[timeIndex]
+			t, err := time.Parse("3:04pm", startTime)
+			if err != nil {
+				t, err = time.Parse("3pm", startTime)
+			}
+			if err == nil {
+				return dateTimeString + t.Format("1504") + "00"
+			}
+			return dateTimeString + "000000"
 		},
 	}
 
 	indexFile, _ := os.ReadFile(path.Join(rootDir, "./src/templates/index.html"))
 	eventFile, _ := os.ReadFile(path.Join(rootDir, "./src/templates/event.html"))
 	rssFile, _ := os.ReadFile(path.Join(rootDir, "./src/templates/rss.xml"))
+	icalFile, _ := os.ReadFile(path.Join(rootDir, "./src/templates/ical.tmpl"))
 
 	indexTmpl, _ := template.New("index").Funcs(templateFuncs).Parse(string(indexFile))
 	eventTmpl, _ := template.New("event").Funcs(templateFuncs).Parse(string(eventFile))
 	rssTmpl, _ := template.New("rss").Funcs(templateFuncs).Parse(string(rssFile))
+	icalTmpl, _ := template.New("ical").Funcs(templateFuncs).Parse(string(icalFile))
 
 	confs := []Conference{}
 
@@ -146,9 +171,22 @@ func build() {
 		}
 
 		// Populate conference name and add to slice
-		for _, party := range conf.Parties {
-			party.Conference = conf.Name
-			parties = append(parties, party)
+		for i, _ := range conf.Parties {
+			conf.Parties[i].Conference = conf.Name
+			conf.Parties[i].Timezone = conf.Timezone
+			parties = append(parties, conf.Parties[i])
+		}
+
+		// Generate iCal feed
+		icalFilename := strings.ReplaceAll(conf.Filename, ".html", ".ics")
+		icalFile, err := os.Create(path.Join(outDir, icalFilename))
+		if err != nil {
+			log.Println("create file: ", err)
+			return
+		}
+
+		if err := icalTmpl.Execute(icalFile, conf); err != nil {
+			log.Println("template ical: ", err)
 		}
 	}
 
@@ -179,6 +217,23 @@ func build() {
 
 		if err := rssTmpl.Execute(outFile, parties); err != nil {
 			log.Println("template event: ", err)
+		}
+	}
+
+	// ical feed for all parties
+	{
+		icalFile, err := os.Create(path.Join(outDir, "conf-parties.ics"))
+		if err != nil {
+			log.Println("create file: ", err)
+			return
+		}
+
+		icalConf := Conference{
+			Name:    "Conf.Parties",
+			Parties: parties,
+		}
+		if err := icalTmpl.Execute(icalFile, icalConf); err != nil {
+			log.Println("template ical: ", err)
 		}
 	}
 
