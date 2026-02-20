@@ -30,6 +30,22 @@ parties:
     Let's create a memorable evening in Amsterdam and spread the camaraderie of our Cloud Native Nordics community. Sign up, mark your calendars, and stay tuned for more details!
   notes: ""
 
+- name: "KubeCon Europe Kickoff w/ Rootly AI, Cloudsmith, Embrace, Kusari, Pulumi, & Checkly"
+  date: 2026-03-23
+  time: "6pm - 9pm"
+  website: https://luma.com/w6caiiiz
+  location: Amsterdam, The Netherlands
+  description: |
+    Amsterdam, are you ready to press START?
+
+    Before the deep dives into Kubernetes and cloud-native architectures begin, we're taking over the night for the ultimate pre-conference power-up. Join us for an evening where high scores meet high notes as we celebrate the community and the start of an incredible week.
+
+    Whether you're a joystick pro, a tabletop strategist, or a closet rockstar, this is the place to be. We're blending the best of retro gaming, modern consoles, and a stage dedicated to your best (and most enthusiastic) karaoke performances.
+
+    Photography Disclaimer: Please note that filming/photography is taking place at the event for promotional and archival purposes. These images will be used by Rootly to share news about the event and will appear on the Rootly website and may appear on our social media. If you have any questions, please contact us at any time.
+  notes: |
+    Approval Required
+
 - name: "House of Kube"
   date: 2026-03-23
   time: "7pm - 1am"
@@ -57,6 +73,20 @@ parties:
     Join us for the official launch party, where you can enjoy entertainment, delicious food and drinks, and the chance to mingle with old friends and make new connections. Don't forget to check out the sponsor booths for some amazing insights and opportunities.
   notes: |
     Official KubeCon party
+
+- name: "KubeCon Europe Unwind w/ Rootly AI, Checkly, Cloudsmith, & Spotify for Backstage"
+  date: 2026-03-24
+  time: "6pm - 9pm"
+  website: https://luma.com/xhbu7sxo
+  location: Amsterdam, The Netherlands
+  description: |
+    After the deep dives into cloud-native architecture and the buzz of the KubeCon Europe expo floor, it's time to trade the lanyards for a laid-back coastal breeze. We're having an Amsterdam beach vibes for an evening dedicated to decompression and authentic connection.
+
+    Join us at The Boat House, where the industrial charm of the harbor meets the relaxed energy of a seaside retreat. This isn't just another networking mixer; it's a space to kick back, share stories from the week, and build lasting relationships outside the confines of the conference center.
+
+    Photography Disclaimer: Please note that filming/photography is taking place at the event for promotional and archival purposes. These images will be used by Rootly to share news about the event and will appear on the Rootly website and may appear on our social media. If you have any questions, please contact us at any time.
+  notes: |
+    Approval Required
 
 - name: "Off the Wire"
   date: 2026-03-24
