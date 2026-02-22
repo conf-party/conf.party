@@ -183,3 +183,27 @@ parties:
 
     Discover how to cut cloud costs, optimize storage, secure containers, streamline software management, achieve full cost visibility, and innovate faster, all in one evening!
   notes: ""
+
+- name: Kube-napping! Phippy's Abduction on the Canals
+  date: 2026-03-25
+  time: "8pm - 12am"
+  website: https://luma.com/jc94rwdg?locale=en-GB
+  location: Centraal Station, Oceandiva, 1012 AB Amsterdam Amsterdam NH, 1012 AB
+  description: |
+    The Ultimate Cloud Native Escape Room Party!
+
+    Phippy has been kidnapped. The only way to save her? Solve cloud native challenges.
+
+    See full details at savephippy.com
+
+    Enlisting in Linky's Investigative Team
+
+    To join the investigation and secure your place at the ultimate Cloud Native Escape Room Party, your first mission is to solve the first clue by completing the initial challenge. This clue is required for every aspiring Cluster Detective! Follow the instructions in the email you'll receive after registering. Space is limited, so register every team member to secure your slots and help solve the mystery.
+
+    The Abduction Mystery
+
+    A dark deployment has settled over the canals of Amsterdam. Phippy has vanished! A mysterious note, signed only by an "Unknown Controller," has been found near her last sighting—a cryptic warning tied to a corrupted cluster. Join the ultimate Cloud Native Escape Room Party, a high-stakes service mesh "murder mystery" where Linky the Lobster, Linkerd's trusty mascot, is on the case.
+
+    Co-hosted by Buoyant and Merge Forward, this event challenges participants, Linky's investigative team, to use their Kubernetes and Linkerd skills to follow the traces, find the logs, and solve the technical clues to find Phippy before her liveness probe fails permanently. During the investigation, Phippy's friends will provide cryptic clues and debugging tips about her whereabouts.
+  notes: |
+    See full details at savephippy.com
