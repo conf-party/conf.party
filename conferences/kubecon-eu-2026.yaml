@@ -30,6 +30,29 @@ parties:
     Let's create a memorable evening in Amsterdam and spread the camaraderie of our Cloud Native Nordics community. Sign up, mark your calendars, and stay tuned for more details!
   notes: ""
 
+- name: "Isovalent eBee Quest at KubeCon Amsterdam"
+  date: 2026-03-23
+  time: "6:30pm - 8pm"
+  website: https://isovalent.com/events/2026-03-ebee-quest-at-kubecon-ams/
+  location: nhow Amsterdam RAI, Europaboulevard 2b, Amsterdam, NL
+  description: |
+    Get the chance to join your peers in the community while choosing your Isovalent lab path. We'll have our key experts onsite to help you navigate and answer any questions you have.
+
+    What to expect:
+
+    Think 'work zone' where you can eat, drink, and connect with your community while tackling the labs. Got specific questions or need a quick walkthrough? Our expert, will be right there to guide you.
+
+    * We kick off the event at 18:30 CET, right after the co-located event ends.
+    * Don't forget to bring your laptop so you can participate in the Quest!
+    * Do you have a registration code? We manage this event through a waitlist as we have limited capacity, but with a code we release you faster from the waitlist!
+
+    Discover the World of Cilium:
+    * 🗺️ Embark on an interactive lab adventure to unlock your inner eBee as you navigate a dynamic map of cloud-native challenges. Whether your passion lies in networking, security, or observability, there's a unique path designed just for you.
+    * 🛠️ Learn new hands-on skills and apply your knowledge to real-world scenarios with our self-guided labs. As you progress, unlock new islands on the map and earn badges to showcase your expertise.
+    * 🏆 Compete with fellow participants on the leaderboard and snag some awesome prizes if you're at the top!
+  notes: |
+    You will require a laptop to participate.
+
 - name: "KubeCon Europe Kickoff w/ Rootly AI, Cloudsmith, Embrace, Kusari, Pulumi, & Checkly"
   date: 2026-03-23
   time: "6pm - 9pm"
