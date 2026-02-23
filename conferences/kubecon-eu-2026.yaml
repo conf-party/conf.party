@@ -34,6 +34,21 @@ parties:
     - 🌆 A scenic canal cruise, experiencing Amsterdam from the water
   notes: ""
 
+- name: "KubeQonnect 2026"
+  date: 2026-03-23
+  time: "5pm - 8:30pm"
+  website: https://itq.eu/event/kubeqonnect-2026/
+  location: Strand Zuid (Zuidpool) - the restaurant, Europaplein 22, 1078 GZ Amsterdam
+  description: |
+    KubeQonnect is where we bring together tech enthusiasts to network, learn, and connect over What's Next in Kubernetes!
+
+    ITQ welcome you to KubeQonnect! Your chill Monday-evening post-KubeCon hangout with like-minded tech enthusiasts from across Europe.
+
+    ITQ is the premier cloud native consultancy in EMEA and we are proud to once again be attending KubeCon together with many of our customers.
+
+    Get away from the bustle and hussle of the conference floor, and come enjoy the Amsterdam nightlife with peers, thought-leaders, and cloud native specialists, for stimulating conversations over dinner-and-drinks for free.
+  notes: ""
+
 - name: "Nordic Night Out at KubeCon + CloudNativeCon EU"
   date: 2026-03-23
   time: "5:30pm - 9pm"
