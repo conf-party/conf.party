@@ -15,6 +15,25 @@ parties:
   notes: |
     Private party only available to those taking the KubeTrain to Amsterdam.
 
+- name: "KubeCon Amsterdam | Canal Cruise"
+  date: 2026-03-23
+  time: "4:30pm - 7pm"
+  website: https://event.nutanix.com/kubeconamsterdamboatcruise/social
+  location: Wharf Amsterdam Central Station, Amsterdam, Netherlands
+  description: |
+    **Start Your KubeCon Week the Best Way Possible**
+    What's a better way to open KubeCon + CloudNativeCon Europe 2026 than cruising through the iconic canals of Amsterdam? Join fellow Kubernetes and cloud native experts for a relaxed yet inspiring cruise where great conversations flow as easily as the views.
+
+    **Connect With Peers & Like-Minded Cloud Native Professionals**
+    This exclusive gathering brings together platform engineers, architects, DevOps leaders, and cloud-native innovators in a setting designed for meaningful exchange. Whether you're diving deep into CNCF technologies all week or exploring Kubernetes trends, this is the perfect warm-up.
+
+    What to Expect
+    - ✨ A short, insightful presentation on what we expect from KubeCon EMEA 2026
+    - 🤝 Networking with peers from across Europe and beyond
+    - 🍹 Drinks & bites served on board
+    - 🌆 A scenic canal cruise, experiencing Amsterdam from the water
+  notes: ""
+
 - name: "Nordic Night Out at KubeCon + CloudNativeCon EU"
   date: 2026-03-23
   time: "5:30pm - 9pm"
