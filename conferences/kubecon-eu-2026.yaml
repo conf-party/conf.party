@@ -87,6 +87,21 @@ parties:
   notes: |
     You will require a laptop to participate.
 
+- name: "Tulips & Taps: Welkom to Kubecon Happy Hour"
+  date: 2026-03-23
+  time: "6pm - 8pm"
+  website: https://luma.com/q0zk8pyy?tk=RYjFy0
+  location: Heineken Experience, Stadhouderskade 78, 1072 AE Amsterdam, Netherlands
+  description: |
+    Kick off KubeCon + CloudNativeCon EU in true Amsterdam style.
+
+    Join Edera, Antithesis, Dash0, groundcover, Minimus, and The New Stack at the iconic Heineken Brewery as the global cloud native community gathers for the very first evening of the week. Set inside the historic Molenzolder — once home to Heineken's malt mill — this unique space blends Amsterdam brewing heritage with the elegance of 1889 Parisian Art Nouveau.
+
+    Expect an energetic, welcoming atmosphere with drinks, appetizers, entertainment, and plenty of space to connect before the conference begins. Whether you're meeting longtime collaborators or making new connections, this is where KubeCon EU starts.
+
+    Proost to tulips, taps, and the week ahead.
+  notes: ""
+
 - name: "KubeCon Europe Kickoff w/ Rootly AI, Cloudsmith, Embrace, Kusari, Pulumi, & Checkly"
   date: 2026-03-23
   time: "6pm - 9pm"
@@ -216,6 +231,17 @@ parties:
     Are you in Amsterdam for KubeCon? Why not join us at the Benelux Bowling Borrel on Wednesday, March the 25th at 18h00 in Knijn Bowling, Scheldeplein 3, 1078GR Amsterdam (only 7 minutes away from KubeCon, just across the street of the RAI).
 
     KuBBBecon is an invite-only event, but would you also like to enjoy our cozy traditional Dutch evening filled with bowling, beer, snacks, fun and lots of networking? Please complete the form below and you might be able to get a spot!
+  notes: ""
+
+- name: KubeCon Europe Surf's Up Social
+  date: 2026-03-25
+  time: "6pm - 9pm"
+  website: https://luma.com/ntd7k9za?tk=B3V1cS
+  location: Strandzuid, Europaplein 22, 1078 GZ Amsterdam, Netherlands
+  description: |
+    When the convention center doors close, the real connection begins. Join us for the ultimate KubeCon Europe after event as we trade the fluorescent lights for sunset hues at The Beach House.
+
+    We're bringing a "Beach Vibes & Playground" theme to the coast, creating a space where the cloud native community can kick off their shoes, grab a drink, and dive into the future of tech.
   notes: ""
 
 - name: Isovalent Hive Mind Mingle
