@@ -343,3 +343,22 @@ parties:
     Co-hosted by Buoyant and Merge Forward, this event challenges participants, Linky's investigative team, to use their Kubernetes and Linkerd skills to follow the traces, find the logs, and solve the technical clues to find Phippy before her liveness probe fails permanently. During the investigation, Phippy's friends will provide cryptic clues and debugging tips about her whereabouts.
   notes: |
     See full details at savephippy.com
+
+- name: The Path to Excellence - A Cortex Bike Tour
+  date: 2026-03-26
+  time: "9am - 11am"
+  website: https://events.cortex.io/path-to-excellence/parties
+  location: RAI Amsterdam Convention Centre, Amsterdam, Netherlands
+  description: |
+    Trade the "sea of noise" for the streets of Amsterdam.
+
+    Visibility is always better from a bike seat. Before the final rush of KubeCon sessions, step away from the dashboard and join the Cortex team for a private guided tour through the "Venice of the North." We're trading fragmented data for hidden bridges and complex architectures for cobblestone streets.
+
+    The Meeting Point: We'll gather outside the RAI Amsterdam (Main Entrance) at 9:00 AM sharp.
+
+    The Route: A ~90-minute private guided tour through Amsterdam's most iconic sights.
+
+    The Gear: To ensure you stay reliable even in Dutch weather, every rider gets a limited edition Cortex rain jacket.
+
+    The Return: We'll have you back at the RAI by 11:00 AM, refreshed and ready to tackle the final day of KubeCon.
+  notes: ""
