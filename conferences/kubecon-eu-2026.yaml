@@ -244,6 +244,24 @@ parties:
     We're bringing a "Beach Vibes & Playground" theme to the coast, creating a space where the cloud native community can kick off their shoes, grab a drink, and dive into the future of tech.
   notes: ""
 
+- name: "Arcade night: Amsterdam"
+  date: 2026-03-25
+  time: "6:15pm - 10pm"
+  website: https://luma.com/arcadenight
+  location: Picnic HQ, Van Marwijk Kooystraat 15, 1114 AG Amsterdam, Netherlands
+  description: |
+    🎮 Insert coin: Arcade night!
+
+    Join incident.io, Aikido, Picnic, and Cortex for a retro-inspired happy hour in Amsterdam. Whether you're in town for KubeCon or just live locally and want to meet great people in the engineering community, stop by!
+
+    Think classic arcade vibes, good drinks, and even better company.
+
+    No panels. No pitches. Just games, music, and a relaxed night.
+
+    Grab a drink, challenge someone to a round, and stay awhile!
+  notes: |
+    Approval Required
+
 - name: Isovalent Hive Mind Mingle
   date: 2026-03-25
   time: "7pm - 11pm"
