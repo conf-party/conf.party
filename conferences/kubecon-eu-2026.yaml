@@ -244,6 +244,30 @@ parties:
     We're bringing a "Beach Vibes & Playground" theme to the coast, creating a space where the cloud native community can kick off their shoes, grab a drink, and dive into the future of tech.
   notes: ""
 
+- name: "OOPS!... It's An Incident Again"
+  date: 2026-03-25
+  time: "6pm - 9pm"
+  website: https://luma.com/3hm471q5
+  location: Amsterdam, Netherlands
+  description: |
+    "I played with the prod, got lost in the logs, oh, baby, baby..."
+
+    A "Humans in the Loop" Happy Hour with PagerDuty & Uptime Labs!
+
+    Join PagerDuty and Uptime Labs for a mid-KubeCon break that proves you're not that innocent: sometimes, it really is the human element that breaks (and fixes) the build.
+
+    We're taking over Amsterdam for an evening dedicated to the unsung heroes of the stack: The Humans in the Loop. While our systems get more complex, the role of the human in incident response has never been more critical. Come trade your real-time operations stories, share your best "oops" moments, and learn how to keep the "human" in your high-availability architecture.
+
+    What to expect:
+
+    🎤 Lightning Keynotes from PagerDuty and Uptime Labs on why automation is great, but humans are essential
+
+    🍻 Sip & Savour: Delicious local bites and refreshing drinks to fuel you through the rest of KubeCon week
+
+    🤝 The OOPs Group: Connect with the "Outage and Incident Management" community, because misery loves company, but resilience loves a party.
+  notes: |
+    Approval Required
+
 - name: "Arcade night: Amsterdam"
   date: 2026-03-25
   time: "6:15pm - 10pm"
