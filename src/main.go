@@ -100,14 +100,32 @@ func build() {
 			if len(parts) == 0 {
 				return dateTimeString + "000000"
 			}
-			startTime := parts[timeIndex]
-			t, err := time.Parse("3:04pm", startTime)
-			if err != nil {
-				t, err = time.Parse("3pm", startTime)
+
+			getTime := func(part string) string {
+				startTime, err := time.Parse("3:04pm", part)
+				if err != nil {
+					startTime, err = time.Parse("3pm", part)
+				}
+				if err == nil {
+					return startTime.Format("1504")
+				}
+				return "0000"
 			}
-			if err == nil {
-				return dateTimeString + t.Format("1504") + "00"
+
+			startTime := getTime(parts[0])
+			endTime := getTime(parts[1])
+			if timeIndex == 0 {
+				return dateTimeString + startTime + "00"
 			}
+			if timeIndex == 1 {
+				if startTime > endTime {
+					// If end time is smaller than start time, it means the party ends on the next day
+					startTimeString, _ := time.Parse("20060102T", dateTimeString)
+					dateTimeString = startTimeString.Add(24 * time.Hour).Format("20060102T")
+				}
+				return dateTimeString + endTime + "00"
+			}
+
 			return dateTimeString + "000000"
 		},
 	}
