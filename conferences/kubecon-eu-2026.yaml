@@ -91,7 +91,16 @@ parties:
 
     Whether you're a joystick pro, a tabletop strategist, or a closet rockstar, this is the place to be. We're blending the best of retro gaming, modern consoles, and a stage dedicated to your best (and most enthusiastic) karaoke performances.
 
-    Photography Disclaimer: Please note that filming/photography is taking place at the event for promotional and archival purposes. These images will be used by Rootly to share news about the event and will appear on the Rootly website and may appear on our social media. If you have any questions, please contact us at any time.
+    Photography Disclaimer: Please note that filming/photography is taking place at the event for promotional and archival purposes. These images will be used by Rootly to share news about the event and will appear on the Rootly website and may appear on our social media. If you have any questions, please contact us at any time.
+  notes: |
+    Approval Required
+
+- name: "The Auto-Pilot Mixer: Day-0 After Party"
+  date: 2026-03-23
+  time: "6pm - 10pm"
+  website: https://luma.com/n8pwnlq0
+  location: Amstel Boathouse, Amsteldijk 223, 1079 LK Amsterdam, Netherlands
+  description: ""
   notes: |
     Approval Required
 
@@ -247,6 +256,27 @@ parties:
     That Cloud Native conference is coming to beautiful Amsterdam and to celebrate the occasion, we are hosting a Karaoke party on Tuesday March 24, 9pm - 1am at Escape Club on Rembrandtplein.
   notes: |
     Registration is required and will be available soon.
+
+- name: Turn Coffee Into Code
+  date: 2026-03-25
+  time: "9:30am - 11:30am"
+  website: https://luma.com/jnqkr968
+  location: Brasserie Nenette, Europaplein 71, 1078 GX Amsterdam, Netherlands
+  description: |
+    Hosted by d11z and joined by infra-startups from our portfolio, as well as trusted partners.
+
+    Join us for an exclusive, invite-only morning at the fringes of KubeCon Amsterdam.
+
+    In an industry that runs on high-scale clusters and high-voltage caffeine, the first brew of the day is often the most important. We are bringing together a hand-picked circle of founders from the cloud-native ecosystem for a relaxed networking brunch.
+
+    No pitches, no sponsors on stage, just high-quality coffee, great food, and candid conversations about the future of infrastructure.
+
+    📋 The Agenda
+
+    * Peer-to-Peer Networking: Connect with industry leaders in an intimate, private setting.
+    * Brunch & Brews: Fuel up for the day with a premium breakfast spread and artisan coffee in the heart of Amsterdam.
+  notes: |
+    Approval Required
 
 - name: Sunset Social
   date: 2026-03-25
