@@ -157,6 +157,20 @@ parties:
   notes: |
     Official KubeCon party
 
+- name: "#Hotservability Challenge"
+  date: 2026-03-24
+  time: "5:30pm - 7pm"
+  website: https://luma.com/aoxd40j9
+  location: Booth 760, Solutions Showcase, Halls 1 + 5, RAI Amsterdam Convention Centre, Amsterdam, Netherlands
+  description: |
+    Watch observability leaders face the heat in our Hotservability Challenge as the sauces get hotter and hotter. Then grab a bite, try them yourself, and see how long you last while connecting with fellow attendees over observability and AI.
+
+    Register in advance to enter the prize draw.
+
+    First come, first served. You won't want to miss it!
+  notes: |
+    This is within the official KubeCon booth crawl event
+
 - name: "KubeCon Europe Unwind w/ Rootly AI, Checkly, Cloudsmith, & Spotify for Backstage"
   date: 2026-03-24
   time: "6pm - 9pm"
