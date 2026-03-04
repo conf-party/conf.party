@@ -171,6 +171,16 @@ parties:
   notes: |
     Approval Required
 
+- name: "German Stammtisch"
+  date: 2026-03-24
+  time: "6:30pm - 10pm"
+  website: https://www.kubermatic.com/kubecon-stammtisch/
+  location: Bar Valdi, Antonio Vivaldistraat 3, 1083 HP Amsterdam
+  description: |
+    On March 24, Kubermatic, Isovalent, Chainguard and CLYSO are delighted to see you at the upcoming KubeCon + CloudNativeCon Europe 2026 in Amsterdam. Since we are all already gathering for the show, we are thrilled to invite you to a relaxed and informal Stammtisch that promises an evening filled with small bites, wonderful company, and unforgettable memories.
+  notes: |
+    Please RSVP by March 22nd to ensure accurate count for dinner preparations.
+
 - name: "Off the Wire"
   date: 2026-03-24
   time: "7pm - 10pm"
