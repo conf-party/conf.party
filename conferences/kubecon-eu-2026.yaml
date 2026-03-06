@@ -218,6 +218,35 @@ parties:
   notes: |
     Please RSVP by March 22nd to ensure accurate count for dinner preparations.
 
+- name: "The After-Deploy Party"
+  date: 2026-03-24
+  time: "7pm - 10pm"
+  website: https://luma.com/va3yr5lt
+  location: The Traveller, Europaplein 2, 1078 GZ Amsterdam, Netherlands
+  description: |
+    You've survived the expo hall.
+
+    You've scanned the badges.
+
+    You've debated sidecars vs. gateways.
+
+    Now it's time to close the tabs and grab a drink.
+
+
+    Join Shipfox, Varnish Software, and VictoriaMetrics for a laid-back evening with fellow engineers and platform builders.
+
+    No talks.
+
+    No product walkthroughs.
+
+    Just drinks, good food, and good conversations with people who live and breathe tech.
+
+    Come as you are. Bring your stories from the day.
+
+    Let's unwind.
+  notes: |
+    Approval Required
+
 - name: "Off the Wire"
   date: 2026-03-24
   time: "7pm - 10pm"
