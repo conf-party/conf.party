@@ -351,6 +351,29 @@ parties:
   notes: |
     Approval Required
 
+- name: Builders Happy Hour
+  date: 2026-03-25
+  time: "6:30pm - 9:30pm"
+  website: https://luma.com/al8bui4v
+  location: The Harbour Club, Apollolaan 2, 1077 BA Amsterdam, Netherlands
+  description: |
+    In Amsterdam for KubeCon?
+
+    Come grab drinks with us. Depot · PlanetScale · PostHog
+
+    We rented a waterfront spot. There's a bar, there's food, and nobody's doing a presentation.
+
+    Sliders, tacos, good drinks. Talk about what's shipping, what's broken, or nothing work-related at all.
+
+    What's there:
+
+    * Open bar
+    * Food
+    * Swag (the good kind)
+    * Zero slide decks
+  notes: |
+    Approval Required
+
 - name: Isovalent Hive Mind Mingle
   date: 2026-03-25
   time: "7pm - 11pm"
