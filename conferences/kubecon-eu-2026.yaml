@@ -15,6 +15,20 @@ parties:
   notes: |
     Private party only available to those taking the KubeTrain to Amsterdam.
 
+- name: "GitHub Social Club: Amsterdam"
+  date: 2026-03-23
+  time: "10am - 4pm"
+  website: https://luma.com/githubsocialclub-amsterdam
+  location: Ceintuur Theater, Ceintuurbaan 282, 1072 GK Amsterdam, Netherlands
+  description: |
+    GitHub Social Club: Amsterdam is a chill, hangout for devs, builders, and anyone who loves shipping and breaking things. No agenda, no pitch - just good people, great conversations and plenty of snacks.
+
+    Drop in anytime or grab a time slot if you want guaranteed focus time. We'll have yummy treats from our friends at Ceintuur Theater, GitHub swag, and lots of stickers!
+
+    Whether you're local or in town for Kubecon or Agentics Day: MCP + Agents, join us for coding and conversation. Come connect with Hubbers, other developers and builders, share your latest Copilot discovery, or just casually mingle.
+  notes: |
+    Approval Required
+
 - name: "KubeCon Amsterdam | Canal Cruise"
   date: 2026-03-23
   time: "4:30pm - 7pm"
