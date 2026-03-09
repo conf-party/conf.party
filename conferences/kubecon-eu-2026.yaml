@@ -376,6 +376,39 @@ parties:
   notes: |
     Approval Required
 
+- name: "Flip the Future: Crossplane at The Upside Down"
+  date: 2026-03-25
+  time: "6pm - 10pm"
+  website: https://luma.com/4p2vmisl
+  location: The Upside Down Amsterdam, Europaboulevard 5, 1079 PC Amsterdam, Netherlands
+  description: |
+    After a full day at KubeCon + CloudNativeCon, come unwind with the Crossplane and Kubernetes community.
+
+    Upbound, the creators of Crossplane, is hosting an evening dedicated to practitioners, operators, and contributors who are building the next generation of cloud-native infrastructure. And the best part? It's directly across the street from RAI Amsterdam (a 3-minute walk) at one of Amsterdam's most unique spaces, The Upside Down Amsterdam.
+
+    This immersive museum experience features:
+
+    25+ interactive rooms with optical illusions
+
+    Art-themed installations inspired by modern Holland
+
+    An LED-light ball pit
+
+    A dedicated photo booth because no good community moment should go undocumented
+
+    What to Expect
+
+    Space to talk platforms, control planes, and the future of intelligent infrastructure
+
+    An immersive museum experience to have unforgettable moments
+
+    Light bites and drinks
+
+    Music and good energy
+
+    This is a free event for KubeCon attendees, but you must present your KubeCon badge at the door for entry.
+  notes: ""
+
 - name: "Arcade night: Amsterdam"
   date: 2026-03-25
   time: "6:15pm - 10pm"
