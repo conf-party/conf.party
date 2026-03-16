@@ -48,6 +48,17 @@ parties:
     - 🌆 A scenic canal cruise, experiencing Amsterdam from the water
   notes: ""
 
+- name: "Happy Hour with Calico"
+  date: 2026-03-23
+  time: "5pm - 7pm"
+  website: https://www.tigera.io/lp/happy-hour-with-calico-europe-2026/
+  location: The Harbour Club, Apollolaan 2, 1077 BA Amsterdam, Netherlands
+  description: |
+    Join Tigera, the creators of Calico, for an evening of networking at this stunning waterfront destination. Whether you are looking to swap stories from the trenches or simply want to decompress before the main conference, this is the place to be.
+
+    Our Happy Hour with Calico events have become a staple of the KubeCon + CloudNativeCon experience. This year, Tigera is hosting this iconic Networking Reception & Peer-to-Peer Exchange at one of Amsterdam’s most celebrated landmarks: The Harbour Club Amsterdam Zuid, where you can enjoy premium drinks and local Dutch bites in a world-class setting.
+  notes: ""
+
 - name: "KubeQonnect 2026"
   date: 2026-03-23
   time: "5pm - 8:30pm"
