@@ -387,6 +387,20 @@ parties:
   notes: |
     Approval Required
 
+- name: "Future of Kubernetes: Cloud and AI Infra"
+  date: 2026-03-24
+  time: "7:00 PM - 9:30 PM"
+  website: https://luma.com/28cq1bmb
+  location: The Upside Down Amsterdam, Europaboulevard 5, 1079 PC Amsterdam, Netherlands
+  description: |
+    Food & Drinks & a Panel at Upside Down Amsterdam experience.
+    
+    The panel brings together leaders from JPMorgan Chase, NVIDIA, and vCluster Labs to explore how to run Kubernetes at enterprise and AI scale. Topics include provisioning clusters in seconds, enabling testing on real infrastructure, supporting burstable workloads such as CI and GPU compute, and designing resilient, enterprise-grade platforms.
+
+    The discussion also covers how platform teams balance developer autonomy with governance, while optimizing infrastructure cost and operations across regions and data centers.
+  notes: |
+    Approval Required
+
 - name: "Flip the Future: Crossplane at The Upside Down"
   date: 2026-03-25
   time: "6pm - 10pm"
