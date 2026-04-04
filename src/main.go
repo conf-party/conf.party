@@ -178,6 +178,11 @@ func build() {
 
 	parties := []Party{}
 	for _, conf := range confs {
+		// First sort the parties
+		sort.Slice(conf.Parties, func(i, j int) bool {
+			return conf.Parties[i].Date < conf.Parties[j].Date
+		})
+
 		outFile, err := os.Create(path.Join(outDir, conf.Filename))
 		if err != nil {
 			log.Println("create file: ", err)
